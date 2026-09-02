@@ -1,6 +1,11 @@
 name: Build calendars
 
 on:
+  schedule:
+    # Mondays, so the week starts with the weekend's changes already in.
+    # Off the hour on purpose: scheduled runs queue behind the crowd that asks
+    # for :00.
+    - cron: "17 4 * * 1"
   workflow_dispatch:
     inputs:
       scrape:
@@ -26,11 +31,22 @@ concurrency:
   group: build-calendars
   cancel-in-progress: false
 
+env:
+  # GitHub switches a scheduled workflow off after 60 days without repository
+  # activity. The check has to fire well before that: this workflow only looks
+  # once a week, so a threshold at the deadline would first notice on day 63,
+  # by which point the schedule is already off and the run never happens.
+  KEEPALIVE_AFTER_DAYS: 50
+
 jobs:
   build:
     runs-on: ubuntu-latest
-    outputs:
-      changed: ${{ steps.commit.outputs.changed }}
+    env:
+      # Inputs exist only on a manual dispatch. A scheduled run reads them as
+      # empty, so each toggle falls back to on.
+      DO_SCRAPE: ${{ github.event_name != 'workflow_dispatch' || inputs.scrape }}
+      DO_COMMIT: ${{ github.event_name != 'workflow_dispatch' || inputs.commit }}
+      DO_DEPLOY: ${{ github.event_name != 'workflow_dispatch' || inputs.deploy }}
     steps:
       - uses: actions/checkout@v4
 
@@ -39,7 +55,7 @@ jobs:
           python-version: "3.12"
 
       - name: Scrape the game center
-        if: ${{ inputs.scrape }}
+        if: ${{ env.DO_SCRAPE == 'true' }}
         run: python scripts/scrape.py
 
       - name: Build the site
@@ -48,40 +64,59 @@ jobs:
       - name: Check the generated calendars
         run: python -m unittest discover -s tests -v
 
-      - name: Commit refreshed data and calendars
-        id: commit
-        if: ${{ inputs.commit }}
+      - name: Configure git
+        if: ${{ env.DO_COMMIT == 'true' }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit refreshed data and calendars
+        if: ${{ env.DO_COMMIT == 'true' }}
+        run: |
           git add data docs
           if git diff --cached --quiet; then
-            echo "changed=false" >> "$GITHUB_OUTPUT"
             echo "Nothing changed."
           else
             git commit -m "Refresh calendars from the game center"
             git push
-            echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
+
+      # Off-season the fixtures stop moving, so the run above commits nothing
+      # and the repository can go quiet long enough for GitHub to disable the
+      # cron. An empty commit is the cheapest way to stay active. It reads the
+      # real age of the branch tip rather than assuming anything about when
+      # this run happens, so a missed or manual run cannot skip the refresh.
+      - name: Keep the weekly schedule alive
+        if: ${{ env.DO_COMMIT == 'true' }}
+        run: |
+          age=$(( ( $(date +%s) - $(git log -1 --format=%ct) ) / 86400 ))
+          echo "Branch tip is $age day(s) old, threshold is $KEEPALIVE_AFTER_DAYS."
+          if [ "$age" -lt "$KEEPALIVE_AFTER_DAYS" ]; then
+            echo "Recent enough; the schedule stays enabled."
+            exit 0
+          fi
+          echo "Pushing an empty commit to keep the schedule enabled."
+          git commit --allow-empty -m "Keep the weekly build schedule alive"
+          git push
 
       # Turns Pages on and points it at Actions. Without this the deploy job
       # fails with a bare "Not Found" on a repository that has never had Pages
       # enabled by hand.
       - name: Enable GitHub Pages
-        if: ${{ inputs.deploy }}
+        if: ${{ env.DO_DEPLOY == 'true' }}
         uses: actions/configure-pages@v5
         with:
           enablement: true
 
       - name: Upload the Pages artifact
-        if: ${{ inputs.deploy }}
+        if: ${{ env.DO_DEPLOY == 'true' }}
         uses: actions/upload-pages-artifact@v3
         with:
           path: docs
 
   deploy:
     needs: build
-    if: ${{ inputs.deploy }}
+    if: ${{ github.event_name != 'workflow_dispatch' || inputs.deploy }}
     runs-on: ubuntu-latest
     environment:
       name: github-pages

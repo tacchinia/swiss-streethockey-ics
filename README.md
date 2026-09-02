@@ -93,8 +93,8 @@ No inferred duration ever exceeds two hours.
 
 ## Publishing
 
-The `Build calendars` workflow runs on manual dispatch only
-(**Actions → Build calendars → Run workflow**) with three toggles:
+The `Build calendars` workflow runs every Monday at 04:17 UTC, and on manual
+dispatch (**Actions → Build calendars → Run workflow**) with three toggles:
 
 | Input | Default | Effect |
 | --- | --- | --- |
@@ -102,8 +102,35 @@ The `Build calendars` workflow runs on manual dispatch only
 | `commit` | true | commit refreshed `data/` and `docs/` back to the branch |
 | `deploy` | true | publish `docs/` to GitHub Pages |
 
+A scheduled run has no inputs, so all three default to on there. That is why
+each step tests `github.event_name != 'workflow_dispatch' || inputs.<toggle>`
+rather than `inputs.<toggle>` alone, which would read as false on a schedule and
+skip the whole build.
+
 The tests run between the build and the commit, so a broken parser cannot
 publish empty calendars.
+
+### Keeping the schedule alive
+
+GitHub disables a scheduled workflow after 60 days without repository activity.
+Off-season the fixtures stop moving, the build commits nothing, and the cron
+would eventually switch itself off.
+
+The `Keep the weekly schedule alive` step measures the real age of the branch
+tip and pushes an empty commit once it passes `KEEPALIVE_AFTER_DAYS`. Reading
+the tip's age rather than assuming a cadence means a missed run, a manual run or
+a change of schedule cannot let the repository go quiet unnoticed.
+
+That threshold is 50 days, not 60, and the gap is deliberate. The workflow only
+looks once a week, so a check written against the 60-day deadline would first
+find the repository too quiet on day 63 — by which point the schedule is already
+off and that run never happens. Fifty days leaves a week of slack plus margin
+for a skipped run.
+
+The empty commit is pushed with the workflow's own `GITHUB_TOKEN`. Such a push
+does not trigger further workflow runs, which is what keeps this from looping.
+If GitHub ever stops counting bot pushes as repository activity, the fallback is
+to check out with a personal access token instead.
 
 The workflow enables Pages itself and points it at Actions, so a fresh clone or
 fork needs no click in the settings. A repository that has never had Pages
