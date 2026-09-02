@@ -105,12 +105,13 @@ The `Build calendars` workflow runs on manual dispatch only
 The tests run between the build and the commit, so a broken parser cannot
 publish empty calendars.
 
-To serve the site, pick one in **Settings → Pages**:
+The workflow enables Pages itself and points it at Actions, so a fresh clone or
+fork needs no click in the settings. A repository that has never had Pages
+enabled and lacks that step fails the deploy job with a bare `Not Found`.
 
-- **GitHub Actions** as the source, which the `deploy` job handles. This is what
-  the workflow expects.
-- **Deploy from a branch** with the `/docs` folder. In that case run the
-  workflow with `deploy` off, since the commit alone publishes the site.
+To serve the site from the branch instead, set **Settings → Pages** to deploy
+from `main` and the `/docs` folder, then run the workflow with `deploy` off:
+the commit alone publishes the site.
 
 ## Subscribing
 

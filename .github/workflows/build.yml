@@ -64,6 +64,15 @@ jobs:
             echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
 
+      # Turns Pages on and points it at Actions. Without this the deploy job
+      # fails with a bare "Not Found" on a repository that has never had Pages
+      # enabled by hand.
+      - name: Enable GitHub Pages
+        if: ${{ inputs.deploy }}
+        uses: actions/configure-pages@v5
+        with:
+          enablement: true
+
       - name: Upload the Pages artifact
         if: ${{ inputs.deploy }}
         uses: actions/upload-pages-artifact@v3
