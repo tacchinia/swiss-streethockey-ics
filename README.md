@@ -57,8 +57,10 @@ erase games as they are played. Instead `data/games.json` is merged on each run:
 - a fixture whose time, teams or venue changed gets a new `LAST-MODIFIED` and a
   bumped `SEQUENCE`, which is what tells a subscribed calendar to update the
   event,
-- a fixture that is unchanged is left byte-for-byte alone, so reruns produce no
-  diff,
+- a fixture that is unchanged is left byte-for-byte alone, so a quiet week
+  changes nothing but the single run stamp at the top of the file. No record
+  carries a per-game "seen at" timestamp: stamping one on every run rewrote all
+  thousand-odd records each week and buried the fixtures that actually moved,
 - a **future** fixture that vanishes from the site is marked cancelled and its
   event becomes `STATUS:CANCELLED` rather than disappearing silently,
 - a **past** fixture that vanishes is simply history, and is kept.

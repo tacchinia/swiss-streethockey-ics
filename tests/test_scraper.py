@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import copy
 import datetime as dt
 import sys
 import unittest
@@ -68,15 +69,19 @@ class MergeTest(unittest.TestCase):
         self.assertEqual(game["status"], "confirmed")
         self.assertEqual(game["sequence"], 0)
 
-    def test_unchanged_rerun_leaves_the_events_alone(self):
+    def test_unchanged_rerun_leaves_the_records_untouched(self):
+        # No per-game "seen at" stamp, so a quiet week produces no diff in
+        # data/games.json beyond the single run stamp at the top of the file.
+        before = copy.deepcopy(self.dataset["games"])
         counts = merge(
             self.dataset, self.leagues, self.scraped, "2026-09-02T00:00:00Z"
         )
         self.assertEqual(counts["unchanged"], 4)
-        game = next(iter(self.dataset["games"].values()))
-        self.assertEqual(game["sequence"], 0)
-        self.assertEqual(game["last_modified"], "2026-09-01T00:00:00Z")
-        self.assertEqual(game["last_seen"], "2026-09-02T00:00:00Z")
+        self.assertEqual(self.dataset["games"], before)
+
+    def test_the_run_stamp_still_moves_on_a_quiet_rerun(self):
+        merge(self.dataset, self.leagues, self.scraped, "2026-09-02T00:00:00Z")
+        self.assertEqual(self.dataset["scraped_at"], "2026-09-02T00:00:00Z")
 
     def test_a_rescheduled_game_bumps_the_sequence(self):
         moved = [dict(game) for game in self.scraped]

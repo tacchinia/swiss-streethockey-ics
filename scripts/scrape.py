@@ -123,7 +123,6 @@ def merge(dataset: dict, leagues: list[dict], scraped: list[dict], now: str) -> 
                 "status": "confirmed",
                 "sequence": 0,
                 "first_seen": now,
-                "last_seen": now,
                 "last_modified": now,
             }
             counts["new"] += 1
@@ -133,7 +132,9 @@ def merge(dataset: dict, leagues: list[dict], scraped: list[dict], now: str) -> 
         reinstated = existing.get("status") != "confirmed"
         existing.update(game)
         existing["status"] = "confirmed"
-        existing["last_seen"] = now
+        # Deliberately no per-game "seen at" stamp: writing one on every run
+        # rewrote every record each week and buried the fixtures that actually
+        # moved. The run is dated once, at the top of the file.
         if changed or reinstated:
             existing["sequence"] = existing.get("sequence", 0) + 1
             existing["last_modified"] = now
@@ -158,7 +159,7 @@ def merge(dataset: dict, leagues: list[dict], scraped: list[dict], now: str) -> 
     dataset["schema"] = 1
     dataset["scraped_at"] = now
     dataset["source"] = GAME_CENTER
-    dataset["leagues"] = [{**league, "last_seen": now} for league in leagues]
+    dataset["leagues"] = list(leagues)
     dataset["games"] = dict(sorted(stored.items(), key=lambda kv: kv[1]["start"]))
     return counts
 
