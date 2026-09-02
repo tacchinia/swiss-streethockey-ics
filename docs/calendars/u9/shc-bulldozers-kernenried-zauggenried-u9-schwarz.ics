@@ -1,0 +1,408 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//swiss-streethockey-ics//Game center calendars//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SHC Bulldozers Kernenried-Zauggenried U9 schwarz · U9
+X-WR-CALDESC:Matchs de SHC Bulldozers Kernenried-Zauggenried U9 schwarz en 
+ U9 (source: https://www.swiss-streethockey.ch/fr/game-center/prochains-mat
+ chs/).
+X-WR-TIMEZONE:Europe/Zurich
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+X-LIC-LOCATION:Europe/Zurich
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:11489-299@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20260913T100000
+DTEND;TZID=Europe/Zurich:20260913T102000
+SUMMARY:SHC Bulldozers Kernenried-Zauggenried U9 schwarz vs SHC Bulldozers 
+ Kernenried-Zauggenried U9 weiss
+LOCATION:Kernenried\, Suisse
+DESCRIPTION:Ligue: U9\nDomicile: SHC Bulldozers Kernenried-Zauggenried U9 s
+ chwarz\nVisiteurs: SHC Bulldozers Kernenried-Zauggenried U9 weiss\nLieu du
+  match: Kernenried\nDétails: https://www.swiss-streethockey.ch/fr/game-ce
+ nter/game-details/?spielnr=11489
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11489
+CATEGORIES:Streethockey\,U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11491-299@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20260913T104000
+DTEND;TZID=Europe/Zurich:20260913T110000
+SUMMARY:SHC Bulldozers Kernenried-Zauggenried U9 schwarz vs SHC Aegerten-Br
+ ügg U9
+LOCATION:Kernenried\, Suisse
+DESCRIPTION:Ligue: U9\nDomicile: SHC Bulldozers Kernenried-Zauggenried U9 s
+ chwarz\nVisiteurs: SHC Aegerten-Brügg U9\nLieu du match: Kernenried\nDét
+ ails: https://www.swiss-streethockey.ch/fr/game-center/game-details/?spiel
+ nr=11491
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11491
+CATEGORIES:Streethockey\,U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11494-299@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20260913T114000
+DTEND;TZID=Europe/Zurich:20260913T120000
+SUMMARY:SHC Bettlach U9 vs SHC Bulldozers Kernenried-Zauggenried U9 schwarz
+LOCATION:Kernenried\, Suisse
+DESCRIPTION:Ligue: U9\nDomicile: SHC Bettlach U9\nVisiteurs: SHC Bulldozers
+  Kernenried-Zauggenried U9 schwarz\nLieu du match: Kernenried\nDétails: h
+ ttps://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=1149
+ 4
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11494
+CATEGORIES:Streethockey\,U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11497-299@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20260913T124000
+DTEND;TZID=Europe/Zurich:20260913T130000
+SUMMARY:SHC Bulldozers Kernenried-Zauggenried U9 schwarz vs SV Gals U9
+LOCATION:Kernenried\, Suisse
+DESCRIPTION:Ligue: U9\nDomicile: SHC Bulldozers Kernenried-Zauggenried U9 s
+ chwarz\nVisiteurs: SV Gals U9\nLieu du match: Kernenried\nDétails: https:
+ //www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11497
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11497
+CATEGORIES:Streethockey\,U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11509-299@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261025T100000
+DTEND;TZID=Europe/Zurich:20261025T102000
+SUMMARY:SHC Bulldozers Kernenried-Zauggenried U9 schwarz vs SHC Bulldozers 
+ Kernenried-Zauggenried U9 weiss
+LOCATION:Gals\, Suisse
+DESCRIPTION:Ligue: U9\nDomicile: SHC Bulldozers Kernenried-Zauggenried U9 s
+ chwarz\nVisiteurs: SHC Bulldozers Kernenried-Zauggenried U9 weiss\nLieu du
+  match: Gals\nDétails: https://www.swiss-streethockey.ch/fr/game-center/g
+ ame-details/?spielnr=11509
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11509
+CATEGORIES:Streethockey\,U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11511-299@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261025T104000
+DTEND;TZID=Europe/Zurich:20261025T110000
+SUMMARY:SHC Bulldozers Kernenried-Zauggenried U9 schwarz vs SHC Bettlach U9
+LOCATION:Gals\, Suisse
+DESCRIPTION:Ligue: U9\nDomicile: SHC Bulldozers Kernenried-Zauggenried U9 s
+ chwarz\nVisiteurs: SHC Bettlach U9\nLieu du match: Gals\nDétails: https:/
+ /www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11511
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11511
+CATEGORIES:Streethockey\,U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11514-299@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261025T114000
+DTEND;TZID=Europe/Zurich:20261025T120000
+SUMMARY:SHC Valais U9 vs SHC Bulldozers Kernenried-Zauggenried U9 schwarz
+LOCATION:Gals\, Suisse
+DESCRIPTION:Ligue: U9\nDomicile: SHC Valais U9\nVisiteurs: SHC Bulldozers K
+ ernenried-Zauggenried U9 schwarz\nLieu du match: Gals\nDétails: https://w
+ ww.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11514
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11514
+CATEGORIES:Streethockey\,U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11517-299@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261025T124000
+DTEND;TZID=Europe/Zurich:20261025T130000
+SUMMARY:SHC Bulldozers Kernenried-Zauggenried U9 schwarz vs SV Gals U9
+LOCATION:Gals\, Suisse
+DESCRIPTION:Ligue: U9\nDomicile: SHC Bulldozers Kernenried-Zauggenried U9 s
+ chwarz\nVisiteurs: SV Gals U9\nLieu du match: Gals\nDétails: https://www.
+ swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11517
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11517
+CATEGORIES:Streethockey\,U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11479-299@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261128T100000
+DTEND;TZID=Europe/Zurich:20261128T102000
+SUMMARY:SHC Bulldozers Kernenried-Zauggenried U9 schwarz vs SHC Bettlach U9
+LOCATION:Bettlach\, Suisse
+DESCRIPTION:Ligue: U9\nDomicile: SHC Bulldozers Kernenried-Zauggenried U9 s
+ chwarz\nVisiteurs: SHC Bettlach U9\nLieu du match: Bettlach\nDétails: htt
+ ps://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11479
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11479
+CATEGORIES:Streethockey\,U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11481-299@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261128T104000
+DTEND;TZID=Europe/Zurich:20261128T110000
+SUMMARY:SHC Bulldozers Kernenried-Zauggenried U9 schwarz vs SHC Aegerten-Br
+ ügg U9
+LOCATION:Bettlach\, Suisse
+DESCRIPTION:Ligue: U9\nDomicile: SHC Bulldozers Kernenried-Zauggenried U9 s
+ chwarz\nVisiteurs: SHC Aegerten-Brügg U9\nLieu du match: Bettlach\nDétai
+ ls: https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr
+ =11481
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11481
+CATEGORIES:Streethockey\,U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11484-299@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261128T114000
+DTEND;TZID=Europe/Zurich:20261128T120000
+SUMMARY:SHC Valais U9 vs SHC Bulldozers Kernenried-Zauggenried U9 schwarz
+LOCATION:Bettlach\, Suisse
+DESCRIPTION:Ligue: U9\nDomicile: SHC Valais U9\nVisiteurs: SHC Bulldozers K
+ ernenried-Zauggenried U9 schwarz\nLieu du match: Bettlach\nDétails: https
+ ://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11484
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11484
+CATEGORIES:Streethockey\,U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11487-299@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261128T124000
+DTEND;TZID=Europe/Zurich:20261128T130000
+SUMMARY:SHC Bulldozers Kernenried-Zauggenried U9 schwarz vs SV Gals U9
+LOCATION:Bettlach\, Suisse
+DESCRIPTION:Ligue: U9\nDomicile: SHC Bulldozers Kernenried-Zauggenried U9 s
+ chwarz\nVisiteurs: SV Gals U9\nLieu du match: Bettlach\nDétails: https://
+ www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11487
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11487
+CATEGORIES:Streethockey\,U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11499-299@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270228T100000
+DTEND;TZID=Europe/Zurich:20270228T102000
+SUMMARY:SHC Bulldozers Kernenried-Zauggenried U9 schwarz vs SHC Bulldozers 
+ Kernenried-Zauggenried U9 weiss
+LOCATION:Aegerten\, Suisse
+DESCRIPTION:Ligue: U9\nDomicile: SHC Bulldozers Kernenried-Zauggenried U9 s
+ chwarz\nVisiteurs: SHC Bulldozers Kernenried-Zauggenried U9 weiss\nLieu du
+  match: Aegerten\nDétails: https://www.swiss-streethockey.ch/fr/game-cent
+ er/game-details/?spielnr=11499
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11499
+CATEGORIES:Streethockey\,U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11501-299@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270228T104000
+DTEND;TZID=Europe/Zurich:20270228T110000
+SUMMARY:SHC Bulldozers Kernenried-Zauggenried U9 schwarz vs SHC Aegerten-Br
+ ügg U9
+LOCATION:Aegerten\, Suisse
+DESCRIPTION:Ligue: U9\nDomicile: SHC Bulldozers Kernenried-Zauggenried U9 s
+ chwarz\nVisiteurs: SHC Aegerten-Brügg U9\nLieu du match: Aegerten\nDétai
+ ls: https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr
+ =11501
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11501
+CATEGORIES:Streethockey\,U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11504-299@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270228T114000
+DTEND;TZID=Europe/Zurich:20270228T120000
+SUMMARY:SHC Valais U9 vs SHC Bulldozers Kernenried-Zauggenried U9 schwarz
+LOCATION:Aegerten\, Suisse
+DESCRIPTION:Ligue: U9\nDomicile: SHC Valais U9\nVisiteurs: SHC Bulldozers K
+ ernenried-Zauggenried U9 schwarz\nLieu du match: Aegerten\nDétails: https
+ ://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11504
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11504
+CATEGORIES:Streethockey\,U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11507-299@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270228T124000
+DTEND;TZID=Europe/Zurich:20270228T130000
+SUMMARY:SHC Bulldozers Kernenried-Zauggenried U9 schwarz vs SHC Bettlach U9
+LOCATION:Aegerten\, Suisse
+DESCRIPTION:Ligue: U9\nDomicile: SHC Bulldozers Kernenried-Zauggenried U9 s
+ chwarz\nVisiteurs: SHC Bettlach U9\nLieu du match: Aegerten\nDétails: htt
+ ps://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11507
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11507
+CATEGORIES:Streethockey\,U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11459-299@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270425T100000
+DTEND;TZID=Europe/Zurich:20270425T102000
+SUMMARY:SHC Bulldozers Kernenried-Zauggenried U9 schwarz vs SHC Bulldozers 
+ Kernenried-Zauggenried U9 weiss
+LOCATION:Kernenried\, Suisse
+DESCRIPTION:Ligue: U9\nDomicile: SHC Bulldozers Kernenried-Zauggenried U9 s
+ chwarz\nVisiteurs: SHC Bulldozers Kernenried-Zauggenried U9 weiss\nLieu du
+  match: Kernenried\nDétails: https://www.swiss-streethockey.ch/fr/game-ce
+ nter/game-details/?spielnr=11459
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11459
+CATEGORIES:Streethockey\,U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11461-299@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270425T104000
+DTEND;TZID=Europe/Zurich:20270425T110000
+SUMMARY:SHC Bulldozers Kernenried-Zauggenried U9 schwarz vs SHC Aegerten-Br
+ ügg U9
+LOCATION:Kernenried\, Suisse
+DESCRIPTION:Ligue: U9\nDomicile: SHC Bulldozers Kernenried-Zauggenried U9 s
+ chwarz\nVisiteurs: SHC Aegerten-Brügg U9\nLieu du match: Kernenried\nDét
+ ails: https://www.swiss-streethockey.ch/fr/game-center/game-details/?spiel
+ nr=11461
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11461
+CATEGORIES:Streethockey\,U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11464-299@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270425T114000
+DTEND;TZID=Europe/Zurich:20270425T120000
+SUMMARY:SHC Valais U9 vs SHC Bulldozers Kernenried-Zauggenried U9 schwarz
+LOCATION:Kernenried\, Suisse
+DESCRIPTION:Ligue: U9\nDomicile: SHC Valais U9\nVisiteurs: SHC Bulldozers K
+ ernenried-Zauggenried U9 schwarz\nLieu du match: Kernenried\nDétails: htt
+ ps://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11464
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11464
+CATEGORIES:Streethockey\,U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11467-299@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270425T124000
+DTEND;TZID=Europe/Zurich:20270425T130000
+SUMMARY:SHC Bulldozers Kernenried-Zauggenried U9 schwarz vs SV Gals U9
+LOCATION:Kernenried\, Suisse
+DESCRIPTION:Ligue: U9\nDomicile: SHC Bulldozers Kernenried-Zauggenried U9 s
+ chwarz\nVisiteurs: SV Gals U9\nLieu du match: Kernenried\nDétails: https:
+ //www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11467
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11467
+CATEGORIES:Streethockey\,U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

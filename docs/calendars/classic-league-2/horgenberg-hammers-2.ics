@@ -1,0 +1,282 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//swiss-streethockey-ics//Game center calendars//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Horgenberg Hammers 2 · Classic League 2
+X-WR-CALDESC:Matchs de Horgenberg Hammers 2 en Classic League 2 (source: ht
+ tps://www.swiss-streethockey.ch/fr/game-center/prochains-matchs/).
+X-WR-TIMEZONE:Europe/Zurich
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+X-LIC-LOCATION:Europe/Zurich
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:11215-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261011T100000
+DTEND;TZID=Europe/Zurich:20261011T111000
+SUMMARY:SHC Berner Oberland 1 vs Horgenberg Hammers 2
+LOCATION:Horgen\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: SHC Berner Oberland 1\nVisit
+ eurs: Horgenberg Hammers 2\nLieu du match: Horgen\nDétails: https://www.s
+ wiss-streethockey.ch/fr/game-center/game-details/?spielnr=11215
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11215
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11217-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261011T122000
+DTEND;TZID=Europe/Zurich:20261011T133000
+SUMMARY:SHC Bettlach 2 vs Horgenberg Hammers 2
+LOCATION:Horgen\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: SHC Bettlach 2\nVisiteurs: H
+ orgenberg Hammers 2\nLieu du match: Horgen\nDétails: https://www.swiss-st
+ reethockey.ch/fr/game-center/game-details/?spielnr=11217
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11217
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11221-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261011T170000
+DTEND;TZID=Europe/Zurich:20261011T181000
+SUMMARY:SHC Bonstetten-Wettswil 2 vs Horgenberg Hammers 2
+LOCATION:Horgen\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: SHC Bonstetten-Wettswil 2\nV
+ isiteurs: Horgenberg Hammers 2\nLieu du match: Horgen\nDétails: https://w
+ ww.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11221
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11221
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11224-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261101T122000
+DTEND;TZID=Europe/Zurich:20261101T133000
+SUMMARY:SHC Grenchen-Limpachtal 3 vs Horgenberg Hammers 2
+LOCATION:Lenzburg\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: SHC Grenchen-Limpachtal 3\nV
+ isiteurs: Horgenberg Hammers 2\nLieu du match: Lenzburg\nDétails: https:/
+ /www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11224
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11224
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11226-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261101T144000
+DTEND;TZID=Europe/Zurich:20261101T155000
+SUMMARY:Horgenberg Hammers 2 vs SHC Seetal Admirals 2
+LOCATION:Lenzburg\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: Horgenberg Hammers 2\nVisite
+ urs: SHC Seetal Admirals 2\nLieu du match: Lenzburg\nDétails: https://www
+ .swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11226
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11226
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11205-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261114T144000
+DTEND;TZID=Europe/Zurich:20261114T155000
+SUMMARY:Horgenberg Hammers 2 vs SHC Langenthal Devils 1
+LOCATION:Wettswil\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: Horgenberg Hammers 2\nVisite
+ urs: SHC Langenthal Devils 1\nLieu du match: Wettswil\nDétails: https://w
+ ww.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11205
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11205
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11207-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261114T170000
+DTEND;TZID=Europe/Zurich:20261114T181000
+SUMMARY:Horgenberg Hammers 2 vs SHC Berner Oberland 1
+LOCATION:Wettswil\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: Horgenberg Hammers 2\nVisite
+ urs: SHC Berner Oberland 1\nLieu du match: Wettswil\nDétails: https://www
+ .swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11207
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11207
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11181-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270130T111000
+DTEND;TZID=Europe/Zurich:20270130T122000
+SUMMARY:Horgenberg Hammers 2 vs SHC Steckholz
+LOCATION:Lenzburg\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: Horgenberg Hammers 2\nVisite
+ urs: SHC Steckholz\nLieu du match: Lenzburg\nDétails: https://www.swiss-s
+ treethockey.ch/fr/game-center/game-details/?spielnr=11181
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11181
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11183-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270130T133000
+DTEND;TZID=Europe/Zurich:20270130T144000
+SUMMARY:Horgenberg Hammers 2 vs SHC Bettlach 2
+LOCATION:Lenzburg\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: Horgenberg Hammers 2\nVisite
+ urs: SHC Bettlach 2\nLieu du match: Lenzburg\nDétails: https://www.swiss-
+ streethockey.ch/fr/game-center/game-details/?spielnr=11183
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11183
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11196-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270220T122000
+DTEND;TZID=Europe/Zurich:20270220T133000
+SUMMARY:SHC Seetal Admirals 2 vs Horgenberg Hammers 2
+LOCATION:Grenchen\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: SHC Seetal Admirals 2\nVisit
+ eurs: Horgenberg Hammers 2\nLieu du match: Grenchen\nDétails: https://www
+ .swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11196
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11196
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11198-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270220T144000
+DTEND;TZID=Europe/Zurich:20270220T155000
+SUMMARY:Horgenberg Hammers 2 vs SHC Bonstetten-Wettswil 2
+LOCATION:Grenchen\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: Horgenberg Hammers 2\nVisite
+ urs: SHC Bonstetten-Wettswil 2\nLieu du match: Grenchen\nDétails: https:/
+ /www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11198
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11198
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11200-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270220T170000
+DTEND;TZID=Europe/Zurich:20270220T181000
+SUMMARY:Horgenberg Hammers 2 vs SHC Grenchen-Limpachtal 3
+LOCATION:Grenchen\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: Horgenberg Hammers 2\nVisite
+ urs: SHC Grenchen-Limpachtal 3\nLieu du match: Grenchen\nDétails: https:/
+ /www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11200
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11200
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11209-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270307T111000
+DTEND;TZID=Europe/Zurich:20270307T122000
+SUMMARY:SHC Steckholz vs Horgenberg Hammers 2
+LOCATION:Langenthal\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: SHC Steckholz\nVisiteurs: Ho
+ rgenberg Hammers 2\nLieu du match: Langenthal\nDétails: https://www.swiss
+ -streethockey.ch/fr/game-center/game-details/?spielnr=11209
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11209
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11212-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270307T144000
+DTEND;TZID=Europe/Zurich:20270307T155000
+SUMMARY:SHC Langenthal Devils 1 vs Horgenberg Hammers 2
+LOCATION:Langenthal\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: SHC Langenthal Devils 1\nVis
+ iteurs: Horgenberg Hammers 2\nLieu du match: Langenthal\nDétails: https:/
+ /www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11212
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11212
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

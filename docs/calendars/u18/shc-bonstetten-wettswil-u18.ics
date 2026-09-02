@@ -1,0 +1,358 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//swiss-streethockey-ics//Game center calendars//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SHC Bonstetten-Wettswil U18 · U18
+X-WR-CALDESC:Matchs de SHC Bonstetten-Wettswil U18 en U18 (source: https://
+ www.swiss-streethockey.ch/fr/game-center/prochains-matchs/).
+X-WR-TIMEZONE:Europe/Zurich
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+X-LIC-LOCATION:Europe/Zurich
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:10995-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20260919T103000
+DTEND;TZID=Europe/Zurich:20260919T123000
+SUMMARY:SHC Grenchen-Limpachtal U18 vs SHC Bonstetten-Wettswil U18
+LOCATION:Grenchen\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: SHC Grenchen-Limpachtal U18\nVisiteurs: S
+ HC Bonstetten-Wettswil U18\nLieu du match: Grenchen\nDétails: https://www
+ .swiss-streethockey.ch/fr/game-center/game-details/?spielnr=10995
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 10995
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:10997-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20260926T103000
+DTEND;TZID=Europe/Zurich:20260926T123000
+SUMMARY:SHC Bonstetten-Wettswil U18 vs SHC Belpa 1107 U18
+LOCATION:Wettswil\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: SHC Bonstetten-Wettswil U18\nVisiteurs: S
+ HC Belpa 1107 U18\nLieu du match: Wettswil\nDétails: https://www.swiss-st
+ reethockey.ch/fr/game-center/game-details/?spielnr=10997
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 10997
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11005-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261010T140000
+DTEND;TZID=Europe/Zurich:20261010T160000
+SUMMARY:SHC Bonstetten-Wettswil U18 vs Horgenberg Hammers U18
+LOCATION:Wettswil\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: SHC Bonstetten-Wettswil U18\nVisiteurs: H
+ orgenberg Hammers U18\nLieu du match: Wettswil\nDétails: https://www.swis
+ s-streethockey.ch/fr/game-center/game-details/?spielnr=11005
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11005
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11008-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261017T140000
+DTEND;TZID=Europe/Zurich:20261017T160000
+SUMMARY:Horgenberg Hammers U18 vs SHC Bonstetten-Wettswil U18
+LOCATION:Horgen\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: Horgenberg Hammers U18\nVisiteurs: SHC Bo
+ nstetten-Wettswil U18\nLieu du match: Horgen\nDétails: https://www.swiss-
+ streethockey.ch/fr/game-center/game-details/?spielnr=11008
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11008
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11011-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261025T140000
+DTEND;TZID=Europe/Zurich:20261025T160000
+SUMMARY:SHC Bettlach U18 vs SHC Bonstetten-Wettswil U18
+LOCATION:Bettlach\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: SHC Bettlach U18\nVisiteurs: SHC Bonstett
+ en-Wettswil U18\nLieu du match: Bettlach\nDétails: https://www.swiss-stre
+ ethockey.ch/fr/game-center/game-details/?spielnr=11011
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11011
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11017-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261031T140000
+DTEND;TZID=Europe/Zurich:20261031T160000
+SUMMARY:SHC Bonstetten-Wettswil U18 vs SHC La Chaux-de-Fonds U18
+LOCATION:Wettswil\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: SHC Bonstetten-Wettswil U18\nVisiteurs: S
+ HC La Chaux-de-Fonds U18\nLieu du match: Wettswil\nDétails: https://www.s
+ wiss-streethockey.ch/fr/game-center/game-details/?spielnr=11017
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11017
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11020-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261101T140000
+DTEND;TZID=Europe/Zurich:20261101T160000
+SUMMARY:SHC Bonstetten-Wettswil U18 vs SHC Martigny U18
+LOCATION:Wettswil\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: SHC Bonstetten-Wettswil U18\nVisiteurs: S
+ HC Martigny U18\nLieu du match: Wettswil\nDétails: https://www.swiss-stre
+ ethockey.ch/fr/game-center/game-details/?spielnr=11020
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11020
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11022-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261107T140000
+DTEND;TZID=Europe/Zurich:20261107T160000
+SUMMARY:Sierre Lions U18 vs SHC Bonstetten-Wettswil U18
+LOCATION:Sierre\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: Sierre Lions U18\nVisiteurs: SHC Bonstett
+ en-Wettswil U18\nLieu du match: Sierre\nDétails: https://www.swiss-street
+ hockey.ch/fr/game-center/game-details/?spielnr=11022
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11022
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11025-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261108T103000
+DTEND;TZID=Europe/Zurich:20261108T123000
+SUMMARY:SHC Bonstetten-Wettswil U18 vs Oberwil Rebells U18
+LOCATION:Wettswil\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: SHC Bonstetten-Wettswil U18\nVisiteurs: O
+ berwil Rebells U18\nLieu du match: Wettswil\nDétails: https://www.swiss-s
+ treethockey.ch/fr/game-center/game-details/?spielnr=11025
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11025
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11027-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261114T103000
+DTEND;TZID=Europe/Zurich:20261114T123000
+SUMMARY:SHC Bulldozers Kernenried-Zauggenried U18 vs SHC Bonstetten-Wettswi
+ l U18
+LOCATION:Kernenried\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: SHC Bulldozers Kernenried-Zauggenried U18
+ \nVisiteurs: SHC Bonstetten-Wettswil U18\nLieu du match: Kernenried\nDéta
+ ils: https://www.swiss-streethockey.ch/fr/game-center/game-details/?spieln
+ r=11027
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11027
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11038-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261128T103000
+DTEND;TZID=Europe/Zurich:20261128T123000
+SUMMARY:SHC Bonstetten-Wettswil U18 vs SHC Grenchen-Limpachtal U18
+LOCATION:Wettswil\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: SHC Bonstetten-Wettswil U18\nVisiteurs: S
+ HC Grenchen-Limpachtal U18\nLieu du match: Wettswil\nDétails: https://www
+ .swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11038
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11038
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11049-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261212T103000
+DTEND;TZID=Europe/Zurich:20261212T123000
+SUMMARY:SHC Martigny U18 vs SHC Bonstetten-Wettswil U18
+LOCATION:Martigny\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: SHC Martigny U18\nVisiteurs: SHC Bonstett
+ en-Wettswil U18\nLieu du match: Martigny\nDétails: https://www.swiss-stre
+ ethockey.ch/fr/game-center/game-details/?spielnr=11049
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11049
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11051-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261213T140000
+DTEND;TZID=Europe/Zurich:20261213T160000
+SUMMARY:SHC Belpa 1107 U18 vs SHC Bonstetten-Wettswil U18
+LOCATION:Belp\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: SHC Belpa 1107 U18\nVisiteurs: SHC Bonste
+ tten-Wettswil U18\nLieu du match: Belp\nDétails: https://www.swiss-street
+ hockey.ch/fr/game-center/game-details/?spielnr=11051
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11051
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11055-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270117T140000
+DTEND;TZID=Europe/Zurich:20270117T160000
+SUMMARY:SHC Bonstetten-Wettswil U18 vs SHC Bettlach U18
+LOCATION:Wettswil\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: SHC Bonstetten-Wettswil U18\nVisiteurs: S
+ HC Bettlach U18\nLieu du match: Wettswil\nDétails: https://www.swiss-stre
+ ethockey.ch/fr/game-center/game-details/?spielnr=11055
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11055
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11058-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270123T140000
+DTEND;TZID=Europe/Zurich:20270123T160000
+SUMMARY:SHC La Chaux-de-Fonds U18 vs SHC Bonstetten-Wettswil U18
+LOCATION:La Chaux-de-Fonds\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: SHC La Chaux-de-Fonds U18\nVisiteurs: SHC
+  Bonstetten-Wettswil U18\nLieu du match: La Chaux-de-Fonds\nDétails: http
+ s://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11058
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11058
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11069-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270131T140000
+DTEND;TZID=Europe/Zurich:20270131T160000
+SUMMARY:SHC Bonstetten-Wettswil U18 vs Sierre Lions U18
+LOCATION:Wettswil\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: SHC Bonstetten-Wettswil U18\nVisiteurs: S
+ ierre Lions U18\nLieu du match: Wettswil\nDétails: https://www.swiss-stre
+ ethockey.ch/fr/game-center/game-details/?spielnr=11069
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11069
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11072-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270221T140000
+DTEND;TZID=Europe/Zurich:20270221T160000
+SUMMARY:SHC Bonstetten-Wettswil U18 vs SHC Bulldozers Kernenried-Zauggenrie
+ d U18
+LOCATION:Wettswil\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: SHC Bonstetten-Wettswil U18\nVisiteurs: S
+ HC Bulldozers Kernenried-Zauggenried U18\nLieu du match: Wettswil\nDétail
+ s: https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11072
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11072
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11076-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270227T140000
+DTEND;TZID=Europe/Zurich:20270227T160000
+SUMMARY:Oberwil Rebells U18 vs SHC Bonstetten-Wettswil U18
+LOCATION:Zug\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: Oberwil Rebells U18\nVisiteurs: SHC Bonst
+ etten-Wettswil U18\nLieu du match: Zug\nDétails: https://www.swiss-street
+ hockey.ch/fr/game-center/game-details/?spielnr=11076
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11076
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

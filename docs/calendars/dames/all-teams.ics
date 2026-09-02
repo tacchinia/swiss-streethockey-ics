@@ -1,0 +1,806 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//swiss-streethockey-ics//Game center calendars//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Street hockey · Dames
+X-WR-CALDESC:Tous les matchs de la ligue Dames (source: https://www.swiss-s
+ treethockey.ch/fr/game-center/prochains-matchs/).
+X-WR-TIMEZONE:Europe/Zurich
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+X-LIC-LOCATION:Europe/Zurich
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:11082-295@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20260920T140000
+DTEND;TZID=Europe/Zurich:20260920T160000
+SUMMARY:SHC Belpa 1107 Damen vs Horgenberg Hammers Damen
+LOCATION:Belp\, Suisse
+DESCRIPTION:Ligue: Dames\nDomicile: SHC Belpa 1107 Damen\nVisiteurs: Horgen
+ berg Hammers Damen\nLieu du match: Belp\nDétails: https://www.swiss-stree
+ thockey.ch/fr/game-center/game-details/?spielnr=11082
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11082
+CATEGORIES:Streethockey\,Dames
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11083-295@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20260920T140000
+DTEND;TZID=Europe/Zurich:20260920T160000
+SUMMARY:SHC La Chaux-de-Fonds Damen vs SHC Bettlach - Seetal Damen
+LOCATION:La Chaux-de-Fonds\, Suisse
+DESCRIPTION:Ligue: Dames\nDomicile: SHC La Chaux-de-Fonds Damen\nVisiteurs:
+  SHC Bettlach - Seetal Damen\nLieu du match: La Chaux-de-Fonds\nDétails: 
+ https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=110
+ 83
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11083
+CATEGORIES:Streethockey\,Dames
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11084-295@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20260920T140000
+DTEND;TZID=Europe/Zurich:20260920T160000
+SUMMARY:SHC Valais Femmes vs SHC Grenchen-Limpachtal Damen
+LOCATION:Dorénaz\, Suisse
+DESCRIPTION:Ligue: Dames\nDomicile: SHC Valais Femmes\nVisiteurs: SHC Grenc
+ hen-Limpachtal Damen\nLieu du match: Dorénaz\nDétails: https://www.swiss
+ -streethockey.ch/fr/game-center/game-details/?spielnr=11084
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11084
+CATEGORIES:Streethockey\,Dames
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11085-295@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20260925T200000
+DTEND;TZID=Europe/Zurich:20260925T220000
+SUMMARY:SHC Bettlach - Seetal Damen vs SHC Grenchen-Limpachtal Damen
+LOCATION:Bettlach\, Suisse
+DESCRIPTION:Ligue: Dames\nDomicile: SHC Bettlach - Seetal Damen\nVisiteurs:
+  SHC Grenchen-Limpachtal Damen\nLieu du match: Bettlach\nDétails: https:/
+ /www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11085
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11085
+CATEGORIES:Streethockey\,Dames
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11086-295@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20260926T140000
+DTEND;TZID=Europe/Zurich:20260926T160000
+SUMMARY:SHC Bulldozers Kernenried-Zauggenried Damen vs SHC Valais Femmes
+LOCATION:Kernenried\, Suisse
+DESCRIPTION:Ligue: Dames\nDomicile: SHC Bulldozers Kernenried-Zauggenried D
+ amen\nVisiteurs: SHC Valais Femmes\nLieu du match: Kernenried\nDétails: h
+ ttps://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=1108
+ 6
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11086
+CATEGORIES:Streethockey\,Dames
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11087-295@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20260927T140000
+DTEND;TZID=Europe/Zurich:20260927T160000
+SUMMARY:SHC La Chaux-de-Fonds Damen vs SHC Belpa 1107 Damen
+LOCATION:La Chaux-de-Fonds\, Suisse
+DESCRIPTION:Ligue: Dames\nDomicile: SHC La Chaux-de-Fonds Damen\nVisiteurs:
+  SHC Belpa 1107 Damen\nLieu du match: La Chaux-de-Fonds\nDétails: https:/
+ /www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11087
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11087
+CATEGORIES:Streethockey\,Dames
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11089-295@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261004T140000
+DTEND;TZID=Europe/Zurich:20261004T160000
+SUMMARY:Horgenberg Hammers Damen vs SHC Grenchen-Limpachtal Damen
+LOCATION:Horgen\, Suisse
+DESCRIPTION:Ligue: Dames\nDomicile: Horgenberg Hammers Damen\nVisiteurs: SH
+ C Grenchen-Limpachtal Damen\nLieu du match: Horgen\nDétails: https://www.
+ swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11089
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11089
+CATEGORIES:Streethockey\,Dames
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11091-295@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261011T140000
+DTEND;TZID=Europe/Zurich:20261011T160000
+SUMMARY:SHC Belpa 1107 Damen vs SHC Valais Femmes
+LOCATION:Belp\, Suisse
+DESCRIPTION:Ligue: Dames\nDomicile: SHC Belpa 1107 Damen\nVisiteurs: SHC Va
+ lais Femmes\nLieu du match: Belp\nDétails: https://www.swiss-streethockey
+ .ch/fr/game-center/game-details/?spielnr=11091
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11091
+CATEGORIES:Streethockey\,Dames
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11090-295@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261011T140000
+DTEND;TZID=Europe/Zurich:20261011T160000
+SUMMARY:SHC Bettlach - Seetal Damen vs Horgenberg Hammers Damen
+LOCATION:Bettlach\, Suisse
+DESCRIPTION:Ligue: Dames\nDomicile: SHC Bettlach - Seetal Damen\nVisiteurs:
+  Horgenberg Hammers Damen\nLieu du match: Bettlach\nDétails: https://www.
+ swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11090
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11090
+CATEGORIES:Streethockey\,Dames
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11092-295@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261011T140000
+DTEND;TZID=Europe/Zurich:20261011T160000
+SUMMARY:SHC Bulldozers Kernenried-Zauggenried Damen vs SHC Grenchen-Limpach
+ tal Damen
+LOCATION:Kernenried\, Suisse
+DESCRIPTION:Ligue: Dames\nDomicile: SHC Bulldozers Kernenried-Zauggenried D
+ amen\nVisiteurs: SHC Grenchen-Limpachtal Damen\nLieu du match: Kernenried\
+ nDétails: https://www.swiss-streethockey.ch/fr/game-center/game-details/?
+ spielnr=11092
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11092
+CATEGORIES:Streethockey\,Dames
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11093-295@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261018T140000
+DTEND;TZID=Europe/Zurich:20261018T160000
+SUMMARY:Horgenberg Hammers Damen vs SHC La Chaux-de-Fonds Damen
+LOCATION:Horgen\, Suisse
+DESCRIPTION:Ligue: Dames\nDomicile: Horgenberg Hammers Damen\nVisiteurs: SH
+ C La Chaux-de-Fonds Damen\nLieu du match: Horgen\nDétails: https://www.sw
+ iss-streethockey.ch/fr/game-center/game-details/?spielnr=11093
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11093
+CATEGORIES:Streethockey\,Dames
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11094-295@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261018T140000
+DTEND;TZID=Europe/Zurich:20261018T160000
+SUMMARY:SHC Bettlach - Seetal Damen vs SHC Bulldozers Kernenried-Zauggenrie
+ d Damen
+LOCATION:Bettlach\, Suisse
+DESCRIPTION:Ligue: Dames\nDomicile: SHC Bettlach - Seetal Damen\nVisiteurs:
+  SHC Bulldozers Kernenried-Zauggenried Damen\nLieu du match: Bettlach\nDé
+ tails: https://www.swiss-streethockey.ch/fr/game-center/game-details/?spie
+ lnr=11094
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11094
+CATEGORIES:Streethockey\,Dames
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11095-295@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261024T140000
+DTEND;TZID=Europe/Zurich:20261024T160000
+SUMMARY:SHC Valais Femmes vs SHC Bettlach - Seetal Damen
+LOCATION:Dorénaz\, Suisse
+DESCRIPTION:Ligue: Dames\nDomicile: SHC Valais Femmes\nVisiteurs: SHC Bettl
+ ach - Seetal Damen\nLieu du match: Dorénaz\nDétails: https://www.swiss-s
+ treethockey.ch/fr/game-center/game-details/?spielnr=11095
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11095
+CATEGORIES:Streethockey\,Dames
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11096-295@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261025T103000
+DTEND;TZID=Europe/Zurich:20261025T123000
+SUMMARY:SHC Grenchen-Limpachtal Damen vs SHC La Chaux-de-Fonds Damen
+LOCATION:Grenchen\, Suisse
+DESCRIPTION:Ligue: Dames\nDomicile: SHC Grenchen-Limpachtal Damen\nVisiteur
+ s: SHC La Chaux-de-Fonds Damen\nLieu du match: Grenchen\nDétails: https:/
+ /www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11096
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11096
+CATEGORIES:Streethockey\,Dames
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11097-295@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261025T140000
+DTEND;TZID=Europe/Zurich:20261025T160000
+SUMMARY:SHC Bulldozers Kernenried-Zauggenried Damen vs Horgenberg Hammers D
+ amen
+LOCATION:Kernenried\, Suisse
+DESCRIPTION:Ligue: Dames\nDomicile: SHC Bulldozers Kernenried-Zauggenried D
+ amen\nVisiteurs: Horgenberg Hammers Damen\nLieu du match: Kernenried\nDét
+ ails: https://www.swiss-streethockey.ch/fr/game-center/game-details/?spiel
+ nr=11097
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11097
+CATEGORIES:Streethockey\,Dames
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11098-295@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261031T140000
+DTEND;TZID=Europe/Zurich:20261031T160000
+SUMMARY:Horgenberg Hammers Damen vs SHC Valais Femmes
+LOCATION:Horgen\, Suisse
+DESCRIPTION:Ligue: Dames\nDomicile: Horgenberg Hammers Damen\nVisiteurs: SH
+ C Valais Femmes\nLieu du match: Horgen\nDétails: https://www.swiss-street
+ hockey.ch/fr/game-center/game-details/?spielnr=11098
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11098
+CATEGORIES:Streethockey\,Dames
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11099-295@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261031T140000
+DTEND;TZID=Europe/Zurich:20261031T160000
+SUMMARY:SHC Grenchen-Limpachtal Damen vs SHC Belpa 1107 Damen
+LOCATION:Grenchen\, Suisse
+DESCRIPTION:Ligue: Dames\nDomicile: SHC Grenchen-Limpachtal Damen\nVisiteur
+ s: SHC Belpa 1107 Damen\nLieu du match: Grenchen\nDétails: https://www.sw
+ iss-streethockey.ch/fr/game-center/game-details/?spielnr=11099
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11099
+CATEGORIES:Streethockey\,Dames
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11100-295@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261101T140000
+DTEND;TZID=Europe/Zurich:20261101T160000
+SUMMARY:SHC Bettlach - Seetal Damen vs SHC Belpa 1107 Damen
+LOCATION:Bettlach\, Suisse
+DESCRIPTION:Ligue: Dames\nDomicile: SHC Bettlach - Seetal Damen\nVisiteurs:
+  SHC Belpa 1107 Damen\nLieu du match: Bettlach\nDétails: https://www.swis
+ s-streethockey.ch/fr/game-center/game-details/?spielnr=11100
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11100
+CATEGORIES:Streethockey\,Dames
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11101-295@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261101T140000
+DTEND;TZID=Europe/Zurich:20261101T160000
+SUMMARY:SHC La Chaux-de-Fonds Damen vs SHC Bulldozers Kernenried-Zauggenrie
+ d Damen
+LOCATION:La Chaux-de-Fonds\, Suisse
+DESCRIPTION:Ligue: Dames\nDomicile: SHC La Chaux-de-Fonds Damen\nVisiteurs:
+  SHC Bulldozers Kernenried-Zauggenried Damen\nLieu du match: La Chaux-de-F
+ onds\nDétails: https://www.swiss-streethockey.ch/fr/game-center/game-deta
+ ils/?spielnr=11101
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11101
+CATEGORIES:Streethockey\,Dames
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11103-295@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261108T140000
+DTEND;TZID=Europe/Zurich:20261108T160000
+SUMMARY:Horgenberg Hammers Damen vs SHC Belpa 1107 Damen
+LOCATION:Horgen\, Suisse
+DESCRIPTION:Ligue: Dames\nDomicile: Horgenberg Hammers Damen\nVisiteurs: SH
+ C Belpa 1107 Damen\nLieu du match: Horgen\nDétails: https://www.swiss-str
+ eethockey.ch/fr/game-center/game-details/?spielnr=11103
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11103
+CATEGORIES:Streethockey\,Dames
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11102-295@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261108T140000
+DTEND;TZID=Europe/Zurich:20261108T160000
+SUMMARY:SHC Bettlach - Seetal Damen vs SHC La Chaux-de-Fonds Damen
+LOCATION:Bettlach\, Suisse
+DESCRIPTION:Ligue: Dames\nDomicile: SHC Bettlach - Seetal Damen\nVisiteurs:
+  SHC La Chaux-de-Fonds Damen\nLieu du match: Bettlach\nDétails: https://w
+ ww.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11102
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11102
+CATEGORIES:Streethockey\,Dames
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11104-295@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261114T103000
+DTEND;TZID=Europe/Zurich:20261114T123000
+SUMMARY:SHC Valais Femmes vs SHC Bulldozers Kernenried-Zauggenried Damen
+LOCATION:Dorénaz\, Suisse
+DESCRIPTION:Ligue: Dames\nDomicile: SHC Valais Femmes\nVisiteurs: SHC Bulld
+ ozers Kernenried-Zauggenried Damen\nLieu du match: Dorénaz\nDétails: htt
+ ps://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11104
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11104
+CATEGORIES:Streethockey\,Dames
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11106-295@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261115T140000
+DTEND;TZID=Europe/Zurich:20261115T160000
+SUMMARY:SHC Belpa 1107 Damen vs SHC La Chaux-de-Fonds Damen
+LOCATION:Belp\, Suisse
+DESCRIPTION:Ligue: Dames\nDomicile: SHC Belpa 1107 Damen\nVisiteurs: SHC La
+  Chaux-de-Fonds Damen\nLieu du match: Belp\nDétails: https://www.swiss-st
+ reethockey.ch/fr/game-center/game-details/?spielnr=11106
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11106
+CATEGORIES:Streethockey\,Dames
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11105-295@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261115T140000
+DTEND;TZID=Europe/Zurich:20261115T160000
+SUMMARY:SHC Grenchen-Limpachtal Damen vs SHC Bettlach - Seetal Damen
+LOCATION:Grenchen\, Suisse
+DESCRIPTION:Ligue: Dames\nDomicile: SHC Grenchen-Limpachtal Damen\nVisiteur
+ s: SHC Bettlach - Seetal Damen\nLieu du match: Grenchen\nDétails: https:/
+ /www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11105
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11105
+CATEGORIES:Streethockey\,Dames
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11109-295@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261122T103000
+DTEND;TZID=Europe/Zurich:20261122T123000
+SUMMARY:SHC Grenchen-Limpachtal Damen vs Horgenberg Hammers Damen
+LOCATION:Grenchen\, Suisse
+DESCRIPTION:Ligue: Dames\nDomicile: SHC Grenchen-Limpachtal Damen\nVisiteur
+ s: Horgenberg Hammers Damen\nLieu du match: Grenchen\nDétails: https://ww
+ w.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11109
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11109
+CATEGORIES:Streethockey\,Dames
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11108-295@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261122T103000
+DTEND;TZID=Europe/Zurich:20261122T123000
+SUMMARY:SHC La Chaux-de-Fonds Damen vs SHC Valais Femmes
+LOCATION:La Chaux-de-Fonds\, Suisse
+DESCRIPTION:Ligue: Dames\nDomicile: SHC La Chaux-de-Fonds Damen\nVisiteurs:
+  SHC Valais Femmes\nLieu du match: La Chaux-de-Fonds\nDétails: https://ww
+ w.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11108
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11108
+CATEGORIES:Streethockey\,Dames
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11107-295@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261122T140000
+DTEND;TZID=Europe/Zurich:20261122T160000
+SUMMARY:SHC Bulldozers Kernenried-Zauggenried Damen vs SHC Belpa 1107 Damen
+LOCATION:Kernenried\, Suisse
+DESCRIPTION:Ligue: Dames\nDomicile: SHC Bulldozers Kernenried-Zauggenried D
+ amen\nVisiteurs: SHC Belpa 1107 Damen\nLieu du match: Kernenried\nDétails
+ : https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=1
+ 1107
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11107
+CATEGORIES:Streethockey\,Dames
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11110-295@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261128T140000
+DTEND;TZID=Europe/Zurich:20261128T160000
+SUMMARY:SHC Valais Femmes vs SHC La Chaux-de-Fonds Damen
+LOCATION:Dorénaz\, Suisse
+DESCRIPTION:Ligue: Dames\nDomicile: SHC Valais Femmes\nVisiteurs: SHC La Ch
+ aux-de-Fonds Damen\nLieu du match: Dorénaz\nDétails: https://www.swiss-s
+ treethockey.ch/fr/game-center/game-details/?spielnr=11110
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11110
+CATEGORIES:Streethockey\,Dames
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11111-295@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261206T140000
+DTEND;TZID=Europe/Zurich:20261206T160000
+SUMMARY:SHC Grenchen-Limpachtal Damen vs SHC Valais Femmes
+LOCATION:Grenchen\, Suisse
+DESCRIPTION:Ligue: Dames\nDomicile: SHC Grenchen-Limpachtal Damen\nVisiteur
+ s: SHC Valais Femmes\nLieu du match: Grenchen\nDétails: https://www.swiss
+ -streethockey.ch/fr/game-center/game-details/?spielnr=11111
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11111
+CATEGORIES:Streethockey\,Dames
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11088-295@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261213T103000
+DTEND;TZID=Europe/Zurich:20261213T123000
+SUMMARY:SHC Belpa 1107 Damen vs SHC Bulldozers Kernenried-Zauggenried Damen
+LOCATION:Belp\, Suisse
+DESCRIPTION:Ligue: Dames\nDomicile: SHC Belpa 1107 Damen\nVisiteurs: SHC Bu
+ lldozers Kernenried-Zauggenried Damen\nLieu du match: Belp\nDétails: http
+ s://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11088
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11088
+CATEGORIES:Streethockey\,Dames
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11112-295@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270131T103000
+DTEND;TZID=Europe/Zurich:20270131T123000
+SUMMARY:SHC Grenchen-Limpachtal Damen vs SHC Bulldozers Kernenried-Zauggenr
+ ied Damen
+LOCATION:Grenchen\, Suisse
+DESCRIPTION:Ligue: Dames\nDomicile: SHC Grenchen-Limpachtal Damen\nVisiteur
+ s: SHC Bulldozers Kernenried-Zauggenried Damen\nLieu du match: Grenchen\nD
+ étails: https://www.swiss-streethockey.ch/fr/game-center/game-details/?sp
+ ielnr=11112
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11112
+CATEGORIES:Streethockey\,Dames
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11113-295@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270213T140000
+DTEND;TZID=Europe/Zurich:20270213T160000
+SUMMARY:SHC Valais Femmes vs SHC Belpa 1107 Damen
+LOCATION:Dorénaz\, Suisse
+DESCRIPTION:Ligue: Dames\nDomicile: SHC Valais Femmes\nVisiteurs: SHC Belpa
+  1107 Damen\nLieu du match: Dorénaz\nDétails: https://www.swiss-streetho
+ ckey.ch/fr/game-center/game-details/?spielnr=11113
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11113
+CATEGORIES:Streethockey\,Dames
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11114-295@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270214T103000
+DTEND;TZID=Europe/Zurich:20270214T123000
+SUMMARY:Horgenberg Hammers Damen vs SHC Bettlach - Seetal Damen
+LOCATION:Horgen\, Suisse
+DESCRIPTION:Ligue: Dames\nDomicile: Horgenberg Hammers Damen\nVisiteurs: SH
+ C Bettlach - Seetal Damen\nLieu du match: Horgen\nDétails: https://www.sw
+ iss-streethockey.ch/fr/game-center/game-details/?spielnr=11114
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11114
+CATEGORIES:Streethockey\,Dames
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11117-295@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270221T103000
+DTEND;TZID=Europe/Zurich:20270221T123000
+SUMMARY:SHC Bulldozers Kernenried-Zauggenried Damen vs SHC Bettlach - Seeta
+ l Damen
+LOCATION:Kernenried\, Suisse
+DESCRIPTION:Ligue: Dames\nDomicile: SHC Bulldozers Kernenried-Zauggenried D
+ amen\nVisiteurs: SHC Bettlach - Seetal Damen\nLieu du match: Kernenried\nD
+ étails: https://www.swiss-streethockey.ch/fr/game-center/game-details/?sp
+ ielnr=11117
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11117
+CATEGORIES:Streethockey\,Dames
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11115-295@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270221T140000
+DTEND;TZID=Europe/Zurich:20270221T160000
+SUMMARY:SHC Belpa 1107 Damen vs SHC Grenchen-Limpachtal Damen
+LOCATION:Belp\, Suisse
+DESCRIPTION:Ligue: Dames\nDomicile: SHC Belpa 1107 Damen\nVisiteurs: SHC Gr
+ enchen-Limpachtal Damen\nLieu du match: Belp\nDétails: https://www.swiss-
+ streethockey.ch/fr/game-center/game-details/?spielnr=11115
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11115
+CATEGORIES:Streethockey\,Dames
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11116-295@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270221T140000
+DTEND;TZID=Europe/Zurich:20270221T160000
+SUMMARY:SHC La Chaux-de-Fonds Damen vs Horgenberg Hammers Damen
+LOCATION:La Chaux-de-Fonds\, Suisse
+DESCRIPTION:Ligue: Dames\nDomicile: SHC La Chaux-de-Fonds Damen\nVisiteurs:
+  Horgenberg Hammers Damen\nLieu du match: La Chaux-de-Fonds\nDétails: htt
+ ps://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11116
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11116
+CATEGORIES:Streethockey\,Dames
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11119-295@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270228T140000
+DTEND;TZID=Europe/Zurich:20270228T160000
+SUMMARY:Horgenberg Hammers Damen vs SHC Bulldozers Kernenried-Zauggenried D
+ amen
+LOCATION:Horgen\, Suisse
+DESCRIPTION:Ligue: Dames\nDomicile: Horgenberg Hammers Damen\nVisiteurs: SH
+ C Bulldozers Kernenried-Zauggenried Damen\nLieu du match: Horgen\nDétails
+ : https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=1
+ 1119
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11119
+CATEGORIES:Streethockey\,Dames
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11118-295@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270228T140000
+DTEND;TZID=Europe/Zurich:20270228T160000
+SUMMARY:SHC Bettlach - Seetal Damen vs SHC Valais Femmes
+LOCATION:Bettlach\, Suisse
+DESCRIPTION:Ligue: Dames\nDomicile: SHC Bettlach - Seetal Damen\nVisiteurs:
+  SHC Valais Femmes\nLieu du match: Bettlach\nDétails: https://www.swiss-s
+ treethockey.ch/fr/game-center/game-details/?spielnr=11118
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11118
+CATEGORIES:Streethockey\,Dames
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11120-295@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270228T140000
+DTEND;TZID=Europe/Zurich:20270228T160000
+SUMMARY:SHC La Chaux-de-Fonds Damen vs SHC Grenchen-Limpachtal Damen
+LOCATION:La Chaux-de-Fonds\, Suisse
+DESCRIPTION:Ligue: Dames\nDomicile: SHC La Chaux-de-Fonds Damen\nVisiteurs:
+  SHC Grenchen-Limpachtal Damen\nLieu du match: La Chaux-de-Fonds\nDétails
+ : https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=1
+ 1120
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11120
+CATEGORIES:Streethockey\,Dames
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11121-295@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270306T140000
+DTEND;TZID=Europe/Zurich:20270306T160000
+SUMMARY:SHC Bulldozers Kernenried-Zauggenried Damen vs SHC La Chaux-de-Fond
+ s Damen
+LOCATION:Kernenried\, Suisse
+DESCRIPTION:Ligue: Dames\nDomicile: SHC Bulldozers Kernenried-Zauggenried D
+ amen\nVisiteurs: SHC La Chaux-de-Fonds Damen\nLieu du match: Kernenried\nD
+ étails: https://www.swiss-streethockey.ch/fr/game-center/game-details/?sp
+ ielnr=11121
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11121
+CATEGORIES:Streethockey\,Dames
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11122-295@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270306T140000
+DTEND;TZID=Europe/Zurich:20270306T160000
+SUMMARY:SHC Valais Femmes vs Horgenberg Hammers Damen
+LOCATION:Dorénaz\, Suisse
+DESCRIPTION:Ligue: Dames\nDomicile: SHC Valais Femmes\nVisiteurs: Horgenber
+ g Hammers Damen\nLieu du match: Dorénaz\nDétails: https://www.swiss-stre
+ ethockey.ch/fr/game-center/game-details/?spielnr=11122
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11122
+CATEGORIES:Streethockey\,Dames
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11123-295@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270307T140000
+DTEND;TZID=Europe/Zurich:20270307T160000
+SUMMARY:SHC Belpa 1107 Damen vs SHC Bettlach - Seetal Damen
+LOCATION:Belp\, Suisse
+DESCRIPTION:Ligue: Dames\nDomicile: SHC Belpa 1107 Damen\nVisiteurs: SHC Be
+ ttlach - Seetal Damen\nLieu du match: Belp\nDétails: https://www.swiss-st
+ reethockey.ch/fr/game-center/game-details/?spielnr=11123
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11123
+CATEGORIES:Streethockey\,Dames
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

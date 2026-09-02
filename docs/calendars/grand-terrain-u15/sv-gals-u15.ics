@@ -1,0 +1,283 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//swiss-streethockey-ics//Game center calendars//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SV Gals U15 · Grand terrain U15
+X-WR-CALDESC:Matchs de SV Gals U15 en Grand terrain U15 (source: https://ww
+ w.swiss-streethockey.ch/fr/game-center/prochains-matchs/).
+X-WR-TIMEZONE:Europe/Zurich
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+X-LIC-LOCATION:Europe/Zurich
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:11282-2109@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261025T141000
+DTEND;TZID=Europe/Zurich:20261025T152000
+SUMMARY:SHC Bettlach U15 vs SV Gals U15
+LOCATION:Horgen\, Suisse
+DESCRIPTION:Ligue: Grand terrain U15\nDomicile: SHC Bettlach U15\nVisiteurs
+ : SV Gals U15\nLieu du match: Horgen\nDétails: https://www.swiss-streetho
+ ckey.ch/fr/game-center/game-details/?spielnr=11282
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11282
+CATEGORIES:Streethockey\,Grand terrain U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11284-2109@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261025T163000
+DTEND;TZID=Europe/Zurich:20261025T174000
+SUMMARY:Horgenberg Hammers U15 vs SV Gals U15
+LOCATION:Horgen\, Suisse
+DESCRIPTION:Ligue: Grand terrain U15\nDomicile: Horgenberg Hammers U15\nVis
+ iteurs: SV Gals U15\nLieu du match: Horgen\nDétails: https://www.swiss-st
+ reethockey.ch/fr/game-center/game-details/?spielnr=11284
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11284
+CATEGORIES:Streethockey\,Grand terrain U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11246-2109@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261115T130000
+DTEND;TZID=Europe/Zurich:20261115T141000
+SUMMARY:SV Gals U15 vs SHC Grenchen-Limpachtal U15 GF Weiss
+LOCATION:Zug\, Suisse
+DESCRIPTION:Ligue: Grand terrain U15\nDomicile: SV Gals U15\nVisiteurs: SHC
+  Grenchen-Limpachtal U15 GF Weiss\nLieu du match: Zug\nDétails: https://w
+ ww.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11246
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11246
+CATEGORIES:Streethockey\,Grand terrain U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11249-2109@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261115T163000
+DTEND;TZID=Europe/Zurich:20261115T174000
+SUMMARY:SV Gals U15 vs Oberwil Rebells U15
+LOCATION:Zug\, Suisse
+DESCRIPTION:Ligue: Grand terrain U15\nDomicile: SV Gals U15\nVisiteurs: Obe
+ rwil Rebells U15\nLieu du match: Zug\nDétails: https://www.swiss-streetho
+ ckey.ch/fr/game-center/game-details/?spielnr=11249
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11249
+CATEGORIES:Streethockey\,Grand terrain U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11250-2109@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261205T093000
+DTEND;TZID=Europe/Zurich:20261205T104000
+SUMMARY:SV Gals U15 vs SHC Grenchen-Limpachtal U15 GF Grün
+LOCATION:Grenchen\, Suisse
+DESCRIPTION:Ligue: Grand terrain U15\nDomicile: SV Gals U15\nVisiteurs: SHC
+  Grenchen-Limpachtal U15 GF Grün\nLieu du match: Grenchen\nDétails: http
+ s://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11250
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11250
+CATEGORIES:Streethockey\,Grand terrain U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11253-2109@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261205T130000
+DTEND;TZID=Europe/Zurich:20261205T141000
+SUMMARY:SV Gals U15 vs Horgenberg Hammers U15
+LOCATION:Grenchen\, Suisse
+DESCRIPTION:Ligue: Grand terrain U15\nDomicile: SV Gals U15\nVisiteurs: Hor
+ genberg Hammers U15\nLieu du match: Grenchen\nDétails: https://www.swiss-
+ streethockey.ch/fr/game-center/game-details/?spielnr=11253
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11253
+CATEGORIES:Streethockey\,Grand terrain U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11255-2109@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261205T152000
+DTEND;TZID=Europe/Zurich:20261205T163000
+SUMMARY:SV Gals U15 vs SHC Bettlach U15
+LOCATION:Grenchen\, Suisse
+DESCRIPTION:Ligue: Grand terrain U15\nDomicile: SV Gals U15\nVisiteurs: SHC
+  Bettlach U15\nLieu du match: Grenchen\nDétails: https://www.swiss-street
+ hockey.ch/fr/game-center/game-details/?spielnr=11255
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11255
+CATEGORIES:Streethockey\,Grand terrain U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11265-2109@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270124T104000
+DTEND;TZID=Europe/Zurich:20270124T115000
+SUMMARY:Oberwil Rebells U15 vs SV Gals U15
+LOCATION:Gals\, Suisse
+DESCRIPTION:Ligue: Grand terrain U15\nDomicile: Oberwil Rebells U15\nVisite
+ urs: SV Gals U15\nLieu du match: Gals\nDétails: https://www.swiss-streeth
+ ockey.ch/fr/game-center/game-details/?spielnr=11265
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11265
+CATEGORIES:Streethockey\,Grand terrain U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11267-2109@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270124T130000
+DTEND;TZID=Europe/Zurich:20270124T141000
+SUMMARY:SHC Bulldozers Kernenried-Zauggenried U15 vs SV Gals U15
+LOCATION:Gals\, Suisse
+DESCRIPTION:Ligue: Grand terrain U15\nDomicile: SHC Bulldozers Kernenried-Z
+ auggenried U15\nVisiteurs: SV Gals U15\nLieu du match: Gals\nDétails: htt
+ ps://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11267
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11267
+CATEGORIES:Streethockey\,Grand terrain U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11270-2109@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270124T163000
+DTEND;TZID=Europe/Zurich:20270124T174000
+SUMMARY:SHC Grenchen-Limpachtal U15 GF Grün vs SV Gals U15
+LOCATION:Gals\, Suisse
+DESCRIPTION:Ligue: Grand terrain U15\nDomicile: SHC Grenchen-Limpachtal U15
+  GF Grün\nVisiteurs: SV Gals U15\nLieu du match: Gals\nDétails: https://
+ www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11270
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11270
+CATEGORIES:Streethockey\,Grand terrain U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11274-2109@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270313T130000
+DTEND;TZID=Europe/Zurich:20270313T141000
+SUMMARY:SHC Bonstetten-Wettswil U15 vs SV Gals U15
+LOCATION:Wettswil\, Suisse
+DESCRIPTION:Ligue: Grand terrain U15\nDomicile: SHC Bonstetten-Wettswil U15
+ \nVisiteurs: SV Gals U15\nLieu du match: Wettswil\nDétails: https://www.s
+ wiss-streethockey.ch/fr/game-center/game-details/?spielnr=11274
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11274
+CATEGORIES:Streethockey\,Grand terrain U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11276-2109@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270313T152000
+DTEND;TZID=Europe/Zurich:20270313T163000
+SUMMARY:SHC Grenchen-Limpachtal U15 GF Weiss vs SV Gals U15
+LOCATION:Wettswil\, Suisse
+DESCRIPTION:Ligue: Grand terrain U15\nDomicile: SHC Grenchen-Limpachtal U15
+  GF Weiss\nVisiteurs: SV Gals U15\nLieu du match: Wettswil\nDétails: http
+ s://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11276
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11276
+CATEGORIES:Streethockey\,Grand terrain U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11237-2109@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270502T104000
+DTEND;TZID=Europe/Zurich:20270502T115000
+SUMMARY:SV Gals U15 vs SHC Bulldozers Kernenried-Zauggenried U15
+LOCATION:Kernenried\, Suisse
+DESCRIPTION:Ligue: Grand terrain U15\nDomicile: SV Gals U15\nVisiteurs: SHC
+  Bulldozers Kernenried-Zauggenried U15\nLieu du match: Kernenried\nDétail
+ s: https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11237
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11237
+CATEGORIES:Streethockey\,Grand terrain U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11241-2109@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270502T152000
+DTEND;TZID=Europe/Zurich:20270502T163000
+SUMMARY:SV Gals U15 vs SHC Bonstetten-Wettswil U15
+LOCATION:Kernenried\, Suisse
+DESCRIPTION:Ligue: Grand terrain U15\nDomicile: SV Gals U15\nVisiteurs: SHC
+  Bonstetten-Wettswil U15\nLieu du match: Kernenried\nDétails: https://www
+ .swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11241
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11241
+CATEGORIES:Streethockey\,Grand terrain U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,282 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//swiss-streethockey-ics//Game center calendars//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SHC Seetal Admirals 1 · Team Ouest
+X-WR-CALDESC:Matchs de SHC Seetal Admirals 1 en Team Ouest (source: https:/
+ /www.swiss-streethockey.ch/fr/game-center/prochains-matchs/).
+X-WR-TIMEZONE:Europe/Zurich
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+X-LIC-LOCATION:Europe/Zurich
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:11124-2105@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20260926T093000
+DTEND;TZID=Europe/Zurich:20260926T104000
+SUMMARY:SHC Fribourg Dragons vs SHC Seetal Admirals 1
+LOCATION:Lenzburg\, Suisse
+DESCRIPTION:Ligue: Team Ouest\nDomicile: SHC Fribourg Dragons\nVisiteurs: S
+ HC Seetal Admirals 1\nLieu du match: Lenzburg\nDétails: https://www.swiss
+ -streethockey.ch/fr/game-center/game-details/?spielnr=11124
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11124
+CATEGORIES:Streethockey\,Team Ouest
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11126-2105@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20260926T115000
+DTEND;TZID=Europe/Zurich:20260926T130000
+SUMMARY:SHC Aegerten-Brügg 1 vs SHC Seetal Admirals 1
+LOCATION:Lenzburg\, Suisse
+DESCRIPTION:Ligue: Team Ouest\nDomicile: SHC Aegerten-Brügg 1\nVisiteurs: 
+ SHC Seetal Admirals 1\nLieu du match: Lenzburg\nDétails: https://www.swis
+ s-streethockey.ch/fr/game-center/game-details/?spielnr=11126
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11126
+CATEGORIES:Streethockey\,Team Ouest
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11130-2105@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20260926T163000
+DTEND;TZID=Europe/Zurich:20260926T174000
+SUMMARY:SHC La Chaux-de-Fonds 2 vs SHC Seetal Admirals 1
+LOCATION:Lenzburg\, Suisse
+DESCRIPTION:Ligue: Team Ouest\nDomicile: SHC La Chaux-de-Fonds 2\nVisiteurs
+ : SHC Seetal Admirals 1\nLieu du match: Lenzburg\nDétails: https://www.sw
+ iss-streethockey.ch/fr/game-center/game-details/?spielnr=11130
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11130
+CATEGORIES:Streethockey\,Team Ouest
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11139-2105@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261017T104000
+DTEND;TZID=Europe/Zurich:20261017T115000
+SUMMARY:SHC Seetal Admirals 1 vs SHC Diabla 1
+LOCATION:Martigny\, Suisse
+DESCRIPTION:Ligue: Team Ouest\nDomicile: SHC Seetal Admirals 1\nVisiteurs: 
+ SHC Diabla 1\nLieu du match: Martigny\nDétails: https://www.swiss-streeth
+ ockey.ch/fr/game-center/game-details/?spielnr=11139
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11139
+CATEGORIES:Streethockey\,Team Ouest
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11141-2105@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261017T130000
+DTEND;TZID=Europe/Zurich:20261017T141000
+SUMMARY:SHC Martigny 2 vs SHC Seetal Admirals 1
+LOCATION:Martigny\, Suisse
+DESCRIPTION:Ligue: Team Ouest\nDomicile: SHC Martigny 2\nVisiteurs: SHC See
+ tal Admirals 1\nLieu du match: Martigny\nDétails: https://www.swiss-stree
+ thockey.ch/fr/game-center/game-details/?spielnr=11141
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11141
+CATEGORIES:Streethockey\,Team Ouest
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11154-2105@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261114T115000
+DTEND;TZID=Europe/Zurich:20261114T130000
+SUMMARY:SHC Seetal Admirals 1 vs SHC Aegerten-Brügg 1
+LOCATION:La Chaux-de-Fonds\, Suisse
+DESCRIPTION:Ligue: Team Ouest\nDomicile: SHC Seetal Admirals 1\nVisiteurs: 
+ SHC Aegerten-Brügg 1\nLieu du match: La Chaux-de-Fonds\nDétails: https:/
+ /www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11154
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11154
+CATEGORIES:Streethockey\,Team Ouest
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11156-2105@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261114T141000
+DTEND;TZID=Europe/Zurich:20261114T152000
+SUMMARY:SHC Belpa 1107 2 vs SHC Seetal Admirals 1
+LOCATION:La Chaux-de-Fonds\, Suisse
+DESCRIPTION:Ligue: Team Ouest\nDomicile: SHC Belpa 1107 2\nVisiteurs: SHC S
+ eetal Admirals 1\nLieu du match: La Chaux-de-Fonds\nDétails: https://www.
+ swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11156
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11156
+CATEGORIES:Streethockey\,Team Ouest
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11166-2105@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261128T093000
+DTEND;TZID=Europe/Zurich:20261128T104000
+SUMMARY:SHC Seetal Admirals 1 vs SHC La Chaux-de-Fonds 2
+LOCATION:Lenzburg\, Suisse
+DESCRIPTION:Ligue: Team Ouest\nDomicile: SHC Seetal Admirals 1\nVisiteurs: 
+ SHC La Chaux-de-Fonds 2\nLieu du match: Lenzburg\nDétails: https://www.sw
+ iss-streethockey.ch/fr/game-center/game-details/?spielnr=11166
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11166
+CATEGORIES:Streethockey\,Team Ouest
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11169-2105@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261128T130000
+DTEND;TZID=Europe/Zurich:20261128T141000
+SUMMARY:SHC Seetal Admirals 1 vs SHC Fribourg Dragons
+LOCATION:Lenzburg\, Suisse
+DESCRIPTION:Ligue: Team Ouest\nDomicile: SHC Seetal Admirals 1\nVisiteurs: 
+ SHC Fribourg Dragons\nLieu du match: Lenzburg\nDétails: https://www.swiss
+ -streethockey.ch/fr/game-center/game-details/?spielnr=11169
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11169
+CATEGORIES:Streethockey\,Team Ouest
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11172-2105@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261128T163000
+DTEND;TZID=Europe/Zurich:20261128T174000
+SUMMARY:SHC Seetal Admirals 1 vs SHC Martigny 2
+LOCATION:Lenzburg\, Suisse
+DESCRIPTION:Ligue: Team Ouest\nDomicile: SHC Seetal Admirals 1\nVisiteurs: 
+ SHC Martigny 2\nLieu du match: Lenzburg\nDétails: https://www.swiss-stree
+ thockey.ch/fr/game-center/game-details/?spielnr=11172
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11172
+CATEGORIES:Streethockey\,Team Ouest
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11175-2105@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270131T115000
+DTEND;TZID=Europe/Zurich:20270131T130000
+SUMMARY:SHC Diabla 1 vs SHC Seetal Admirals 1
+LOCATION:Aegerten\, Suisse
+DESCRIPTION:Ligue: Team Ouest\nDomicile: SHC Diabla 1\nVisiteurs: SHC Seeta
+ l Admirals 1\nLieu du match: Aegerten\nDétails: https://www.swiss-streeth
+ ockey.ch/fr/game-center/game-details/?spielnr=11175
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11175
+CATEGORIES:Streethockey\,Team Ouest
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11177-2105@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270131T141000
+DTEND;TZID=Europe/Zurich:20270131T152000
+SUMMARY:SHC Seetal Admirals 1 vs Sierre Lions 2
+LOCATION:Aegerten\, Suisse
+DESCRIPTION:Ligue: Team Ouest\nDomicile: SHC Seetal Admirals 1\nVisiteurs: 
+ Sierre Lions 2\nLieu du match: Aegerten\nDétails: https://www.swiss-stree
+ thockey.ch/fr/game-center/game-details/?spielnr=11177
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11177
+CATEGORIES:Streethockey\,Team Ouest
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11147-2105@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270306T115000
+DTEND;TZID=Europe/Zurich:20270306T130000
+SUMMARY:Sierre Lions 2 vs SHC Seetal Admirals 1
+LOCATION:Belp\, Suisse
+DESCRIPTION:Ligue: Team Ouest\nDomicile: Sierre Lions 2\nVisiteurs: SHC See
+ tal Admirals 1\nLieu du match: Belp\nDétails: https://www.swiss-streethoc
+ key.ch/fr/game-center/game-details/?spielnr=11147
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11147
+CATEGORIES:Streethockey\,Team Ouest
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11150-2105@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270306T152000
+DTEND;TZID=Europe/Zurich:20270306T163000
+SUMMARY:SHC Seetal Admirals 1 vs SHC Belpa 1107 2
+LOCATION:Belp\, Suisse
+DESCRIPTION:Ligue: Team Ouest\nDomicile: SHC Seetal Admirals 1\nVisiteurs: 
+ SHC Belpa 1107 2\nLieu du match: Belp\nDétails: https://www.swiss-streeth
+ ockey.ch/fr/game-center/game-details/?spielnr=11150
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11150
+CATEGORIES:Streethockey\,Team Ouest
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

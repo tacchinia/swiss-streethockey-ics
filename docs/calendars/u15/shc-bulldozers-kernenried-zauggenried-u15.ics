@@ -1,0 +1,294 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//swiss-streethockey-ics//Game center calendars//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SHC Bulldozers Kernenried-Zauggenried U15 · U15
+X-WR-CALDESC:Matchs de SHC Bulldozers Kernenried-Zauggenried U15 en U15 (so
+ urce: https://www.swiss-streethockey.ch/fr/game-center/prochains-matchs/).
+X-WR-TIMEZONE:Europe/Zurich
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+X-LIC-LOCATION:Europe/Zurich
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:11278-297@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261025T093000
+DTEND;TZID=Europe/Zurich:20261025T104000
+SUMMARY:Horgenberg Hammers U15 vs SHC Bulldozers Kernenried-Zauggenried U15
+LOCATION:Horgen\, Suisse
+DESCRIPTION:Ligue: U15\nDomicile: Horgenberg Hammers U15\nVisiteurs: SHC Bu
+ lldozers Kernenried-Zauggenried U15\nLieu du match: Horgen\nDétails: http
+ s://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11278
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11278
+CATEGORIES:Streethockey\,U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11280-297@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261025T115000
+DTEND;TZID=Europe/Zurich:20261025T130000
+SUMMARY:SHC Bonstetten-Wettswil U15 vs SHC Bulldozers Kernenried-Zauggenrie
+ d U15
+LOCATION:Horgen\, Suisse
+DESCRIPTION:Ligue: U15\nDomicile: SHC Bonstetten-Wettswil U15\nVisiteurs: S
+ HC Bulldozers Kernenried-Zauggenried U15\nLieu du match: Horgen\nDétails:
+  https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11
+ 280
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11280
+CATEGORIES:Streethockey\,U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11244-297@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261115T104000
+DTEND;TZID=Europe/Zurich:20261115T115000
+SUMMARY:SHC Bulldozers Kernenried-Zauggenried U15 vs SHC Grenchen-Limpachta
+ l U15 GF Weiss
+LOCATION:Zug\, Suisse
+DESCRIPTION:Ligue: U15\nDomicile: SHC Bulldozers Kernenried-Zauggenried U15
+ \nVisiteurs: SHC Grenchen-Limpachtal U15 GF Weiss\nLieu du match: Zug\nDé
+ tails: https://www.swiss-streethockey.ch/fr/game-center/game-details/?spie
+ lnr=11244
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11244
+CATEGORIES:Streethockey\,U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11248-297@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261115T152000
+DTEND;TZID=Europe/Zurich:20261115T163000
+SUMMARY:SHC Bulldozers Kernenried-Zauggenried U15 vs SHC Bonstetten-Wettswi
+ l U15
+LOCATION:Zug\, Suisse
+DESCRIPTION:Ligue: U15\nDomicile: SHC Bulldozers Kernenried-Zauggenried U15
+ \nVisiteurs: SHC Bonstetten-Wettswil U15\nLieu du match: Zug\nDétails: ht
+ tps://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11248
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11248
+CATEGORIES:Streethockey\,U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11254-297@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261205T141000
+DTEND;TZID=Europe/Zurich:20261205T152000
+SUMMARY:SHC Bulldozers Kernenried-Zauggenried U15 vs Oberwil Rebells U15
+LOCATION:Grenchen\, Suisse
+DESCRIPTION:Ligue: U15\nDomicile: SHC Bulldozers Kernenried-Zauggenried U15
+ \nVisiteurs: Oberwil Rebells U15\nLieu du match: Grenchen\nDétails: https
+ ://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11254
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11254
+CATEGORIES:Streethockey\,U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11256-297@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261205T163000
+DTEND;TZID=Europe/Zurich:20261205T174000
+SUMMARY:SHC Bulldozers Kernenried-Zauggenried U15 vs SHC Grenchen-Limpachta
+ l U15 GF Grün
+LOCATION:Grenchen\, Suisse
+DESCRIPTION:Ligue: U15\nDomicile: SHC Bulldozers Kernenried-Zauggenried U15
+ \nVisiteurs: SHC Grenchen-Limpachtal U15 GF Grün\nLieu du match: Grenchen
+ \nDétails: https://www.swiss-streethockey.ch/fr/game-center/game-details/
+ ?spielnr=11256
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11256
+CATEGORIES:Streethockey\,U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11264-297@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270124T093000
+DTEND;TZID=Europe/Zurich:20270124T104000
+SUMMARY:SHC Bettlach U15 vs SHC Bulldozers Kernenried-Zauggenried U15
+LOCATION:Gals\, Suisse
+DESCRIPTION:Ligue: U15\nDomicile: SHC Bettlach U15\nVisiteurs: SHC Bulldoze
+ rs Kernenried-Zauggenried U15\nLieu du match: Gals\nDétails: https://www.
+ swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11264
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11264
+CATEGORIES:Streethockey\,U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11267-297@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270124T130000
+DTEND;TZID=Europe/Zurich:20270124T141000
+SUMMARY:SHC Bulldozers Kernenried-Zauggenried U15 vs SV Gals U15
+LOCATION:Gals\, Suisse
+DESCRIPTION:Ligue: U15\nDomicile: SHC Bulldozers Kernenried-Zauggenried U15
+ \nVisiteurs: SV Gals U15\nLieu du match: Gals\nDétails: https://www.swiss
+ -streethockey.ch/fr/game-center/game-details/?spielnr=11267
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11267
+CATEGORIES:Streethockey\,U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11269-297@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270124T152000
+DTEND;TZID=Europe/Zurich:20270124T163000
+SUMMARY:Oberwil Rebells U15 vs SHC Bulldozers Kernenried-Zauggenried U15
+LOCATION:Gals\, Suisse
+DESCRIPTION:Ligue: U15\nDomicile: Oberwil Rebells U15\nVisiteurs: SHC Bulld
+ ozers Kernenried-Zauggenried U15\nLieu du match: Gals\nDétails: https://w
+ ww.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11269
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11269
+CATEGORIES:Streethockey\,U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11272-297@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270313T104000
+DTEND;TZID=Europe/Zurich:20270313T115000
+SUMMARY:SHC Grenchen-Limpachtal U15 GF Weiss vs SHC Bulldozers Kernenried-Z
+ auggenried U15
+LOCATION:Wettswil\, Suisse
+DESCRIPTION:Ligue: U15\nDomicile: SHC Grenchen-Limpachtal U15 GF Weiss\nVis
+ iteurs: SHC Bulldozers Kernenried-Zauggenried U15\nLieu du match: Wettswil
+ \nDétails: https://www.swiss-streethockey.ch/fr/game-center/game-details/
+ ?spielnr=11272
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11272
+CATEGORIES:Streethockey\,U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11275-297@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270313T141000
+DTEND;TZID=Europe/Zurich:20270313T152000
+SUMMARY:SHC Grenchen-Limpachtal U15 GF Grün vs SHC Bulldozers Kernenried-Z
+ auggenried U15
+LOCATION:Wettswil\, Suisse
+DESCRIPTION:Ligue: U15\nDomicile: SHC Grenchen-Limpachtal U15 GF Grün\nVis
+ iteurs: SHC Bulldozers Kernenried-Zauggenried U15\nLieu du match: Wettswil
+ \nDétails: https://www.swiss-streethockey.ch/fr/game-center/game-details/
+ ?spielnr=11275
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11275
+CATEGORIES:Streethockey\,U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11237-297@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270502T104000
+DTEND;TZID=Europe/Zurich:20270502T115000
+SUMMARY:SV Gals U15 vs SHC Bulldozers Kernenried-Zauggenried U15
+LOCATION:Kernenried\, Suisse
+DESCRIPTION:Ligue: U15\nDomicile: SV Gals U15\nVisiteurs: SHC Bulldozers Ke
+ rnenried-Zauggenried U15\nLieu du match: Kernenried\nDétails: https://www
+ .swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11237
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11237
+CATEGORIES:Streethockey\,U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11240-297@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270502T141000
+DTEND;TZID=Europe/Zurich:20270502T152000
+SUMMARY:SHC Bulldozers Kernenried-Zauggenried U15 vs SHC Bettlach U15
+LOCATION:Kernenried\, Suisse
+DESCRIPTION:Ligue: U15\nDomicile: SHC Bulldozers Kernenried-Zauggenried U15
+ \nVisiteurs: SHC Bettlach U15\nLieu du match: Kernenried\nDétails: https:
+ //www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11240
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11240
+CATEGORIES:Streethockey\,U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11242-297@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270502T163000
+DTEND;TZID=Europe/Zurich:20270502T174000
+SUMMARY:SHC Bulldozers Kernenried-Zauggenried U15 vs Horgenberg Hammers U15
+LOCATION:Kernenried\, Suisse
+DESCRIPTION:Ligue: U15\nDomicile: SHC Bulldozers Kernenried-Zauggenried U15
+ \nVisiteurs: Horgenberg Hammers U15\nLieu du match: Kernenried\nDétails: 
+ https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=112
+ 42
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11242
+CATEGORIES:Streethockey\,U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

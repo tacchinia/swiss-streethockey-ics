@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Calendriers street hockey suisse {{SEASON}}</title>
+<meta name="description" content="Calendriers .ics par équipe et par ligue du championnat suisse de street hockey, saison {{SEASON}}.">
+<link rel="stylesheet" href="assets/style.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><text y='26' font-size='26'>🏒</text></svg>">
+</head>
+<body>
+<a class="skip" href="#leagues">Aller aux calendriers</a>
+
+<header class="hero">
+  <div class="wrap">
+    <p class="kicker">Championnat suisse de street hockey</p>
+    <h1>Calendriers à s'abonner<br>saison {{SEASON}}</h1>
+    <p class="lede">
+      Un calendrier par équipe et par ligue, au format iCalendar. Abonnez-vous une
+      fois : les changements d'horaire, de lieu et les annulations arrivent tout
+      seuls dans votre agenda.
+    </p>
+    <dl class="stats">
+      <div><dt>Ligues</dt><dd>{{LEAGUES}}</dd></div>
+      <div><dt>Équipes</dt><dd>{{TEAMS}}</dd></div>
+      <div><dt>Matchs</dt><dd>{{GAMES}}</dd></div>
+      <div><dt>Calendriers</dt><dd>{{CALENDARS}}</dd></div>
+    </dl>
+    <p class="updated">Dernière mise à jour des données : {{UPDATED}}</p>
+  </div>
+</header>
+
+<main class="wrap">
+  <section class="howto" aria-labelledby="howto-title">
+    <h2 id="howto-title">Comment s'abonner</h2>
+    <ol>
+      <li><strong>Trouvez votre équipe</strong> avec la recherche ci-dessous.</li>
+      <li><strong>Copiez le lien</strong> du calendrier, ou utilisez « S'abonner » sur mobile.</li>
+      <li><strong>Collez-le</strong> dans Google Agenda (Autres agendas → À partir de l'URL),
+        Apple Calendar (Fichier → Nouvel abonnement) ou Outlook (Ajouter un calendrier → S'abonner à partir du Web).</li>
+    </ol>
+    <p class="note">
+      Un abonnement se met à jour tout seul. Un fichier <code>.ics</code> téléchargé
+      est une copie figée : il faudra le retélécharger après chaque changement.
+    </p>
+  </section>
+
+  <div class="searchbar">
+    <label class="visually-hidden" for="search">Rechercher une équipe ou une ligue</label>
+    <input id="search" type="search" autocomplete="off" placeholder="Rechercher une équipe ou une ligue…">
+    <p class="searchbar__count" id="search-count" role="status"></p>
+  </div>
+
+  <div id="leagues">
+{{SECTIONS}}
+    <p class="empty" id="empty" hidden>Aucune équipe ne correspond à cette recherche.</p>
+  </div>
+</main>
+
+<footer class="wrap footer">
+  <p>
+    Données extraites du <a href="{{SOURCE}}">game center de Swiss Street Hockey</a>.
+    Projet non officiel, sans affiliation avec la fédération. En cas de doute, le
+    site de la fédération fait foi.
+  </p>
+  <p>
+    Fuseau horaire Europe/Zurich. La durée d'un match est déduite de l'horaire du
+    site : un match dure jusqu'au suivant sur le même terrain le même jour, et deux
+    heures quand il est seul.
+  </p>
+  <p><a href="calendars.json">calendars.json</a> — la liste des calendriers, exploitable par un script.</p>
+</footer>
+
+<div class="toast" id="toast" role="status" aria-live="polite" hidden></div>
+<script src="assets/app.js"></script>
+</body>
+</html>

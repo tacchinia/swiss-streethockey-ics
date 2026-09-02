@@ -1,0 +1,282 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//swiss-streethockey-ics//Game center calendars//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sierre Lions 2 · Classic League 2
+X-WR-CALDESC:Matchs de Sierre Lions 2 en Classic League 2 (source: https://
+ www.swiss-streethockey.ch/fr/game-center/prochains-matchs/).
+X-WR-TIMEZONE:Europe/Zurich
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+X-LIC-LOCATION:Europe/Zurich
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:11127-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20260926T130000
+DTEND;TZID=Europe/Zurich:20260926T141000
+SUMMARY:Sierre Lions 2 vs SHC Fribourg Dragons
+LOCATION:Lenzburg\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: Sierre Lions 2\nVisiteurs: S
+ HC Fribourg Dragons\nLieu du match: Lenzburg\nDétails: https://www.swiss-
+ streethockey.ch/fr/game-center/game-details/?spielnr=11127
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11127
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11129-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20260926T152000
+DTEND;TZID=Europe/Zurich:20260926T163000
+SUMMARY:SHC Martigny 2 vs Sierre Lions 2
+LOCATION:Lenzburg\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: SHC Martigny 2\nVisiteurs: S
+ ierre Lions 2\nLieu du match: Lenzburg\nDétails: https://www.swiss-street
+ hockey.ch/fr/game-center/game-details/?spielnr=11129
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11129
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11168-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261128T115000
+DTEND;TZID=Europe/Zurich:20261128T130000
+SUMMARY:Sierre Lions 2 vs SHC La Chaux-de-Fonds 2
+LOCATION:Lenzburg\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: Sierre Lions 2\nVisiteurs: S
+ HC La Chaux-de-Fonds 2\nLieu du match: Lenzburg\nDétails: https://www.swi
+ ss-streethockey.ch/fr/game-center/game-details/?spielnr=11168
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11168
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11171-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261128T152000
+DTEND;TZID=Europe/Zurich:20261128T163000
+SUMMARY:SHC Fribourg Dragons vs Sierre Lions 2
+LOCATION:Lenzburg\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: SHC Fribourg Dragons\nVisite
+ urs: Sierre Lions 2\nLieu du match: Lenzburg\nDétails: https://www.swiss-
+ streethockey.ch/fr/game-center/game-details/?spielnr=11171
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11171
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11177-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270131T141000
+DTEND;TZID=Europe/Zurich:20270131T152000
+SUMMARY:SHC Seetal Admirals 1 vs Sierre Lions 2
+LOCATION:Aegerten\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: SHC Seetal Admirals 1\nVisit
+ eurs: Sierre Lions 2\nLieu du match: Aegerten\nDétails: https://www.swiss
+ -streethockey.ch/fr/game-center/game-details/?spielnr=11177
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11177
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11179-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270131T163000
+DTEND;TZID=Europe/Zurich:20270131T174000
+SUMMARY:SHC Aegerten-Brügg 1 vs Sierre Lions 2
+LOCATION:Aegerten\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: SHC Aegerten-Brügg 1\nVisit
+ eurs: Sierre Lions 2\nLieu du match: Aegerten\nDétails: https://www.swiss
+ -streethockey.ch/fr/game-center/game-details/?spielnr=11179
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11179
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11159-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270227T093000
+DTEND;TZID=Europe/Zurich:20270227T104000
+SUMMARY:SHC Diabla 1 vs Sierre Lions 2
+LOCATION:Sierre\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: SHC Diabla 1\nVisiteurs: Sie
+ rre Lions 2\nLieu du match: Sierre\nDétails: https://www.swiss-streethock
+ ey.ch/fr/game-center/game-details/?spielnr=11159
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11159
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11162-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270227T130000
+DTEND;TZID=Europe/Zurich:20270227T141000
+SUMMARY:Sierre Lions 2 vs SHC Martigny 2
+LOCATION:Sierre\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: Sierre Lions 2\nVisiteurs: S
+ HC Martigny 2\nLieu du match: Sierre\nDétails: https://www.swiss-streetho
+ ckey.ch/fr/game-center/game-details/?spielnr=11162
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11162
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11165-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270227T163000
+DTEND;TZID=Europe/Zurich:20270227T174000
+SUMMARY:SHC Belpa 1107 2 vs Sierre Lions 2
+LOCATION:Sierre\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: SHC Belpa 1107 2\nVisiteurs:
+  Sierre Lions 2\nLieu du match: Sierre\nDétails: https://www.swiss-street
+ hockey.ch/fr/game-center/game-details/?spielnr=11165
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11165
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11147-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270306T115000
+DTEND;TZID=Europe/Zurich:20270306T130000
+SUMMARY:Sierre Lions 2 vs SHC Seetal Admirals 1
+LOCATION:Belp\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: Sierre Lions 2\nVisiteurs: S
+ HC Seetal Admirals 1\nLieu du match: Belp\nDétails: https://www.swiss-str
+ eethockey.ch/fr/game-center/game-details/?spielnr=11147
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11147
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11149-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270306T141000
+DTEND;TZID=Europe/Zurich:20270306T152000
+SUMMARY:Sierre Lions 2 vs SHC Aegerten-Brügg 1
+LOCATION:Belp\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: Sierre Lions 2\nVisiteurs: S
+ HC Aegerten-Brügg 1\nLieu du match: Belp\nDétails: https://www.swiss-str
+ eethockey.ch/fr/game-center/game-details/?spielnr=11149
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11149
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11131-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270321T093000
+DTEND;TZID=Europe/Zurich:20270321T104000
+SUMMARY:Sierre Lions 2 vs SHC Diabla 1
+LOCATION:Dorénaz\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: Sierre Lions 2\nVisiteurs: S
+ HC Diabla 1\nLieu du match: Dorénaz\nDétails: https://www.swiss-streetho
+ ckey.ch/fr/game-center/game-details/?spielnr=11131
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11131
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11133-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270321T115000
+DTEND;TZID=Europe/Zurich:20270321T130000
+SUMMARY:Sierre Lions 2 vs SHC Belpa 1107 2
+LOCATION:Dorénaz\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: Sierre Lions 2\nVisiteurs: S
+ HC Belpa 1107 2\nLieu du match: Dorénaz\nDétails: https://www.swiss-stre
+ ethockey.ch/fr/game-center/game-details/?spielnr=11133
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11133
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11136-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270321T152000
+DTEND;TZID=Europe/Zurich:20270321T163000
+SUMMARY:SHC La Chaux-de-Fonds 2 vs Sierre Lions 2
+LOCATION:Dorénaz\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: SHC La Chaux-de-Fonds 2\nVis
+ iteurs: Sierre Lions 2\nLieu du match: Dorénaz\nDétails: https://www.swi
+ ss-streethockey.ch/fr/game-center/game-details/?spielnr=11136
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11136
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,354 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//swiss-streethockey-ics//Game center calendars//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SHC Belpa 1107 U18 · U18
+X-WR-CALDESC:Matchs de SHC Belpa 1107 U18 en U18 (source: https://www.swiss
+ -streethockey.ch/fr/game-center/prochains-matchs/).
+X-WR-TIMEZONE:Europe/Zurich
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+X-LIC-LOCATION:Europe/Zurich
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:10994-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20260919T140000
+DTEND;TZID=Europe/Zurich:20260919T160000
+SUMMARY:SHC Belpa 1107 U18 vs SHC Bettlach U18
+LOCATION:Belp\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: SHC Belpa 1107 U18\nVisiteurs: SHC Bettla
+ ch U18\nLieu du match: Belp\nDétails: https://www.swiss-streethockey.ch/f
+ r/game-center/game-details/?spielnr=10994
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 10994
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:10997-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20260926T103000
+DTEND;TZID=Europe/Zurich:20260926T123000
+SUMMARY:SHC Bonstetten-Wettswil U18 vs SHC Belpa 1107 U18
+LOCATION:Wettswil\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: SHC Bonstetten-Wettswil U18\nVisiteurs: S
+ HC Belpa 1107 U18\nLieu du match: Wettswil\nDétails: https://www.swiss-st
+ reethockey.ch/fr/game-center/game-details/?spielnr=10997
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 10997
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11003-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261004T103000
+DTEND;TZID=Europe/Zurich:20261004T123000
+SUMMARY:SHC Belpa 1107 U18 vs Horgenberg Hammers U18
+LOCATION:Belp\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: SHC Belpa 1107 U18\nVisiteurs: Horgenberg
+  Hammers U18\nLieu du match: Belp\nDétails: https://www.swiss-streethocke
+ y.ch/fr/game-center/game-details/?spielnr=11003
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11003
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11006-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261011T140000
+DTEND;TZID=Europe/Zurich:20261011T160000
+SUMMARY:SHC Belpa 1107 U18 vs SHC La Chaux-de-Fonds U18
+LOCATION:Belp\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: SHC Belpa 1107 U18\nVisiteurs: SHC La Cha
+ ux-de-Fonds U18\nLieu du match: Belp\nDétails: https://www.swiss-streetho
+ ckey.ch/fr/game-center/game-details/?spielnr=11006
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11006
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11014-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261030T200000
+DTEND;TZID=Europe/Zurich:20261030T220000
+SUMMARY:SHC Belpa 1107 U18 vs SHC Bulldozers Kernenried-Zauggenried U18
+LOCATION:Belp\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: SHC Belpa 1107 U18\nVisiteurs: SHC Bulldo
+ zers Kernenried-Zauggenried U18\nLieu du match: Belp\nDétails: https://ww
+ w.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11014
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11014
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11018-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261031T103000
+DTEND;TZID=Europe/Zurich:20261031T123000
+SUMMARY:SHC Grenchen-Limpachtal U18 vs SHC Belpa 1107 U18
+LOCATION:Grenchen\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: SHC Grenchen-Limpachtal U18\nVisiteurs: S
+ HC Belpa 1107 U18\nLieu du match: Grenchen\nDétails: https://www.swiss-st
+ reethockey.ch/fr/game-center/game-details/?spielnr=11018
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11018
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11028-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261114T140000
+DTEND;TZID=Europe/Zurich:20261114T160000
+SUMMARY:Oberwil Rebells U18 vs SHC Belpa 1107 U18
+LOCATION:Zug\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: Oberwil Rebells U18\nVisiteurs: SHC Belpa
+  1107 U18\nLieu du match: Zug\nDétails: https://www.swiss-streethockey.ch
+ /fr/game-center/game-details/?spielnr=11028
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11028
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11031-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261121T103000
+DTEND;TZID=Europe/Zurich:20261121T123000
+SUMMARY:SHC Belpa 1107 U18 vs SHC Martigny U18
+LOCATION:Belp\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: SHC Belpa 1107 U18\nVisiteurs: SHC Martig
+ ny U18\nLieu du match: Belp\nDétails: https://www.swiss-streethockey.ch/f
+ r/game-center/game-details/?spielnr=11031
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11031
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11036-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261127T200000
+DTEND;TZID=Europe/Zurich:20261127T220000
+SUMMARY:SHC Bettlach U18 vs SHC Belpa 1107 U18
+LOCATION:Bettlach\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: SHC Bettlach U18\nVisiteurs: SHC Belpa 11
+ 07 U18\nLieu du match: Bettlach\nDétails: https://www.swiss-streethockey.
+ ch/fr/game-center/game-details/?spielnr=11036
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11036
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11040-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261129T103000
+DTEND;TZID=Europe/Zurich:20261129T123000
+SUMMARY:Sierre Lions U18 vs SHC Belpa 1107 U18
+LOCATION:Sierre\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: Sierre Lions U18\nVisiteurs: SHC Belpa 11
+ 07 U18\nLieu du match: Sierre\nDétails: https://www.swiss-streethockey.ch
+ /fr/game-center/game-details/?spielnr=11040
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11040
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11046-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261206T140000
+DTEND;TZID=Europe/Zurich:20261206T160000
+SUMMARY:SHC La Chaux-de-Fonds U18 vs SHC Belpa 1107 U18
+LOCATION:La Chaux-de-Fonds\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: SHC La Chaux-de-Fonds U18\nVisiteurs: SHC
+  Belpa 1107 U18\nLieu du match: La Chaux-de-Fonds\nDétails: https://www.s
+ wiss-streethockey.ch/fr/game-center/game-details/?spielnr=11046
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11046
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11048-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261212T140000
+DTEND;TZID=Europe/Zurich:20261212T160000
+SUMMARY:Horgenberg Hammers U18 vs SHC Belpa 1107 U18
+LOCATION:Horgen\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: Horgenberg Hammers U18\nVisiteurs: SHC Be
+ lpa 1107 U18\nLieu du match: Horgen\nDétails: https://www.swiss-streethoc
+ key.ch/fr/game-center/game-details/?spielnr=11048
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11048
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11051-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261213T140000
+DTEND;TZID=Europe/Zurich:20261213T160000
+SUMMARY:SHC Belpa 1107 U18 vs SHC Bonstetten-Wettswil U18
+LOCATION:Belp\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: SHC Belpa 1107 U18\nVisiteurs: SHC Bonste
+ tten-Wettswil U18\nLieu du match: Belp\nDétails: https://www.swiss-street
+ hockey.ch/fr/game-center/game-details/?spielnr=11051
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11051
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11054-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270116T140000
+DTEND;TZID=Europe/Zurich:20270116T160000
+SUMMARY:SHC Belpa 1107 U18 vs Sierre Lions U18
+LOCATION:Belp\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: SHC Belpa 1107 U18\nVisiteurs: Sierre Lio
+ ns U18\nLieu du match: Belp\nDétails: https://www.swiss-streethockey.ch/f
+ r/game-center/game-details/?spielnr=11054
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11054
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11060-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270124T103000
+DTEND;TZID=Europe/Zurich:20270124T123000
+SUMMARY:SHC Belpa 1107 U18 vs SHC Grenchen-Limpachtal U18
+LOCATION:Belp\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: SHC Belpa 1107 U18\nVisiteurs: SHC Grench
+ en-Limpachtal U18\nLieu du match: Belp\nDétails: https://www.swiss-street
+ hockey.ch/fr/game-center/game-details/?spielnr=11060
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11060
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11064-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270129T200000
+DTEND;TZID=Europe/Zurich:20270129T220000
+SUMMARY:SHC Bulldozers Kernenried-Zauggenried U18 vs SHC Belpa 1107 U18
+LOCATION:Kernenried\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: SHC Bulldozers Kernenried-Zauggenried U18
+ \nVisiteurs: SHC Belpa 1107 U18\nLieu du match: Kernenried\nDétails: http
+ s://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11064
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11064
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11075-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270227T140000
+DTEND;TZID=Europe/Zurich:20270227T160000
+SUMMARY:SHC Martigny U18 vs SHC Belpa 1107 U18
+LOCATION:Martigny\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: SHC Martigny U18\nVisiteurs: SHC Belpa 11
+ 07 U18\nLieu du match: Martigny\nDétails: https://www.swiss-streethockey.
+ ch/fr/game-center/game-details/?spielnr=11075
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11075
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11079-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270228T140000
+DTEND;TZID=Europe/Zurich:20270228T160000
+SUMMARY:SHC Belpa 1107 U18 vs Oberwil Rebells U18
+LOCATION:Belp\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: SHC Belpa 1107 U18\nVisiteurs: Oberwil Re
+ bells U18\nLieu du match: Belp\nDétails: https://www.swiss-streethockey.c
+ h/fr/game-center/game-details/?spielnr=11079
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11079
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,282 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//swiss-streethockey-ics//Game center calendars//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SHC Steckholz · Classic League 2
+X-WR-CALDESC:Matchs de SHC Steckholz en Classic League 2 (source: https://w
+ ww.swiss-streethockey.ch/fr/game-center/prochains-matchs/).
+X-WR-TIMEZONE:Europe/Zurich
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+X-LIC-LOCATION:Europe/Zurich
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:11223-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261101T111000
+DTEND;TZID=Europe/Zurich:20261101T122000
+SUMMARY:SHC Bonstetten-Wettswil 2 vs SHC Steckholz
+LOCATION:Lenzburg\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: SHC Bonstetten-Wettswil 2\nV
+ isiteurs: SHC Steckholz\nLieu du match: Lenzburg\nDétails: https://www.sw
+ iss-streethockey.ch/fr/game-center/game-details/?spielnr=11223
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11223
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11225-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261101T133000
+DTEND;TZID=Europe/Zurich:20261101T144000
+SUMMARY:SHC Berner Oberland 1 vs SHC Steckholz
+LOCATION:Lenzburg\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: SHC Berner Oberland 1\nVisit
+ eurs: SHC Steckholz\nLieu du match: Lenzburg\nDétails: https://www.swiss-
+ streethockey.ch/fr/game-center/game-details/?spielnr=11225
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11225
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11229-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261129T100000
+DTEND;TZID=Europe/Zurich:20261129T111000
+SUMMARY:SHC Steckholz vs SHC Langenthal Devils 1
+LOCATION:Langenthal\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: SHC Steckholz\nVisiteurs: SH
+ C Langenthal Devils 1\nLieu du match: Langenthal\nDétails: https://www.sw
+ iss-streethockey.ch/fr/game-center/game-details/?spielnr=11229
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11229
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11232-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261129T133000
+DTEND;TZID=Europe/Zurich:20261129T144000
+SUMMARY:SHC Grenchen-Limpachtal 3 vs SHC Steckholz
+LOCATION:Langenthal\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: SHC Grenchen-Limpachtal 3\nV
+ isiteurs: SHC Steckholz\nLieu du match: Langenthal\nDétails: https://www.
+ swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11232
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11232
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11188-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261213T111000
+DTEND;TZID=Europe/Zurich:20261213T122000
+SUMMARY:SHC Bettlach 2 vs SHC Steckholz
+LOCATION:Bettlach\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: SHC Bettlach 2\nVisiteurs: S
+ HC Steckholz\nLieu du match: Bettlach\nDétails: https://www.swiss-streeth
+ ockey.ch/fr/game-center/game-details/?spielnr=11188
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11188
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11190-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261213T133000
+DTEND;TZID=Europe/Zurich:20261213T144000
+SUMMARY:SHC Langenthal Devils 1 vs SHC Steckholz
+LOCATION:Bettlach\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: SHC Langenthal Devils 1\nVis
+ iteurs: SHC Steckholz\nLieu du match: Bettlach\nDétails: https://www.swis
+ s-streethockey.ch/fr/game-center/game-details/?spielnr=11190
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11190
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11192-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261213T155000
+DTEND;TZID=Europe/Zurich:20261213T170000
+SUMMARY:SHC Steckholz vs SHC Grenchen-Limpachtal 3
+LOCATION:Bettlach\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: SHC Steckholz\nVisiteurs: SH
+ C Grenchen-Limpachtal 3\nLieu du match: Bettlach\nDétails: https://www.sw
+ iss-streethockey.ch/fr/game-center/game-details/?spielnr=11192
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11192
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11181-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270130T111000
+DTEND;TZID=Europe/Zurich:20270130T122000
+SUMMARY:Horgenberg Hammers 2 vs SHC Steckholz
+LOCATION:Lenzburg\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: Horgenberg Hammers 2\nVisite
+ urs: SHC Steckholz\nLieu du match: Lenzburg\nDétails: https://www.swiss-s
+ treethockey.ch/fr/game-center/game-details/?spielnr=11181
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11181
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11185-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270130T155000
+DTEND;TZID=Europe/Zurich:20270130T170000
+SUMMARY:SHC Seetal Admirals 2 vs SHC Steckholz
+LOCATION:Lenzburg\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: SHC Seetal Admirals 2\nVisit
+ eurs: SHC Steckholz\nLieu du match: Lenzburg\nDétails: https://www.swiss-
+ streethockey.ch/fr/game-center/game-details/?spielnr=11185
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11185
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11195-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270220T111000
+DTEND;TZID=Europe/Zurich:20270220T122000
+SUMMARY:SHC Steckholz vs SHC Bonstetten-Wettswil 2
+LOCATION:Grenchen\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: SHC Steckholz\nVisiteurs: SH
+ C Bonstetten-Wettswil 2\nLieu du match: Grenchen\nDétails: https://www.sw
+ iss-streethockey.ch/fr/game-center/game-details/?spielnr=11195
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11195
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11199-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270220T155000
+DTEND;TZID=Europe/Zurich:20270220T170000
+SUMMARY:SHC Steckholz vs SHC Berner Oberland 1
+LOCATION:Grenchen\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: SHC Steckholz\nVisiteurs: SH
+ C Berner Oberland 1\nLieu du match: Grenchen\nDétails: https://www.swiss-
+ streethockey.ch/fr/game-center/game-details/?spielnr=11199
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11199
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11209-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270307T111000
+DTEND;TZID=Europe/Zurich:20270307T122000
+SUMMARY:SHC Steckholz vs Horgenberg Hammers 2
+LOCATION:Langenthal\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: SHC Steckholz\nVisiteurs: Ho
+ rgenberg Hammers 2\nLieu du match: Langenthal\nDétails: https://www.swiss
+ -streethockey.ch/fr/game-center/game-details/?spielnr=11209
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11209
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11211-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270307T133000
+DTEND;TZID=Europe/Zurich:20270307T144000
+SUMMARY:SHC Steckholz vs SHC Seetal Admirals 2
+LOCATION:Langenthal\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: SHC Steckholz\nVisiteurs: SH
+ C Seetal Admirals 2\nLieu du match: Langenthal\nDétails: https://www.swis
+ s-streethockey.ch/fr/game-center/game-details/?spielnr=11211
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11211
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11213-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270307T155000
+DTEND;TZID=Europe/Zurich:20270307T170000
+SUMMARY:SHC Steckholz vs SHC Bettlach 2
+LOCATION:Langenthal\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: SHC Steckholz\nVisiteurs: SH
+ C Bettlach 2\nLieu du match: Langenthal\nDétails: https://www.swiss-stree
+ thockey.ch/fr/game-center/game-details/?spielnr=11213
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11213
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

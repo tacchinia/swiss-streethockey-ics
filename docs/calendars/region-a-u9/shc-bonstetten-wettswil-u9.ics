@@ -1,0 +1,318 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//swiss-streethockey-ics//Game center calendars//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SHC Bonstetten-Wettswil U9 · Région A U9
+X-WR-CALDESC:Matchs de SHC Bonstetten-Wettswil U9 en Région A U9 (source: 
+ https://www.swiss-streethockey.ch/fr/game-center/prochains-matchs/).
+X-WR-TIMEZONE:Europe/Zurich
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+X-LIC-LOCATION:Europe/Zurich
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:11443-2113@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261025T100000
+DTEND;TZID=Europe/Zurich:20261025T102000
+SUMMARY:SHC Bonstetten-Wettswil U9 vs Oberwil Rebells U9
+LOCATION:Wettswil\, Suisse
+DESCRIPTION:Ligue: Région A U9\nDomicile: SHC Bonstetten-Wettswil U9\nVisi
+ teurs: Oberwil Rebells U9\nLieu du match: Wettswil\nDétails: https://www.
+ swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11443
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11443
+CATEGORIES:Streethockey\,Région A U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11446-2113@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261025T110000
+DTEND;TZID=Europe/Zurich:20261025T112000
+SUMMARY:SHC Bonstetten-Wettswil U9 vs SHC Erlinsbach U9
+LOCATION:Wettswil\, Suisse
+DESCRIPTION:Ligue: Région A U9\nDomicile: SHC Bonstetten-Wettswil U9\nVisi
+ teurs: SHC Erlinsbach U9\nLieu du match: Wettswil\nDétails: https://www.s
+ wiss-streethockey.ch/fr/game-center/game-details/?spielnr=11446
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11446
+CATEGORIES:Streethockey\,Région A U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11447-2113@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261025T112000
+DTEND;TZID=Europe/Zurich:20261025T114000
+SUMMARY:Oberwil Rebells U9 vs SHC Bonstetten-Wettswil U9
+LOCATION:Wettswil\, Suisse
+DESCRIPTION:Ligue: Région A U9\nDomicile: Oberwil Rebells U9\nVisiteurs: S
+ HC Bonstetten-Wettswil U9\nLieu du match: Wettswil\nDétails: https://www.
+ swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11447
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11447
+CATEGORIES:Streethockey\,Région A U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11450-2113@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261025T122000
+DTEND;TZID=Europe/Zurich:20261025T124000
+SUMMARY:SHC Erlinsbach U9 vs SHC Bonstetten-Wettswil U9
+LOCATION:Wettswil\, Suisse
+DESCRIPTION:Ligue: Région A U9\nDomicile: SHC Erlinsbach U9\nVisiteurs: SH
+ C Bonstetten-Wettswil U9\nLieu du match: Wettswil\nDétails: https://www.s
+ wiss-streethockey.ch/fr/game-center/game-details/?spielnr=11450
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11450
+CATEGORIES:Streethockey\,Région A U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11420-2113@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270124T102000
+DTEND;TZID=Europe/Zurich:20270124T104000
+SUMMARY:SHC Erlinsbach U9 vs SHC Bonstetten-Wettswil U9
+LOCATION:Horgen\, Suisse
+DESCRIPTION:Ligue: Région A U9\nDomicile: SHC Erlinsbach U9\nVisiteurs: SH
+ C Bonstetten-Wettswil U9\nLieu du match: Horgen\nDétails: https://www.swi
+ ss-streethockey.ch/fr/game-center/game-details/?spielnr=11420
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11420
+CATEGORIES:Streethockey\,Région A U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11422-2113@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270124T110000
+DTEND;TZID=Europe/Zurich:20270124T112000
+SUMMARY:Horgenberg Hämmerlis U9 vs SHC Bonstetten-Wettswil U9
+LOCATION:Horgen\, Suisse
+DESCRIPTION:Ligue: Région A U9\nDomicile: Horgenberg Hämmerlis U9\nVisite
+ urs: SHC Bonstetten-Wettswil U9\nLieu du match: Horgen\nDétails: https://
+ www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11422
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11422
+CATEGORIES:Streethockey\,Région A U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11424-2113@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270124T114000
+DTEND;TZID=Europe/Zurich:20270124T120000
+SUMMARY:SHC Bonstetten-Wettswil U9 vs SHC Erlinsbach U9
+LOCATION:Horgen\, Suisse
+DESCRIPTION:Ligue: Région A U9\nDomicile: SHC Bonstetten-Wettswil U9\nVisi
+ teurs: SHC Erlinsbach U9\nLieu du match: Horgen\nDétails: https://www.swi
+ ss-streethockey.ch/fr/game-center/game-details/?spielnr=11424
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11424
+CATEGORIES:Streethockey\,Région A U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11426-2113@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270124T122000
+DTEND;TZID=Europe/Zurich:20270124T124000
+SUMMARY:SHC Bonstetten-Wettswil U9 vs Horgenberg Hämmerlis U9
+LOCATION:Horgen\, Suisse
+DESCRIPTION:Ligue: Région A U9\nDomicile: SHC Bonstetten-Wettswil U9\nVisi
+ teurs: Horgenberg Hämmerlis U9\nLieu du match: Horgen\nDétails: https://
+ www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11426
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11426
+CATEGORIES:Streethockey\,Région A U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11436-2113@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270306T102000
+DTEND;TZID=Europe/Zurich:20270306T104000
+SUMMARY:Oberwil Rebells U9 vs SHC Bonstetten-Wettswil U9
+LOCATION:Grenchen\, Suisse
+DESCRIPTION:Ligue: Région A U9\nDomicile: Oberwil Rebells U9\nVisiteurs: S
+ HC Bonstetten-Wettswil U9\nLieu du match: Grenchen\nDétails: https://www.
+ swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11436
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11436
+CATEGORIES:Streethockey\,Région A U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11438-2113@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270306T110000
+DTEND;TZID=Europe/Zurich:20270306T112000
+SUMMARY:SHC Bonstetten-Wettswil U9 vs SHC Grenchen-Limpachtal U9
+LOCATION:Grenchen\, Suisse
+DESCRIPTION:Ligue: Région A U9\nDomicile: SHC Bonstetten-Wettswil U9\nVisi
+ teurs: SHC Grenchen-Limpachtal U9\nLieu du match: Grenchen\nDétails: http
+ s://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11438
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11438
+CATEGORIES:Streethockey\,Région A U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11440-2113@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270306T114000
+DTEND;TZID=Europe/Zurich:20270306T120000
+SUMMARY:SHC Bonstetten-Wettswil U9 vs Oberwil Rebells U9
+LOCATION:Grenchen\, Suisse
+DESCRIPTION:Ligue: Région A U9\nDomicile: SHC Bonstetten-Wettswil U9\nVisi
+ teurs: Oberwil Rebells U9\nLieu du match: Grenchen\nDétails: https://www.
+ swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11440
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11440
+CATEGORIES:Streethockey\,Région A U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11442-2113@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270306T122000
+DTEND;TZID=Europe/Zurich:20270306T124000
+SUMMARY:SHC Grenchen-Limpachtal U9 vs SHC Bonstetten-Wettswil U9
+LOCATION:Grenchen\, Suisse
+DESCRIPTION:Ligue: Région A U9\nDomicile: SHC Grenchen-Limpachtal U9\nVisi
+ teurs: SHC Bonstetten-Wettswil U9\nLieu du match: Grenchen\nDétails: http
+ s://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11442
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11442
+CATEGORIES:Streethockey\,Région A U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11452-2113@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270404T102000
+DTEND;TZID=Europe/Zurich:20270404T104000
+SUMMARY:SHC Grenchen-Limpachtal U9 vs SHC Bonstetten-Wettswil U9
+LOCATION:Erlinsbach\, Suisse
+DESCRIPTION:Ligue: Région A U9\nDomicile: SHC Grenchen-Limpachtal U9\nVisi
+ teurs: SHC Bonstetten-Wettswil U9\nLieu du match: Erlinsbach\nDétails: ht
+ tps://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11452
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11452
+CATEGORIES:Streethockey\,Région A U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11453-2113@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270404T104000
+DTEND;TZID=Europe/Zurich:20270404T110000
+SUMMARY:SHC Bonstetten-Wettswil U9 vs Horgenberg Hämmerlis U9
+LOCATION:Erlinsbach\, Suisse
+DESCRIPTION:Ligue: Région A U9\nDomicile: SHC Bonstetten-Wettswil U9\nVisi
+ teurs: Horgenberg Hämmerlis U9\nLieu du match: Erlinsbach\nDétails: http
+ s://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11453
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11453
+CATEGORIES:Streethockey\,Région A U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11456-2113@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270404T114000
+DTEND;TZID=Europe/Zurich:20270404T120000
+SUMMARY:SHC Bonstetten-Wettswil U9 vs SHC Grenchen-Limpachtal U9
+LOCATION:Erlinsbach\, Suisse
+DESCRIPTION:Ligue: Région A U9\nDomicile: SHC Bonstetten-Wettswil U9\nVisi
+ teurs: SHC Grenchen-Limpachtal U9\nLieu du match: Erlinsbach\nDétails: ht
+ tps://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11456
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11456
+CATEGORIES:Streethockey\,Région A U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11457-2113@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270404T120000
+DTEND;TZID=Europe/Zurich:20270404T122000
+SUMMARY:Horgenberg Hämmerlis U9 vs SHC Bonstetten-Wettswil U9
+LOCATION:Erlinsbach\, Suisse
+DESCRIPTION:Ligue: Région A U9\nDomicile: Horgenberg Hämmerlis U9\nVisite
+ urs: SHC Bonstetten-Wettswil U9\nLieu du match: Erlinsbach\nDétails: http
+ s://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11457
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11457
+CATEGORIES:Streethockey\,Région A U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

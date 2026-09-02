@@ -1,0 +1,354 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//swiss-streethockey-ics//Game center calendars//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sierre Lions U18 · U18
+X-WR-CALDESC:Matchs de Sierre Lions U18 en U18 (source: https://www.swiss-s
+ treethockey.ch/fr/game-center/prochains-matchs/).
+X-WR-TIMEZONE:Europe/Zurich
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+X-LIC-LOCATION:Europe/Zurich
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:10996-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20260920T103000
+DTEND;TZID=Europe/Zurich:20260920T123000
+SUMMARY:Sierre Lions U18 vs SHC Martigny U18
+LOCATION:Sierre\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: Sierre Lions U18\nVisiteurs: SHC Martigny
+  U18\nLieu du match: Sierre\nDétails: https://www.swiss-streethockey.ch/f
+ r/game-center/game-details/?spielnr=10996
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 10996
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11000-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20260927T103000
+DTEND;TZID=Europe/Zurich:20260927T123000
+SUMMARY:SHC Bettlach U18 vs Sierre Lions U18
+LOCATION:Bettlach\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: SHC Bettlach U18\nVisiteurs: Sierre Lions
+  U18\nLieu du match: Bettlach\nDétails: https://www.swiss-streethockey.ch
+ /fr/game-center/game-details/?spielnr=11000
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11000
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11002-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261003T103000
+DTEND;TZID=Europe/Zurich:20261003T123000
+SUMMARY:SHC La Chaux-de-Fonds U18 vs Sierre Lions U18
+LOCATION:La Chaux-de-Fonds\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: SHC La Chaux-de-Fonds U18\nVisiteurs: Sie
+ rre Lions U18\nLieu du match: La Chaux-de-Fonds\nDétails: https://www.swi
+ ss-streethockey.ch/fr/game-center/game-details/?spielnr=11002
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11002
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11015-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261031T140000
+DTEND;TZID=Europe/Zurich:20261031T160000
+SUMMARY:SHC Bulldozers Kernenried-Zauggenried U18 vs Sierre Lions U18
+LOCATION:Kernenried\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: SHC Bulldozers Kernenried-Zauggenried U18
+ \nVisiteurs: Sierre Lions U18\nLieu du match: Kernenried\nDétails: https:
+ //www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11015
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11015
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11019-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261101T140000
+DTEND;TZID=Europe/Zurich:20261101T160000
+SUMMARY:Sierre Lions U18 vs Oberwil Rebells U18
+LOCATION:Sierre\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: Sierre Lions U18\nVisiteurs: Oberwil Rebe
+ lls U18\nLieu du match: Sierre\nDétails: https://www.swiss-streethockey.c
+ h/fr/game-center/game-details/?spielnr=11019
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11019
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11022-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261107T140000
+DTEND;TZID=Europe/Zurich:20261107T160000
+SUMMARY:Sierre Lions U18 vs SHC Bonstetten-Wettswil U18
+LOCATION:Sierre\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: Sierre Lions U18\nVisiteurs: SHC Bonstett
+ en-Wettswil U18\nLieu du match: Sierre\nDétails: https://www.swiss-street
+ hockey.ch/fr/game-center/game-details/?spielnr=11022
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11022
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11029-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261114T140000
+DTEND;TZID=Europe/Zurich:20261114T160000
+SUMMARY:Sierre Lions U18 vs SHC Grenchen-Limpachtal U18
+LOCATION:Sierre\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: Sierre Lions U18\nVisiteurs: SHC Grenchen
+ -Limpachtal U18\nLieu du match: Sierre\nDétails: https://www.swiss-street
+ hockey.ch/fr/game-center/game-details/?spielnr=11029
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11029
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11033-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261121T103000
+DTEND;TZID=Europe/Zurich:20261121T123000
+SUMMARY:Horgenberg Hammers U18 vs Sierre Lions U18
+LOCATION:Horgen\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: Horgenberg Hammers U18\nVisiteurs: Sierre
+  Lions U18\nLieu du match: Horgen\nDétails: https://www.swiss-streethocke
+ y.ch/fr/game-center/game-details/?spielnr=11033
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11033
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11037-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261127T200000
+DTEND;TZID=Europe/Zurich:20261127T220000
+SUMMARY:SHC Martigny U18 vs Sierre Lions U18
+LOCATION:Martigny\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: SHC Martigny U18\nVisiteurs: Sierre Lions
+  U18\nLieu du match: Martigny\nDétails: https://www.swiss-streethockey.ch
+ /fr/game-center/game-details/?spielnr=11037
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11037
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11040-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261129T103000
+DTEND;TZID=Europe/Zurich:20261129T123000
+SUMMARY:Sierre Lions U18 vs SHC Belpa 1107 U18
+LOCATION:Sierre\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: Sierre Lions U18\nVisiteurs: SHC Belpa 11
+ 07 U18\nLieu du match: Sierre\nDétails: https://www.swiss-streethockey.ch
+ /fr/game-center/game-details/?spielnr=11040
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11040
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11042-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261205T140000
+DTEND;TZID=Europe/Zurich:20261205T160000
+SUMMARY:Sierre Lions U18 vs SHC Bettlach U18
+LOCATION:Sierre\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: Sierre Lions U18\nVisiteurs: SHC Bettlach
+  U18\nLieu du match: Sierre\nDétails: https://www.swiss-streethockey.ch/f
+ r/game-center/game-details/?spielnr=11042
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11042
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11050-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261212T140000
+DTEND;TZID=Europe/Zurich:20261212T160000
+SUMMARY:Sierre Lions U18 vs SHC La Chaux-de-Fonds U18
+LOCATION:Sierre\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: Sierre Lions U18\nVisiteurs: SHC La Chaux
+ -de-Fonds U18\nLieu du match: Sierre\nDétails: https://www.swiss-streetho
+ ckey.ch/fr/game-center/game-details/?spielnr=11050
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11050
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11053-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261213T140000
+DTEND;TZID=Europe/Zurich:20261213T160000
+SUMMARY:Oberwil Rebells U18 vs Sierre Lions U18
+LOCATION:Zug\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: Oberwil Rebells U18\nVisiteurs: Sierre Li
+ ons U18\nLieu du match: Zug\nDétails: https://www.swiss-streethockey.ch/f
+ r/game-center/game-details/?spielnr=11053
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11053
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11054-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270116T140000
+DTEND;TZID=Europe/Zurich:20270116T160000
+SUMMARY:SHC Belpa 1107 U18 vs Sierre Lions U18
+LOCATION:Belp\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: SHC Belpa 1107 U18\nVisiteurs: Sierre Lio
+ ns U18\nLieu du match: Belp\nDétails: https://www.swiss-streethockey.ch/f
+ r/game-center/game-details/?spielnr=11054
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11054
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11062-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270124T140000
+DTEND;TZID=Europe/Zurich:20270124T160000
+SUMMARY:Sierre Lions U18 vs SHC Bulldozers Kernenried-Zauggenried U18
+LOCATION:Sierre\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: Sierre Lions U18\nVisiteurs: SHC Bulldoze
+ rs Kernenried-Zauggenried U18\nLieu du match: Sierre\nDétails: https://ww
+ w.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11062
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11062
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11069-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270131T140000
+DTEND;TZID=Europe/Zurich:20270131T160000
+SUMMARY:SHC Bonstetten-Wettswil U18 vs Sierre Lions U18
+LOCATION:Wettswil\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: SHC Bonstetten-Wettswil U18\nVisiteurs: S
+ ierre Lions U18\nLieu du match: Wettswil\nDétails: https://www.swiss-stre
+ ethockey.ch/fr/game-center/game-details/?spielnr=11069
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11069
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11081-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270206T140000
+DTEND;TZID=Europe/Zurich:20270206T160000
+SUMMARY:Sierre Lions U18 vs Horgenberg Hammers U18
+LOCATION:Sierre\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: Sierre Lions U18\nVisiteurs: Horgenberg H
+ ammers U18\nLieu du match: Sierre\nDétails: https://www.swiss-streethocke
+ y.ch/fr/game-center/game-details/?spielnr=11081
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11081
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11073-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270221T103000
+DTEND;TZID=Europe/Zurich:20270221T123000
+SUMMARY:SHC Grenchen-Limpachtal U18 vs Sierre Lions U18
+LOCATION:Grenchen\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: SHC Grenchen-Limpachtal U18\nVisiteurs: S
+ ierre Lions U18\nLieu du match: Grenchen\nDétails: https://www.swiss-stre
+ ethockey.ch/fr/game-center/game-details/?spielnr=11073
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11073
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

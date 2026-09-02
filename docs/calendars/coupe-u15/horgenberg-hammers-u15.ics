@@ -1,0 +1,67 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//swiss-streethockey-ics//Game center calendars//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Horgenberg Hammers U15 · Coupe U15
+X-WR-CALDESC:Matchs de Horgenberg Hammers U15 en Coupe U15 (source: https:/
+ /www.swiss-streethockey.ch/fr/game-center/prochains-matchs/).
+X-WR-TIMEZONE:Europe/Zurich
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+X-LIC-LOCATION:Europe/Zurich
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:11538-302@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261122T100000
+DTEND;TZID=Europe/Zurich:20261122T111000
+SUMMARY:SHC Bettlach U15 vs Horgenberg Hammers U15
+LOCATION:Bettlach\, Suisse
+DESCRIPTION:Ligue: Coupe U15\nDomicile: SHC Bettlach U15\nVisiteurs: Horgen
+ berg Hammers U15\nLieu du match: Bettlach\nDétails: https://www.swiss-str
+ eethockey.ch/fr/game-center/game-details/?spielnr=11538
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11538
+CATEGORIES:Streethockey\,Coupe U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11540-302@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261122T125000
+DTEND;TZID=Europe/Zurich:20261122T140000
+SUMMARY:SHC Grenchen-Limpachtal U15 GF Grün vs Horgenberg Hammers U15
+LOCATION:Bettlach\, Suisse
+DESCRIPTION:Ligue: Coupe U15\nDomicile: SHC Grenchen-Limpachtal U15 GF Grü
+ n\nVisiteurs: Horgenberg Hammers U15\nLieu du match: Bettlach\nDétails: h
+ ttps://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=1154
+ 0
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11540
+CATEGORIES:Streethockey\,Coupe U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

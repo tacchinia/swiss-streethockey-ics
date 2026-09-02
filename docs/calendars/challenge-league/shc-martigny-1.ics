@@ -1,0 +1,249 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//swiss-streethockey-ics//Game center calendars//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SHC Martigny 1 · Challenge League
+X-WR-CALDESC:Matchs de SHC Martigny 1 en Challenge League (source: https://
+ www.swiss-streethockey.ch/fr/game-center/prochains-matchs/).
+X-WR-TIMEZONE:Europe/Zurich
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+X-LIC-LOCATION:Europe/Zurich
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:10964-291@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20260927T140000
+DTEND;TZID=Europe/Zurich:20260927T160000
+SUMMARY:SHC Bulldozers Kernenried-Zauggenried 2 vs SHC Martigny 1
+LOCATION:Kernenried\, Suisse
+DESCRIPTION:Ligue: Challenge League\nDomicile: SHC Bulldozers Kernenried-Za
+ uggenried 2\nVisiteurs: SHC Martigny 1\nLieu du match: Kernenried\nDétail
+ s: https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 10964
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 10964
+CATEGORIES:Streethockey\,Challenge League
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:10968-291@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261018T140000
+DTEND;TZID=Europe/Zurich:20261018T160000
+SUMMARY:SHC Martigny 1 vs SHC Belpa 1107 1
+LOCATION:Martigny\, Suisse
+DESCRIPTION:Ligue: Challenge League\nDomicile: SHC Martigny 1\nVisiteurs: S
+ HC Belpa 1107 1\nLieu du match: Martigny\nDétails: https://www.swiss-stre
+ ethockey.ch/fr/game-center/game-details/?spielnr=10968
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 10968
+CATEGORIES:Streethockey\,Challenge League
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:10970-291@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261024T140000
+DTEND;TZID=Europe/Zurich:20261024T160000
+SUMMARY:SHC Belpa 1107 1 vs SHC Martigny 1
+LOCATION:Belp\, Suisse
+DESCRIPTION:Ligue: Challenge League\nDomicile: SHC Belpa 1107 1\nVisiteurs:
+  SHC Martigny 1\nLieu du match: Belp\nDétails: https://www.swiss-streetho
+ ckey.ch/fr/game-center/game-details/?spielnr=10970
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 10970
+CATEGORIES:Streethockey\,Challenge League
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:10974-291@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261115T140000
+DTEND;TZID=Europe/Zurich:20261115T160000
+SUMMARY:SHC Martigny 1 vs SHC Erlinsbach 1
+LOCATION:Martigny\, Suisse
+DESCRIPTION:Ligue: Challenge League\nDomicile: SHC Martigny 1\nVisiteurs: S
+ HC Erlinsbach 1\nLieu du match: Martigny\nDétails: https://www.swiss-stre
+ ethockey.ch/fr/game-center/game-details/?spielnr=10974
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 10974
+CATEGORIES:Streethockey\,Challenge League
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:10977-291@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261129T140000
+DTEND;TZID=Europe/Zurich:20261129T160000
+SUMMARY:SHC Martigny 1 vs SHC Belpa 1107 1
+LOCATION:Martigny\, Suisse
+DESCRIPTION:Ligue: Challenge League\nDomicile: SHC Martigny 1\nVisiteurs: S
+ HC Belpa 1107 1\nLieu du match: Martigny\nDétails: https://www.swiss-stre
+ ethockey.ch/fr/game-center/game-details/?spielnr=10977
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 10977
+CATEGORIES:Streethockey\,Challenge League
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:10979-291@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261205T140000
+DTEND;TZID=Europe/Zurich:20261205T160000
+SUMMARY:SHC Bulldozers Kernenried-Zauggenried 2 vs SHC Martigny 1
+LOCATION:Kernenried\, Suisse
+DESCRIPTION:Ligue: Challenge League\nDomicile: SHC Bulldozers Kernenried-Za
+ uggenried 2\nVisiteurs: SHC Martigny 1\nLieu du match: Kernenried\nDétail
+ s: https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 10979
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 10979
+CATEGORIES:Streethockey\,Challenge League
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:10981-291@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261212T140000
+DTEND;TZID=Europe/Zurich:20261212T160000
+SUMMARY:SHC Martigny 1 vs SHC Bulldozers Kernenried-Zauggenried 2
+LOCATION:Martigny\, Suisse
+DESCRIPTION:Ligue: Challenge League\nDomicile: SHC Martigny 1\nVisiteurs: S
+ HC Bulldozers Kernenried-Zauggenried 2\nLieu du match: Martigny\nDétails:
+  https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=10
+ 981
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 10981
+CATEGORIES:Streethockey\,Challenge League
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:10982-291@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261213T140000
+DTEND;TZID=Europe/Zurich:20261213T160000
+SUMMARY:SHC Erlinsbach 1 vs SHC Martigny 1
+LOCATION:Erlinsbach\, Suisse
+DESCRIPTION:Ligue: Challenge League\nDomicile: SHC Erlinsbach 1\nVisiteurs:
+  SHC Martigny 1\nLieu du match: Erlinsbach\nDétails: https://www.swiss-st
+ reethockey.ch/fr/game-center/game-details/?spielnr=10982
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 10982
+CATEGORIES:Streethockey\,Challenge League
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:10983-291@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270124T140000
+DTEND;TZID=Europe/Zurich:20270124T160000
+SUMMARY:SHC Grenchen-Limpachtal 2 vs SHC Martigny 1
+LOCATION:Grenchen\, Suisse
+DESCRIPTION:Ligue: Challenge League\nDomicile: SHC Grenchen-Limpachtal 2\nV
+ isiteurs: SHC Martigny 1\nLieu du match: Grenchen\nDétails: https://www.s
+ wiss-streethockey.ch/fr/game-center/game-details/?spielnr=10983
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 10983
+CATEGORIES:Streethockey\,Challenge League
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:10987-291@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270207T140000
+DTEND;TZID=Europe/Zurich:20270207T160000
+SUMMARY:SHC Martigny 1 vs SHC Grenchen-Limpachtal 2
+LOCATION:Martigny\, Suisse
+DESCRIPTION:Ligue: Challenge League\nDomicile: SHC Martigny 1\nVisiteurs: S
+ HC Grenchen-Limpachtal 2\nLieu du match: Martigny\nDétails: https://www.s
+ wiss-streethockey.ch/fr/game-center/game-details/?spielnr=10987
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 10987
+CATEGORIES:Streethockey\,Challenge League
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:10988-291@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270213T140000
+DTEND;TZID=Europe/Zurich:20270213T160000
+SUMMARY:SHC Erlinsbach 1 vs SHC Martigny 1
+LOCATION:Erlinsbach\, Suisse
+DESCRIPTION:Ligue: Challenge League\nDomicile: SHC Erlinsbach 1\nVisiteurs:
+  SHC Martigny 1\nLieu du match: Erlinsbach\nDétails: https://www.swiss-st
+ reethockey.ch/fr/game-center/game-details/?spielnr=10988
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 10988
+CATEGORIES:Streethockey\,Challenge League
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:10990-291@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270214T140000
+DTEND;TZID=Europe/Zurich:20270214T160000
+SUMMARY:SHC Martigny 1 vs SHC Grenchen-Limpachtal 2
+LOCATION:Martigny\, Suisse
+DESCRIPTION:Ligue: Challenge League\nDomicile: SHC Martigny 1\nVisiteurs: S
+ HC Grenchen-Limpachtal 2\nLieu du match: Martigny\nDétails: https://www.s
+ wiss-streethockey.ch/fr/game-center/game-details/?spielnr=10990
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 10990
+CATEGORIES:Streethockey\,Challenge League
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

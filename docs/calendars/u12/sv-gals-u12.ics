@@ -1,0 +1,300 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//swiss-streethockey-ics//Game center calendars//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SV Gals U12 · U12
+X-WR-CALDESC:Matchs de SV Gals U12 en U12 (source: https://www.swiss-street
+ hockey.ch/fr/game-center/prochains-matchs/).
+X-WR-TIMEZONE:Europe/Zurich
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+X-LIC-LOCATION:Europe/Zurich
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:11349-298@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261024T093000
+DTEND;TZID=Europe/Zurich:20261024T104000
+SUMMARY:SHC Grenchen-Limpachtal U12 GF vs SV Gals U12
+LOCATION:Grenchen\, Suisse
+DESCRIPTION:Ligue: U12\nDomicile: SHC Grenchen-Limpachtal U12 GF\nVisiteurs
+ : SV Gals U12\nLieu du match: Grenchen\nDétails: https://www.swiss-street
+ hockey.ch/fr/game-center/game-details/?spielnr=11349
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11349
+CATEGORIES:Streethockey\,U12
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11352-298@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261024T130000
+DTEND;TZID=Europe/Zurich:20261024T141000
+SUMMARY:Horgenberg Hammers U12 vs SV Gals U12
+LOCATION:Grenchen\, Suisse
+DESCRIPTION:Ligue: U12\nDomicile: Horgenberg Hammers U12\nVisiteurs: SV Gal
+ s U12\nLieu du match: Grenchen\nDétails: https://www.swiss-streethockey.c
+ h/fr/game-center/game-details/?spielnr=11352
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11352
+CATEGORIES:Streethockey\,U12
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11337-298@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261114T115000
+DTEND;TZID=Europe/Zurich:20261114T130000
+SUMMARY:SV Gals U12 vs SHC Grenchen-Limpachtal U12 GF
+LOCATION:Horgen\, Suisse
+DESCRIPTION:Ligue: U12\nDomicile: SV Gals U12\nVisiteurs: SHC Grenchen-Limp
+ achtal U12 GF\nLieu du match: Horgen\nDétails: https://www.swiss-streetho
+ ckey.ch/fr/game-center/game-details/?spielnr=11337
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11337
+CATEGORIES:Streethockey\,U12
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11340-298@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261114T152000
+DTEND;TZID=Europe/Zurich:20261114T163000
+SUMMARY:SV Gals U12 vs Oberwil Rebells U12
+LOCATION:Horgen\, Suisse
+DESCRIPTION:Ligue: U12\nDomicile: SV Gals U12\nVisiteurs: Oberwil Rebells U
+ 12\nLieu du match: Horgen\nDétails: https://www.swiss-streethockey.ch/fr/
+ game-center/game-details/?spielnr=11340
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11340
+CATEGORIES:Streethockey\,U12
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11344-298@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261129T115000
+DTEND;TZID=Europe/Zurich:20261129T130000
+SUMMARY:Oberwil Rebells U12 vs SV Gals U12
+LOCATION:Kernenried\, Suisse
+DESCRIPTION:Ligue: U12\nDomicile: Oberwil Rebells U12\nVisiteurs: SV Gals U
+ 12\nLieu du match: Kernenried\nDétails: https://www.swiss-streethockey.ch
+ /fr/game-center/game-details/?spielnr=11344
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11344
+CATEGORIES:Streethockey\,U12
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11346-298@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261129T141000
+DTEND;TZID=Europe/Zurich:20261129T152000
+SUMMARY:SHC Bonstetten-Wettswil U12 vs SV Gals U12
+LOCATION:Kernenried\, Suisse
+DESCRIPTION:Ligue: U12\nDomicile: SHC Bonstetten-Wettswil U12\nVisiteurs: S
+ V Gals U12\nLieu du match: Kernenried\nDétails: https://www.swiss-streeth
+ ockey.ch/fr/game-center/game-details/?spielnr=11346
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11346
+CATEGORIES:Streethockey\,U12
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11348-298@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261129T163000
+DTEND;TZID=Europe/Zurich:20261129T174000
+SUMMARY:SV Gals U12 vs SHC Bulldozers Kernenried-Zauggenried U12
+LOCATION:Kernenried\, Suisse
+DESCRIPTION:Ligue: U12\nDomicile: SV Gals U12\nVisiteurs: SHC Bulldozers Ke
+ rnenried-Zauggenried U12\nLieu du match: Kernenried\nDétails: https://www
+ .swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11348
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11348
+CATEGORIES:Streethockey\,U12
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11329-298@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261212T100000
+DTEND;TZID=Europe/Zurich:20261212T111000
+SUMMARY:SV Gals U12 vs SHC Bulldozers Kernenried-Zauggenried U12
+LOCATION:Gals\, Suisse
+DESCRIPTION:Ligue: U12\nDomicile: SV Gals U12\nVisiteurs: SHC Bulldozers Ke
+ rnenried-Zauggenried U12\nLieu du match: Gals\nDétails: https://www.swiss
+ -streethockey.ch/fr/game-center/game-details/?spielnr=11329
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11329
+CATEGORIES:Streethockey\,U12
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11333-298@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261212T144000
+DTEND;TZID=Europe/Zurich:20261212T155000
+SUMMARY:SV Gals U12 vs Horgenberg Hammers U12
+LOCATION:Gals\, Suisse
+DESCRIPTION:Ligue: U12\nDomicile: SV Gals U12\nVisiteurs: Horgenberg Hammer
+ s U12\nLieu du match: Gals\nDétails: https://www.swiss-streethockey.ch/fr
+ /game-center/game-details/?spielnr=11333
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11333
+CATEGORIES:Streethockey\,U12
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11357-298@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270130T111000
+DTEND;TZID=Europe/Zurich:20270130T122000
+SUMMARY:SV Gals U12 vs SHC Bonstetten-Wettswil U12
+LOCATION:Wettswil\, Suisse
+DESCRIPTION:Ligue: U12\nDomicile: SV Gals U12\nVisiteurs: SHC Bonstetten-We
+ ttswil U12\nLieu du match: Wettswil\nDétails: https://www.swiss-streethoc
+ key.ch/fr/game-center/game-details/?spielnr=11357
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11357
+CATEGORIES:Streethockey\,U12
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11359-298@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270130T133000
+DTEND;TZID=Europe/Zurich:20270130T144000
+SUMMARY:SHC Bulldozers Kernenried-Zauggenried U12 vs SV Gals U12
+LOCATION:Wettswil\, Suisse
+DESCRIPTION:Ligue: U12\nDomicile: SHC Bulldozers Kernenried-Zauggenried U12
+ \nVisiteurs: SV Gals U12\nLieu du match: Wettswil\nDétails: https://www.s
+ wiss-streethockey.ch/fr/game-center/game-details/?spielnr=11359
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11359
+CATEGORIES:Streethockey\,U12
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11363-298@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270321T111000
+DTEND;TZID=Europe/Zurich:20270321T122000
+SUMMARY:Horgenberg Hammers U12 vs SV Gals U12
+LOCATION:Zug\, Suisse
+DESCRIPTION:Ligue: U12\nDomicile: Horgenberg Hammers U12\nVisiteurs: SV Gal
+ s U12\nLieu du match: Zug\nDétails: https://www.swiss-streethockey.ch/fr/
+ game-center/game-details/?spielnr=11363
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11363
+CATEGORIES:Streethockey\,U12
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11367-298@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270321T155000
+DTEND;TZID=Europe/Zurich:20270321T170000
+SUMMARY:SHC Grenchen-Limpachtal U12 GF vs SV Gals U12
+LOCATION:Zug\, Suisse
+DESCRIPTION:Ligue: U12\nDomicile: SHC Grenchen-Limpachtal U12 GF\nVisiteurs
+ : SV Gals U12\nLieu du match: Zug\nDétails: https://www.swiss-streethocke
+ y.ch/fr/game-center/game-details/?spielnr=11367
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11367
+CATEGORIES:Streethockey\,U12
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11370-298@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270424T122000
+DTEND;TZID=Europe/Zurich:20270424T133000
+SUMMARY:Oberwil Rebells U12 vs SV Gals U12
+LOCATION:Wettswil\, Suisse
+DESCRIPTION:Ligue: U12\nDomicile: Oberwil Rebells U12\nVisiteurs: SV Gals U
+ 12\nLieu du match: Wettswil\nDétails: https://www.swiss-streethockey.ch/f
+ r/game-center/game-details/?spielnr=11370
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11370
+CATEGORIES:Streethockey\,U12
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11372-298@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270424T144000
+DTEND;TZID=Europe/Zurich:20270424T155000
+SUMMARY:SHC Bonstetten-Wettswil U12 vs SV Gals U12
+LOCATION:Wettswil\, Suisse
+DESCRIPTION:Ligue: U12\nDomicile: SHC Bonstetten-Wettswil U12\nVisiteurs: S
+ V Gals U12\nLieu du match: Wettswil\nDétails: https://www.swiss-streethoc
+ key.ch/fr/game-center/game-details/?spielnr=11372
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11372
+CATEGORIES:Streethockey\,U12
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

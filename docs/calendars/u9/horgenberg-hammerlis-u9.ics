@@ -1,0 +1,318 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//swiss-streethockey-ics//Game center calendars//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Horgenberg Hämmerlis U9 · U9
+X-WR-CALDESC:Matchs de Horgenberg Hämmerlis U9 en U9 (source: https://www.
+ swiss-streethockey.ch/fr/game-center/prochains-matchs/).
+X-WR-TIMEZONE:Europe/Zurich
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+X-LIC-LOCATION:Europe/Zurich
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:11428-299@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261121T102000
+DTEND;TZID=Europe/Zurich:20261121T104000
+SUMMARY:Horgenberg Hämmerlis U9 vs SHC Erlinsbach U9
+LOCATION:Zug\, Suisse
+DESCRIPTION:Ligue: U9\nDomicile: Horgenberg Hämmerlis U9\nVisiteurs: SHC E
+ rlinsbach U9\nLieu du match: Zug\nDétails: https://www.swiss-streethockey
+ .ch/fr/game-center/game-details/?spielnr=11428
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11428
+CATEGORIES:Streethockey\,U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11429-299@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261121T104000
+DTEND;TZID=Europe/Zurich:20261121T110000
+SUMMARY:Horgenberg Hämmerlis U9 vs SHC Grenchen-Limpachtal U9
+LOCATION:Zug\, Suisse
+DESCRIPTION:Ligue: U9\nDomicile: Horgenberg Hämmerlis U9\nVisiteurs: SHC G
+ renchen-Limpachtal U9\nLieu du match: Zug\nDétails: https://www.swiss-str
+ eethockey.ch/fr/game-center/game-details/?spielnr=11429
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11429
+CATEGORIES:Streethockey\,U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11432-299@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261121T114000
+DTEND;TZID=Europe/Zurich:20261121T120000
+SUMMARY:SHC Erlinsbach U9 vs Horgenberg Hämmerlis U9
+LOCATION:Zug\, Suisse
+DESCRIPTION:Ligue: U9\nDomicile: SHC Erlinsbach U9\nVisiteurs: Horgenberg H
+ ämmerlis U9\nLieu du match: Zug\nDétails: https://www.swiss-streethockey
+ .ch/fr/game-center/game-details/?spielnr=11432
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11432
+CATEGORIES:Streethockey\,U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11433-299@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261121T120000
+DTEND;TZID=Europe/Zurich:20261121T122000
+SUMMARY:SHC Grenchen-Limpachtal U9 vs Horgenberg Hämmerlis U9
+LOCATION:Zug\, Suisse
+DESCRIPTION:Ligue: U9\nDomicile: SHC Grenchen-Limpachtal U9\nVisiteurs: Hor
+ genberg Hämmerlis U9\nLieu du match: Zug\nDétails: https://www.swiss-str
+ eethockey.ch/fr/game-center/game-details/?spielnr=11433
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11433
+CATEGORIES:Streethockey\,U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11419-299@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270124T100000
+DTEND;TZID=Europe/Zurich:20270124T102000
+SUMMARY:Oberwil Rebells U9 vs Horgenberg Hämmerlis U9
+LOCATION:Horgen\, Suisse
+DESCRIPTION:Ligue: U9\nDomicile: Oberwil Rebells U9\nVisiteurs: Horgenberg 
+ Hämmerlis U9\nLieu du match: Horgen\nDétails: https://www.swiss-streetho
+ ckey.ch/fr/game-center/game-details/?spielnr=11419
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11419
+CATEGORIES:Streethockey\,U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11422-299@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270124T110000
+DTEND;TZID=Europe/Zurich:20270124T112000
+SUMMARY:Horgenberg Hämmerlis U9 vs SHC Bonstetten-Wettswil U9
+LOCATION:Horgen\, Suisse
+DESCRIPTION:Ligue: U9\nDomicile: Horgenberg Hämmerlis U9\nVisiteurs: SHC B
+ onstetten-Wettswil U9\nLieu du match: Horgen\nDétails: https://www.swiss-
+ streethockey.ch/fr/game-center/game-details/?spielnr=11422
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11422
+CATEGORIES:Streethockey\,U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11423-299@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270124T112000
+DTEND;TZID=Europe/Zurich:20270124T114000
+SUMMARY:Horgenberg Hämmerlis U9 vs Oberwil Rebells U9
+LOCATION:Horgen\, Suisse
+DESCRIPTION:Ligue: U9\nDomicile: Horgenberg Hämmerlis U9\nVisiteurs: Oberw
+ il Rebells U9\nLieu du match: Horgen\nDétails: https://www.swiss-streetho
+ ckey.ch/fr/game-center/game-details/?spielnr=11423
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11423
+CATEGORIES:Streethockey\,U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11426-299@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270124T122000
+DTEND;TZID=Europe/Zurich:20270124T124000
+SUMMARY:SHC Bonstetten-Wettswil U9 vs Horgenberg Hämmerlis U9
+LOCATION:Horgen\, Suisse
+DESCRIPTION:Ligue: U9\nDomicile: SHC Bonstetten-Wettswil U9\nVisiteurs: Hor
+ genberg Hämmerlis U9\nLieu du match: Horgen\nDétails: https://www.swiss-
+ streethockey.ch/fr/game-center/game-details/?spielnr=11426
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11426
+CATEGORIES:Streethockey\,U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11435-299@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270306T100000
+DTEND;TZID=Europe/Zurich:20270306T102000
+SUMMARY:SHC Grenchen-Limpachtal U9 vs Horgenberg Hämmerlis U9
+LOCATION:Grenchen\, Suisse
+DESCRIPTION:Ligue: U9\nDomicile: SHC Grenchen-Limpachtal U9\nVisiteurs: Hor
+ genberg Hämmerlis U9\nLieu du match: Grenchen\nDétails: https://www.swis
+ s-streethockey.ch/fr/game-center/game-details/?spielnr=11435
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11435
+CATEGORIES:Streethockey\,U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11437-299@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270306T104000
+DTEND;TZID=Europe/Zurich:20270306T110000
+SUMMARY:Horgenberg Hämmerlis U9 vs Oberwil Rebells U9
+LOCATION:Grenchen\, Suisse
+DESCRIPTION:Ligue: U9\nDomicile: Horgenberg Hämmerlis U9\nVisiteurs: Oberw
+ il Rebells U9\nLieu du match: Grenchen\nDétails: https://www.swiss-street
+ hockey.ch/fr/game-center/game-details/?spielnr=11437
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11437
+CATEGORIES:Streethockey\,U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11439-299@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270306T112000
+DTEND;TZID=Europe/Zurich:20270306T114000
+SUMMARY:Horgenberg Hämmerlis U9 vs SHC Grenchen-Limpachtal U9
+LOCATION:Grenchen\, Suisse
+DESCRIPTION:Ligue: U9\nDomicile: Horgenberg Hämmerlis U9\nVisiteurs: SHC G
+ renchen-Limpachtal U9\nLieu du match: Grenchen\nDétails: https://www.swis
+ s-streethockey.ch/fr/game-center/game-details/?spielnr=11439
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11439
+CATEGORIES:Streethockey\,U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11441-299@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270306T120000
+DTEND;TZID=Europe/Zurich:20270306T122000
+SUMMARY:Oberwil Rebells U9 vs Horgenberg Hämmerlis U9
+LOCATION:Grenchen\, Suisse
+DESCRIPTION:Ligue: U9\nDomicile: Oberwil Rebells U9\nVisiteurs: Horgenberg 
+ Hämmerlis U9\nLieu du match: Grenchen\nDétails: https://www.swiss-street
+ hockey.ch/fr/game-center/game-details/?spielnr=11441
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11441
+CATEGORIES:Streethockey\,U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11451-299@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270404T100000
+DTEND;TZID=Europe/Zurich:20270404T102000
+SUMMARY:SHC Erlinsbach U9 vs Horgenberg Hämmerlis U9
+LOCATION:Erlinsbach\, Suisse
+DESCRIPTION:Ligue: U9\nDomicile: SHC Erlinsbach U9\nVisiteurs: Horgenberg H
+ ämmerlis U9\nLieu du match: Erlinsbach\nDétails: https://www.swiss-stree
+ thockey.ch/fr/game-center/game-details/?spielnr=11451
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11451
+CATEGORIES:Streethockey\,U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11453-299@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270404T104000
+DTEND;TZID=Europe/Zurich:20270404T110000
+SUMMARY:SHC Bonstetten-Wettswil U9 vs Horgenberg Hämmerlis U9
+LOCATION:Erlinsbach\, Suisse
+DESCRIPTION:Ligue: U9\nDomicile: SHC Bonstetten-Wettswil U9\nVisiteurs: Hor
+ genberg Hämmerlis U9\nLieu du match: Erlinsbach\nDétails: https://www.sw
+ iss-streethockey.ch/fr/game-center/game-details/?spielnr=11453
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11453
+CATEGORIES:Streethockey\,U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11455-299@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270404T112000
+DTEND;TZID=Europe/Zurich:20270404T114000
+SUMMARY:Horgenberg Hämmerlis U9 vs SHC Erlinsbach U9
+LOCATION:Erlinsbach\, Suisse
+DESCRIPTION:Ligue: U9\nDomicile: Horgenberg Hämmerlis U9\nVisiteurs: SHC E
+ rlinsbach U9\nLieu du match: Erlinsbach\nDétails: https://www.swiss-stree
+ thockey.ch/fr/game-center/game-details/?spielnr=11455
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11455
+CATEGORIES:Streethockey\,U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11457-299@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270404T120000
+DTEND;TZID=Europe/Zurich:20270404T122000
+SUMMARY:Horgenberg Hämmerlis U9 vs SHC Bonstetten-Wettswil U9
+LOCATION:Erlinsbach\, Suisse
+DESCRIPTION:Ligue: U9\nDomicile: Horgenberg Hämmerlis U9\nVisiteurs: SHC B
+ onstetten-Wettswil U9\nLieu du match: Erlinsbach\nDétails: https://www.sw
+ iss-streethockey.ch/fr/game-center/game-details/?spielnr=11457
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11457
+CATEGORIES:Streethockey\,U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

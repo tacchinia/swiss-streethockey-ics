@@ -1,0 +1,283 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//swiss-streethockey-ics//Game center calendars//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SHC Seetal Admirals 1 · Classic League 2
+X-WR-CALDESC:Matchs de SHC Seetal Admirals 1 en Classic League 2 (source: h
+ ttps://www.swiss-streethockey.ch/fr/game-center/prochains-matchs/).
+X-WR-TIMEZONE:Europe/Zurich
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+X-LIC-LOCATION:Europe/Zurich
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:11124-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20260926T093000
+DTEND;TZID=Europe/Zurich:20260926T104000
+SUMMARY:SHC Fribourg Dragons vs SHC Seetal Admirals 1
+LOCATION:Lenzburg\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: SHC Fribourg Dragons\nVisite
+ urs: SHC Seetal Admirals 1\nLieu du match: Lenzburg\nDétails: https://www
+ .swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11124
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11124
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11126-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20260926T115000
+DTEND;TZID=Europe/Zurich:20260926T130000
+SUMMARY:SHC Aegerten-Brügg 1 vs SHC Seetal Admirals 1
+LOCATION:Lenzburg\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: SHC Aegerten-Brügg 1\nVisit
+ eurs: SHC Seetal Admirals 1\nLieu du match: Lenzburg\nDétails: https://ww
+ w.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11126
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11126
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11130-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20260926T163000
+DTEND;TZID=Europe/Zurich:20260926T174000
+SUMMARY:SHC La Chaux-de-Fonds 2 vs SHC Seetal Admirals 1
+LOCATION:Lenzburg\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: SHC La Chaux-de-Fonds 2\nVis
+ iteurs: SHC Seetal Admirals 1\nLieu du match: Lenzburg\nDétails: https://
+ www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11130
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11130
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11139-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261017T104000
+DTEND;TZID=Europe/Zurich:20261017T115000
+SUMMARY:SHC Seetal Admirals 1 vs SHC Diabla 1
+LOCATION:Martigny\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: SHC Seetal Admirals 1\nVisit
+ eurs: SHC Diabla 1\nLieu du match: Martigny\nDétails: https://www.swiss-s
+ treethockey.ch/fr/game-center/game-details/?spielnr=11139
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11139
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11141-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261017T130000
+DTEND;TZID=Europe/Zurich:20261017T141000
+SUMMARY:SHC Martigny 2 vs SHC Seetal Admirals 1
+LOCATION:Martigny\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: SHC Martigny 2\nVisiteurs: S
+ HC Seetal Admirals 1\nLieu du match: Martigny\nDétails: https://www.swiss
+ -streethockey.ch/fr/game-center/game-details/?spielnr=11141
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11141
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11154-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261114T115000
+DTEND;TZID=Europe/Zurich:20261114T130000
+SUMMARY:SHC Seetal Admirals 1 vs SHC Aegerten-Brügg 1
+LOCATION:La Chaux-de-Fonds\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: SHC Seetal Admirals 1\nVisit
+ eurs: SHC Aegerten-Brügg 1\nLieu du match: La Chaux-de-Fonds\nDétails: h
+ ttps://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=1115
+ 4
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11154
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11156-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261114T141000
+DTEND;TZID=Europe/Zurich:20261114T152000
+SUMMARY:SHC Belpa 1107 2 vs SHC Seetal Admirals 1
+LOCATION:La Chaux-de-Fonds\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: SHC Belpa 1107 2\nVisiteurs:
+  SHC Seetal Admirals 1\nLieu du match: La Chaux-de-Fonds\nDétails: https:
+ //www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11156
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11156
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11166-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261128T093000
+DTEND;TZID=Europe/Zurich:20261128T104000
+SUMMARY:SHC Seetal Admirals 1 vs SHC La Chaux-de-Fonds 2
+LOCATION:Lenzburg\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: SHC Seetal Admirals 1\nVisit
+ eurs: SHC La Chaux-de-Fonds 2\nLieu du match: Lenzburg\nDétails: https://
+ www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11166
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11166
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11169-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261128T130000
+DTEND;TZID=Europe/Zurich:20261128T141000
+SUMMARY:SHC Seetal Admirals 1 vs SHC Fribourg Dragons
+LOCATION:Lenzburg\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: SHC Seetal Admirals 1\nVisit
+ eurs: SHC Fribourg Dragons\nLieu du match: Lenzburg\nDétails: https://www
+ .swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11169
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11169
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11172-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261128T163000
+DTEND;TZID=Europe/Zurich:20261128T174000
+SUMMARY:SHC Seetal Admirals 1 vs SHC Martigny 2
+LOCATION:Lenzburg\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: SHC Seetal Admirals 1\nVisit
+ eurs: SHC Martigny 2\nLieu du match: Lenzburg\nDétails: https://www.swiss
+ -streethockey.ch/fr/game-center/game-details/?spielnr=11172
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11172
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11175-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270131T115000
+DTEND;TZID=Europe/Zurich:20270131T130000
+SUMMARY:SHC Diabla 1 vs SHC Seetal Admirals 1
+LOCATION:Aegerten\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: SHC Diabla 1\nVisiteurs: SHC
+  Seetal Admirals 1\nLieu du match: Aegerten\nDétails: https://www.swiss-s
+ treethockey.ch/fr/game-center/game-details/?spielnr=11175
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11175
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11177-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270131T141000
+DTEND;TZID=Europe/Zurich:20270131T152000
+SUMMARY:SHC Seetal Admirals 1 vs Sierre Lions 2
+LOCATION:Aegerten\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: SHC Seetal Admirals 1\nVisit
+ eurs: Sierre Lions 2\nLieu du match: Aegerten\nDétails: https://www.swiss
+ -streethockey.ch/fr/game-center/game-details/?spielnr=11177
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11177
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11147-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270306T115000
+DTEND;TZID=Europe/Zurich:20270306T130000
+SUMMARY:Sierre Lions 2 vs SHC Seetal Admirals 1
+LOCATION:Belp\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: Sierre Lions 2\nVisiteurs: S
+ HC Seetal Admirals 1\nLieu du match: Belp\nDétails: https://www.swiss-str
+ eethockey.ch/fr/game-center/game-details/?spielnr=11147
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11147
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11150-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270306T152000
+DTEND;TZID=Europe/Zurich:20270306T163000
+SUMMARY:SHC Seetal Admirals 1 vs SHC Belpa 1107 2
+LOCATION:Belp\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: SHC Seetal Admirals 1\nVisit
+ eurs: SHC Belpa 1107 2\nLieu du match: Belp\nDétails: https://www.swiss-s
+ treethockey.ch/fr/game-center/game-details/?spielnr=11150
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11150
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

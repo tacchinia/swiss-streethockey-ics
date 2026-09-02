@@ -1,0 +1,1038 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//swiss-streethockey-ics//Game center calendars//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Street hockey · Team Est
+X-WR-CALDESC:Tous les matchs de la ligue Team Est (source: https://www.swis
+ s-streethockey.ch/fr/game-center/prochains-matchs/).
+X-WR-TIMEZONE:Europe/Zurich
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+X-LIC-LOCATION:Europe/Zurich
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:11215-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261011T100000
+DTEND;TZID=Europe/Zurich:20261011T111000
+SUMMARY:SHC Berner Oberland 1 vs Horgenberg Hammers 2
+LOCATION:Horgen\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: SHC Berner Oberland 1\nVisiteurs: Ho
+ rgenberg Hammers 2\nLieu du match: Horgen\nDétails: https://www.swiss-str
+ eethockey.ch/fr/game-center/game-details/?spielnr=11215
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11215
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11216-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261011T111000
+DTEND;TZID=Europe/Zurich:20261011T122000
+SUMMARY:SHC Langenthal Devils 1 vs SHC Seetal Admirals 2
+LOCATION:Horgen\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: SHC Langenthal Devils 1\nVisiteurs: 
+ SHC Seetal Admirals 2\nLieu du match: Horgen\nDétails: https://www.swiss-
+ streethockey.ch/fr/game-center/game-details/?spielnr=11216
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11216
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11217-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261011T122000
+DTEND;TZID=Europe/Zurich:20261011T133000
+SUMMARY:SHC Bettlach 2 vs Horgenberg Hammers 2
+LOCATION:Horgen\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: SHC Bettlach 2\nVisiteurs: Horgenber
+ g Hammers 2\nLieu du match: Horgen\nDétails: https://www.swiss-streethock
+ ey.ch/fr/game-center/game-details/?spielnr=11217
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11217
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11218-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261011T133000
+DTEND;TZID=Europe/Zurich:20261011T144000
+SUMMARY:SHC Berner Oberland 1 vs SHC Langenthal Devils 1
+LOCATION:Horgen\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: SHC Berner Oberland 1\nVisiteurs: SH
+ C Langenthal Devils 1\nLieu du match: Horgen\nDétails: https://www.swiss-
+ streethockey.ch/fr/game-center/game-details/?spielnr=11218
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11218
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11219-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261011T144000
+DTEND;TZID=Europe/Zurich:20261011T155000
+SUMMARY:SHC Bonstetten-Wettswil 2 vs SHC Seetal Admirals 2
+LOCATION:Horgen\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: SHC Bonstetten-Wettswil 2\nVisiteurs
+ : SHC Seetal Admirals 2\nLieu du match: Horgen\nDétails: https://www.swis
+ s-streethockey.ch/fr/game-center/game-details/?spielnr=11219
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11219
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11220-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261011T155000
+DTEND;TZID=Europe/Zurich:20261011T170000
+SUMMARY:SHC Berner Oberland 1 vs SHC Bettlach 2
+LOCATION:Horgen\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: SHC Berner Oberland 1\nVisiteurs: SH
+ C Bettlach 2\nLieu du match: Horgen\nDétails: https://www.swiss-streethoc
+ key.ch/fr/game-center/game-details/?spielnr=11220
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11220
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11221-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261011T170000
+DTEND;TZID=Europe/Zurich:20261011T181000
+SUMMARY:SHC Bonstetten-Wettswil 2 vs Horgenberg Hammers 2
+LOCATION:Horgen\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: SHC Bonstetten-Wettswil 2\nVisiteurs
+ : Horgenberg Hammers 2\nLieu du match: Horgen\nDétails: https://www.swiss
+ -streethockey.ch/fr/game-center/game-details/?spielnr=11221
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11221
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11222-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261101T100000
+DTEND;TZID=Europe/Zurich:20261101T111000
+SUMMARY:SHC Grenchen-Limpachtal 3 vs SHC Seetal Admirals 2
+LOCATION:Lenzburg\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: SHC Grenchen-Limpachtal 3\nVisiteurs
+ : SHC Seetal Admirals 2\nLieu du match: Lenzburg\nDétails: https://www.sw
+ iss-streethockey.ch/fr/game-center/game-details/?spielnr=11222
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11222
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11223-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261101T111000
+DTEND;TZID=Europe/Zurich:20261101T122000
+SUMMARY:SHC Bonstetten-Wettswil 2 vs SHC Steckholz
+LOCATION:Lenzburg\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: SHC Bonstetten-Wettswil 2\nVisiteurs
+ : SHC Steckholz\nLieu du match: Lenzburg\nDétails: https://www.swiss-stre
+ ethockey.ch/fr/game-center/game-details/?spielnr=11223
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11223
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11224-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261101T122000
+DTEND;TZID=Europe/Zurich:20261101T133000
+SUMMARY:SHC Grenchen-Limpachtal 3 vs Horgenberg Hammers 2
+LOCATION:Lenzburg\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: SHC Grenchen-Limpachtal 3\nVisiteurs
+ : Horgenberg Hammers 2\nLieu du match: Lenzburg\nDétails: https://www.swi
+ ss-streethockey.ch/fr/game-center/game-details/?spielnr=11224
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11224
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11225-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261101T133000
+DTEND;TZID=Europe/Zurich:20261101T144000
+SUMMARY:SHC Berner Oberland 1 vs SHC Steckholz
+LOCATION:Lenzburg\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: SHC Berner Oberland 1\nVisiteurs: SH
+ C Steckholz\nLieu du match: Lenzburg\nDétails: https://www.swiss-streetho
+ ckey.ch/fr/game-center/game-details/?spielnr=11225
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11225
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11226-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261101T144000
+DTEND;TZID=Europe/Zurich:20261101T155000
+SUMMARY:Horgenberg Hammers 2 vs SHC Seetal Admirals 2
+LOCATION:Lenzburg\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: Horgenberg Hammers 2\nVisiteurs: SHC
+  Seetal Admirals 2\nLieu du match: Lenzburg\nDétails: https://www.swiss-s
+ treethockey.ch/fr/game-center/game-details/?spielnr=11226
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11226
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11227-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261101T155000
+DTEND;TZID=Europe/Zurich:20261101T170000
+SUMMARY:SHC Bonstetten-Wettswil 2 vs SHC Grenchen-Limpachtal 3
+LOCATION:Lenzburg\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: SHC Bonstetten-Wettswil 2\nVisiteurs
+ : SHC Grenchen-Limpachtal 3\nLieu du match: Lenzburg\nDétails: https://ww
+ w.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11227
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11227
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11228-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261101T170000
+DTEND;TZID=Europe/Zurich:20261101T181000
+SUMMARY:SHC Berner Oberland 1 vs SHC Seetal Admirals 2
+LOCATION:Lenzburg\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: SHC Berner Oberland 1\nVisiteurs: SH
+ C Seetal Admirals 2\nLieu du match: Lenzburg\nDétails: https://www.swiss-
+ streethockey.ch/fr/game-center/game-details/?spielnr=11228
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11228
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11201-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261114T100000
+DTEND;TZID=Europe/Zurich:20261114T111000
+SUMMARY:SHC Bettlach 2 vs SHC Bonstetten-Wettswil 2
+LOCATION:Wettswil\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: SHC Bettlach 2\nVisiteurs: SHC Bonst
+ etten-Wettswil 2\nLieu du match: Wettswil\nDétails: https://www.swiss-str
+ eethockey.ch/fr/game-center/game-details/?spielnr=11201
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11201
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11202-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261114T111000
+DTEND;TZID=Europe/Zurich:20261114T122000
+SUMMARY:SHC Seetal Admirals 2 vs SHC Berner Oberland 1
+LOCATION:Wettswil\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: SHC Seetal Admirals 2\nVisiteurs: SH
+ C Berner Oberland 1\nLieu du match: Wettswil\nDétails: https://www.swiss-
+ streethockey.ch/fr/game-center/game-details/?spielnr=11202
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11202
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11203-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261114T122000
+DTEND;TZID=Europe/Zurich:20261114T133000
+SUMMARY:SHC Langenthal Devils 1 vs SHC Bettlach 2
+LOCATION:Wettswil\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: SHC Langenthal Devils 1\nVisiteurs: 
+ SHC Bettlach 2\nLieu du match: Wettswil\nDétails: https://www.swiss-stree
+ thockey.ch/fr/game-center/game-details/?spielnr=11203
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11203
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11204-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261114T133000
+DTEND;TZID=Europe/Zurich:20261114T144000
+SUMMARY:SHC Bonstetten-Wettswil 2 vs SHC Berner Oberland 1
+LOCATION:Wettswil\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: SHC Bonstetten-Wettswil 2\nVisiteurs
+ : SHC Berner Oberland 1\nLieu du match: Wettswil\nDétails: https://www.sw
+ iss-streethockey.ch/fr/game-center/game-details/?spielnr=11204
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11204
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11205-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261114T144000
+DTEND;TZID=Europe/Zurich:20261114T155000
+SUMMARY:Horgenberg Hammers 2 vs SHC Langenthal Devils 1
+LOCATION:Wettswil\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: Horgenberg Hammers 2\nVisiteurs: SHC
+  Langenthal Devils 1\nLieu du match: Wettswil\nDétails: https://www.swiss
+ -streethockey.ch/fr/game-center/game-details/?spielnr=11205
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11205
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11206-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261114T155000
+DTEND;TZID=Europe/Zurich:20261114T170000
+SUMMARY:SHC Seetal Admirals 2 vs SHC Bonstetten-Wettswil 2
+LOCATION:Wettswil\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: SHC Seetal Admirals 2\nVisiteurs: SH
+ C Bonstetten-Wettswil 2\nLieu du match: Wettswil\nDétails: https://www.sw
+ iss-streethockey.ch/fr/game-center/game-details/?spielnr=11206
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11206
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11207-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261114T170000
+DTEND;TZID=Europe/Zurich:20261114T181000
+SUMMARY:Horgenberg Hammers 2 vs SHC Berner Oberland 1
+LOCATION:Wettswil\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: Horgenberg Hammers 2\nVisiteurs: SHC
+  Berner Oberland 1\nLieu du match: Wettswil\nDétails: https://www.swiss-s
+ treethockey.ch/fr/game-center/game-details/?spielnr=11207
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11207
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11229-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261129T100000
+DTEND;TZID=Europe/Zurich:20261129T111000
+SUMMARY:SHC Steckholz vs SHC Langenthal Devils 1
+LOCATION:Langenthal\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: SHC Steckholz\nVisiteurs: SHC Langen
+ thal Devils 1\nLieu du match: Langenthal\nDétails: https://www.swiss-stre
+ ethockey.ch/fr/game-center/game-details/?spielnr=11229
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11229
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11230-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261129T111000
+DTEND;TZID=Europe/Zurich:20261129T122000
+SUMMARY:SHC Berner Oberland 1 vs SHC Bonstetten-Wettswil 2
+LOCATION:Langenthal\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: SHC Berner Oberland 1\nVisiteurs: SH
+ C Bonstetten-Wettswil 2\nLieu du match: Langenthal\nDétails: https://www.
+ swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11230
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11230
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11231-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261129T122000
+DTEND;TZID=Europe/Zurich:20261129T133000
+SUMMARY:SHC Bettlach 2 vs SHC Langenthal Devils 1
+LOCATION:Langenthal\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: SHC Bettlach 2\nVisiteurs: SHC Lange
+ nthal Devils 1\nLieu du match: Langenthal\nDétails: https://www.swiss-str
+ eethockey.ch/fr/game-center/game-details/?spielnr=11231
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11231
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11232-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261129T133000
+DTEND;TZID=Europe/Zurich:20261129T144000
+SUMMARY:SHC Grenchen-Limpachtal 3 vs SHC Steckholz
+LOCATION:Langenthal\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: SHC Grenchen-Limpachtal 3\nVisiteurs
+ : SHC Steckholz\nLieu du match: Langenthal\nDétails: https://www.swiss-st
+ reethockey.ch/fr/game-center/game-details/?spielnr=11232
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11232
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11233-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261129T144000
+DTEND;TZID=Europe/Zurich:20261129T155000
+SUMMARY:SHC Bonstetten-Wettswil 2 vs SHC Bettlach 2
+LOCATION:Langenthal\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: SHC Bonstetten-Wettswil 2\nVisiteurs
+ : SHC Bettlach 2\nLieu du match: Langenthal\nDétails: https://www.swiss-s
+ treethockey.ch/fr/game-center/game-details/?spielnr=11233
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11233
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11234-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261129T155000
+DTEND;TZID=Europe/Zurich:20261129T170000
+SUMMARY:SHC Berner Oberland 1 vs SHC Grenchen-Limpachtal 3
+LOCATION:Langenthal\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: SHC Berner Oberland 1\nVisiteurs: SH
+ C Grenchen-Limpachtal 3\nLieu du match: Langenthal\nDétails: https://www.
+ swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11234
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11234
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11235-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261129T170000
+DTEND;TZID=Europe/Zurich:20261129T181000
+SUMMARY:SHC Bonstetten-Wettswil 2 vs SHC Langenthal Devils 1
+LOCATION:Langenthal\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: SHC Bonstetten-Wettswil 2\nVisiteurs
+ : SHC Langenthal Devils 1\nLieu du match: Langenthal\nDétails: https://ww
+ w.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11235
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11235
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11187-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261213T100000
+DTEND;TZID=Europe/Zurich:20261213T111000
+SUMMARY:SHC Langenthal Devils 1 vs SHC Bonstetten-Wettswil 2
+LOCATION:Bettlach\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: SHC Langenthal Devils 1\nVisiteurs: 
+ SHC Bonstetten-Wettswil 2\nLieu du match: Bettlach\nDétails: https://www.
+ swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11187
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11187
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11188-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261213T111000
+DTEND;TZID=Europe/Zurich:20261213T122000
+SUMMARY:SHC Bettlach 2 vs SHC Steckholz
+LOCATION:Bettlach\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: SHC Bettlach 2\nVisiteurs: SHC Steck
+ holz\nLieu du match: Bettlach\nDétails: https://www.swiss-streethockey.ch
+ /fr/game-center/game-details/?spielnr=11188
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11188
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11189-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261213T122000
+DTEND;TZID=Europe/Zurich:20261213T133000
+SUMMARY:SHC Grenchen-Limpachtal 3 vs SHC Bonstetten-Wettswil 2
+LOCATION:Bettlach\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: SHC Grenchen-Limpachtal 3\nVisiteurs
+ : SHC Bonstetten-Wettswil 2\nLieu du match: Bettlach\nDétails: https://ww
+ w.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11189
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11189
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11190-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261213T133000
+DTEND;TZID=Europe/Zurich:20261213T144000
+SUMMARY:SHC Langenthal Devils 1 vs SHC Steckholz
+LOCATION:Bettlach\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: SHC Langenthal Devils 1\nVisiteurs: 
+ SHC Steckholz\nLieu du match: Bettlach\nDétails: https://www.swiss-street
+ hockey.ch/fr/game-center/game-details/?spielnr=11190
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11190
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11191-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261213T144000
+DTEND;TZID=Europe/Zurich:20261213T155000
+SUMMARY:SHC Bettlach 2 vs SHC Berner Oberland 1
+LOCATION:Bettlach\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: SHC Bettlach 2\nVisiteurs: SHC Berne
+ r Oberland 1\nLieu du match: Bettlach\nDétails: https://www.swiss-streeth
+ ockey.ch/fr/game-center/game-details/?spielnr=11191
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11191
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11192-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261213T155000
+DTEND;TZID=Europe/Zurich:20261213T170000
+SUMMARY:SHC Steckholz vs SHC Grenchen-Limpachtal 3
+LOCATION:Bettlach\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: SHC Steckholz\nVisiteurs: SHC Grench
+ en-Limpachtal 3\nLieu du match: Bettlach\nDétails: https://www.swiss-stre
+ ethockey.ch/fr/game-center/game-details/?spielnr=11192
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11192
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11193-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261213T170000
+DTEND;TZID=Europe/Zurich:20261213T181000
+SUMMARY:SHC Langenthal Devils 1 vs SHC Berner Oberland 1
+LOCATION:Bettlach\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: SHC Langenthal Devils 1\nVisiteurs: 
+ SHC Berner Oberland 1\nLieu du match: Bettlach\nDétails: https://www.swis
+ s-streethockey.ch/fr/game-center/game-details/?spielnr=11193
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11193
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11180-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270130T100000
+DTEND;TZID=Europe/Zurich:20270130T111000
+SUMMARY:SHC Seetal Admirals 2 vs SHC Bettlach 2
+LOCATION:Lenzburg\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: SHC Seetal Admirals 2\nVisiteurs: SH
+ C Bettlach 2\nLieu du match: Lenzburg\nDétails: https://www.swiss-streeth
+ ockey.ch/fr/game-center/game-details/?spielnr=11180
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11180
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11181-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270130T111000
+DTEND;TZID=Europe/Zurich:20270130T122000
+SUMMARY:Horgenberg Hammers 2 vs SHC Steckholz
+LOCATION:Lenzburg\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: Horgenberg Hammers 2\nVisiteurs: SHC
+  Steckholz\nLieu du match: Lenzburg\nDétails: https://www.swiss-streethoc
+ key.ch/fr/game-center/game-details/?spielnr=11181
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11181
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11182-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270130T122000
+DTEND;TZID=Europe/Zurich:20270130T133000
+SUMMARY:SHC Seetal Admirals 2 vs SHC Langenthal Devils 1
+LOCATION:Lenzburg\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: SHC Seetal Admirals 2\nVisiteurs: SH
+ C Langenthal Devils 1\nLieu du match: Lenzburg\nDétails: https://www.swis
+ s-streethockey.ch/fr/game-center/game-details/?spielnr=11182
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11182
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11183-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270130T133000
+DTEND;TZID=Europe/Zurich:20270130T144000
+SUMMARY:Horgenberg Hammers 2 vs SHC Bettlach 2
+LOCATION:Lenzburg\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: Horgenberg Hammers 2\nVisiteurs: SHC
+  Bettlach 2\nLieu du match: Lenzburg\nDétails: https://www.swiss-streetho
+ ckey.ch/fr/game-center/game-details/?spielnr=11183
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11183
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11184-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270130T144000
+DTEND;TZID=Europe/Zurich:20270130T155000
+SUMMARY:SHC Langenthal Devils 1 vs SHC Grenchen-Limpachtal 3
+LOCATION:Lenzburg\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: SHC Langenthal Devils 1\nVisiteurs: 
+ SHC Grenchen-Limpachtal 3\nLieu du match: Lenzburg\nDétails: https://www.
+ swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11184
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11184
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11185-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270130T155000
+DTEND;TZID=Europe/Zurich:20270130T170000
+SUMMARY:SHC Seetal Admirals 2 vs SHC Steckholz
+LOCATION:Lenzburg\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: SHC Seetal Admirals 2\nVisiteurs: SH
+ C Steckholz\nLieu du match: Lenzburg\nDétails: https://www.swiss-streetho
+ ckey.ch/fr/game-center/game-details/?spielnr=11185
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11185
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11186-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270130T170000
+DTEND;TZID=Europe/Zurich:20270130T181000
+SUMMARY:SHC Bettlach 2 vs SHC Grenchen-Limpachtal 3
+LOCATION:Lenzburg\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: SHC Bettlach 2\nVisiteurs: SHC Grenc
+ hen-Limpachtal 3\nLieu du match: Lenzburg\nDétails: https://www.swiss-str
+ eethockey.ch/fr/game-center/game-details/?spielnr=11186
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11186
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11194-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270220T100000
+DTEND;TZID=Europe/Zurich:20270220T111000
+SUMMARY:SHC Seetal Admirals 2 vs SHC Grenchen-Limpachtal 3
+LOCATION:Grenchen\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: SHC Seetal Admirals 2\nVisiteurs: SH
+ C Grenchen-Limpachtal 3\nLieu du match: Grenchen\nDétails: https://www.sw
+ iss-streethockey.ch/fr/game-center/game-details/?spielnr=11194
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11194
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11195-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270220T111000
+DTEND;TZID=Europe/Zurich:20270220T122000
+SUMMARY:SHC Steckholz vs SHC Bonstetten-Wettswil 2
+LOCATION:Grenchen\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: SHC Steckholz\nVisiteurs: SHC Bonste
+ tten-Wettswil 2\nLieu du match: Grenchen\nDétails: https://www.swiss-stre
+ ethockey.ch/fr/game-center/game-details/?spielnr=11195
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11195
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11196-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270220T122000
+DTEND;TZID=Europe/Zurich:20270220T133000
+SUMMARY:SHC Seetal Admirals 2 vs Horgenberg Hammers 2
+LOCATION:Grenchen\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: SHC Seetal Admirals 2\nVisiteurs: Ho
+ rgenberg Hammers 2\nLieu du match: Grenchen\nDétails: https://www.swiss-s
+ treethockey.ch/fr/game-center/game-details/?spielnr=11196
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11196
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11197-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270220T133000
+DTEND;TZID=Europe/Zurich:20270220T144000
+SUMMARY:SHC Grenchen-Limpachtal 3 vs SHC Berner Oberland 1
+LOCATION:Grenchen\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: SHC Grenchen-Limpachtal 3\nVisiteurs
+ : SHC Berner Oberland 1\nLieu du match: Grenchen\nDétails: https://www.sw
+ iss-streethockey.ch/fr/game-center/game-details/?spielnr=11197
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11197
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11198-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270220T144000
+DTEND;TZID=Europe/Zurich:20270220T155000
+SUMMARY:Horgenberg Hammers 2 vs SHC Bonstetten-Wettswil 2
+LOCATION:Grenchen\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: Horgenberg Hammers 2\nVisiteurs: SHC
+  Bonstetten-Wettswil 2\nLieu du match: Grenchen\nDétails: https://www.swi
+ ss-streethockey.ch/fr/game-center/game-details/?spielnr=11198
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11198
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11199-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270220T155000
+DTEND;TZID=Europe/Zurich:20270220T170000
+SUMMARY:SHC Steckholz vs SHC Berner Oberland 1
+LOCATION:Grenchen\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: SHC Steckholz\nVisiteurs: SHC Berner
+  Oberland 1\nLieu du match: Grenchen\nDétails: https://www.swiss-streetho
+ ckey.ch/fr/game-center/game-details/?spielnr=11199
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11199
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11200-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270220T170000
+DTEND;TZID=Europe/Zurich:20270220T181000
+SUMMARY:Horgenberg Hammers 2 vs SHC Grenchen-Limpachtal 3
+LOCATION:Grenchen\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: Horgenberg Hammers 2\nVisiteurs: SHC
+  Grenchen-Limpachtal 3\nLieu du match: Grenchen\nDétails: https://www.swi
+ ss-streethockey.ch/fr/game-center/game-details/?spielnr=11200
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11200
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11208-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270307T100000
+DTEND;TZID=Europe/Zurich:20270307T111000
+SUMMARY:SHC Bettlach 2 vs SHC Seetal Admirals 2
+LOCATION:Langenthal\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: SHC Bettlach 2\nVisiteurs: SHC Seeta
+ l Admirals 2\nLieu du match: Langenthal\nDétails: https://www.swiss-stree
+ thockey.ch/fr/game-center/game-details/?spielnr=11208
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11208
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11209-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270307T111000
+DTEND;TZID=Europe/Zurich:20270307T122000
+SUMMARY:SHC Steckholz vs Horgenberg Hammers 2
+LOCATION:Langenthal\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: SHC Steckholz\nVisiteurs: Horgenberg
+  Hammers 2\nLieu du match: Langenthal\nDétails: https://www.swiss-streeth
+ ockey.ch/fr/game-center/game-details/?spielnr=11209
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11209
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11210-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270307T122000
+DTEND;TZID=Europe/Zurich:20270307T133000
+SUMMARY:SHC Grenchen-Limpachtal 3 vs SHC Bettlach 2
+LOCATION:Langenthal\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: SHC Grenchen-Limpachtal 3\nVisiteurs
+ : SHC Bettlach 2\nLieu du match: Langenthal\nDétails: https://www.swiss-s
+ treethockey.ch/fr/game-center/game-details/?spielnr=11210
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11210
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11211-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270307T133000
+DTEND;TZID=Europe/Zurich:20270307T144000
+SUMMARY:SHC Steckholz vs SHC Seetal Admirals 2
+LOCATION:Langenthal\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: SHC Steckholz\nVisiteurs: SHC Seetal
+  Admirals 2\nLieu du match: Langenthal\nDétails: https://www.swiss-street
+ hockey.ch/fr/game-center/game-details/?spielnr=11211
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11211
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11212-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270307T144000
+DTEND;TZID=Europe/Zurich:20270307T155000
+SUMMARY:SHC Langenthal Devils 1 vs Horgenberg Hammers 2
+LOCATION:Langenthal\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: SHC Langenthal Devils 1\nVisiteurs: 
+ Horgenberg Hammers 2\nLieu du match: Langenthal\nDétails: https://www.swi
+ ss-streethockey.ch/fr/game-center/game-details/?spielnr=11212
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11212
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11213-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270307T155000
+DTEND;TZID=Europe/Zurich:20270307T170000
+SUMMARY:SHC Steckholz vs SHC Bettlach 2
+LOCATION:Langenthal\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: SHC Steckholz\nVisiteurs: SHC Bettla
+ ch 2\nLieu du match: Langenthal\nDétails: https://www.swiss-streethockey.
+ ch/fr/game-center/game-details/?spielnr=11213
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11213
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11214-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270307T170000
+DTEND;TZID=Europe/Zurich:20270307T181000
+SUMMARY:SHC Grenchen-Limpachtal 3 vs SHC Langenthal Devils 1
+LOCATION:Langenthal\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: SHC Grenchen-Limpachtal 3\nVisiteurs
+ : SHC Langenthal Devils 1\nLieu du match: Langenthal\nDétails: https://ww
+ w.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11214
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11214
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

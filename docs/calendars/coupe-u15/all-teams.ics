@@ -1,0 +1,250 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//swiss-streethockey-ics//Game center calendars//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Street hockey · Coupe U15
+X-WR-CALDESC:Tous les matchs de la ligue Coupe U15 (source: https://www.swi
+ ss-streethockey.ch/fr/game-center/prochains-matchs/).
+X-WR-TIMEZONE:Europe/Zurich
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+X-LIC-LOCATION:Europe/Zurich
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:11546-302@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261121T100000
+DTEND;TZID=Europe/Zurich:20261121T111000
+SUMMARY:SHC Erlinsbach U15 vs Oberwil Rebells U15
+LOCATION:Erlinsbach\, Suisse
+DESCRIPTION:Ligue: Coupe U15\nDomicile: SHC Erlinsbach U15\nVisiteurs: Ober
+ wil Rebells U15\nLieu du match: Erlinsbach\nDétails: https://www.swiss-st
+ reethockey.ch/fr/game-center/game-details/?spielnr=11546
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11546
+CATEGORIES:Streethockey\,Coupe U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11547-302@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261121T111000
+DTEND;TZID=Europe/Zurich:20261121T125000
+SUMMARY:SHC La Chaux-de-Fonds U15 vs SHC Aegerten-Brügg U15
+LOCATION:Erlinsbach\, Suisse
+DESCRIPTION:Ligue: Coupe U15\nDomicile: SHC La Chaux-de-Fonds U15\nVisiteur
+ s: SHC Aegerten-Brügg U15\nLieu du match: Erlinsbach\nDétails: https://w
+ ww.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11547
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11547
+CATEGORIES:Streethockey\,Coupe U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11548-302@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261121T125000
+DTEND;TZID=Europe/Zurich:20261121T140000
+SUMMARY:Oberwil Rebells U15 vs SHC La Chaux-de-Fonds U15
+LOCATION:Erlinsbach\, Suisse
+DESCRIPTION:Ligue: Coupe U15\nDomicile: Oberwil Rebells U15\nVisiteurs: SHC
+  La Chaux-de-Fonds U15\nLieu du match: Erlinsbach\nDétails: https://www.s
+ wiss-streethockey.ch/fr/game-center/game-details/?spielnr=11548
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11548
+CATEGORIES:Streethockey\,Coupe U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11549-302@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261121T140000
+DTEND;TZID=Europe/Zurich:20261121T151000
+SUMMARY:SHC Erlinsbach U15 vs SHC Aegerten-Brügg U15
+LOCATION:Erlinsbach\, Suisse
+DESCRIPTION:Ligue: Coupe U15\nDomicile: SHC Erlinsbach U15\nVisiteurs: SHC 
+ Aegerten-Brügg U15\nLieu du match: Erlinsbach\nDétails: https://www.swis
+ s-streethockey.ch/fr/game-center/game-details/?spielnr=11549
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11549
+CATEGORIES:Streethockey\,Coupe U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11538-302@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261122T100000
+DTEND;TZID=Europe/Zurich:20261122T111000
+SUMMARY:SHC Bettlach U15 vs Horgenberg Hammers U15
+LOCATION:Bettlach\, Suisse
+DESCRIPTION:Ligue: Coupe U15\nDomicile: SHC Bettlach U15\nVisiteurs: Horgen
+ berg Hammers U15\nLieu du match: Bettlach\nDétails: https://www.swiss-str
+ eethockey.ch/fr/game-center/game-details/?spielnr=11538
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11538
+CATEGORIES:Streethockey\,Coupe U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11542-302@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261122T100000
+DTEND;TZID=Europe/Zurich:20261122T111000
+SUMMARY:SHC Bulldozers Kernenried-Zauggenried U15 vs SV Gals U15
+LOCATION:Gals\, Suisse
+DESCRIPTION:Ligue: Coupe U15\nDomicile: SHC Bulldozers Kernenried-Zauggenri
+ ed U15\nVisiteurs: SV Gals U15\nLieu du match: Gals\nDétails: https://www
+ .swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11542
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11542
+CATEGORIES:Streethockey\,Coupe U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11543-302@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261122T111000
+DTEND;TZID=Europe/Zurich:20261122T125000
+SUMMARY:SHC Bonstetten-Wettswil U15 vs SHC Grenchen-Limpachtal U15 GF Weiss
+LOCATION:Gals\, Suisse
+DESCRIPTION:Ligue: Coupe U15\nDomicile: SHC Bonstetten-Wettswil U15\nVisite
+ urs: SHC Grenchen-Limpachtal U15 GF Weiss\nLieu du match: Gals\nDétails: 
+ https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=115
+ 43
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11543
+CATEGORIES:Streethockey\,Coupe U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11539-302@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261122T111000
+DTEND;TZID=Europe/Zurich:20261122T125000
+SUMMARY:SHC Grenchen-Limpachtal U15 GF Grün vs SHC Belpa 1107 U15
+LOCATION:Bettlach\, Suisse
+DESCRIPTION:Ligue: Coupe U15\nDomicile: SHC Grenchen-Limpachtal U15 GF Grü
+ n\nVisiteurs: SHC Belpa 1107 U15\nLieu du match: Bettlach\nDétails: https
+ ://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11539
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11539
+CATEGORIES:Streethockey\,Coupe U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11544-302@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261122T125000
+DTEND;TZID=Europe/Zurich:20261122T140000
+SUMMARY:SHC Bulldozers Kernenried-Zauggenried U15 vs SHC Bonstetten-Wettswi
+ l U15
+LOCATION:Gals\, Suisse
+DESCRIPTION:Ligue: Coupe U15\nDomicile: SHC Bulldozers Kernenried-Zauggenri
+ ed U15\nVisiteurs: SHC Bonstetten-Wettswil U15\nLieu du match: Gals\nDéta
+ ils: https://www.swiss-streethockey.ch/fr/game-center/game-details/?spieln
+ r=11544
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11544
+CATEGORIES:Streethockey\,Coupe U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11540-302@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261122T125000
+DTEND;TZID=Europe/Zurich:20261122T140000
+SUMMARY:SHC Grenchen-Limpachtal U15 GF Grün vs Horgenberg Hammers U15
+LOCATION:Bettlach\, Suisse
+DESCRIPTION:Ligue: Coupe U15\nDomicile: SHC Grenchen-Limpachtal U15 GF Grü
+ n\nVisiteurs: Horgenberg Hammers U15\nLieu du match: Bettlach\nDétails: h
+ ttps://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=1154
+ 0
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11540
+CATEGORIES:Streethockey\,Coupe U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11541-302@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261122T140000
+DTEND;TZID=Europe/Zurich:20261122T151000
+SUMMARY:SHC Belpa 1107 U15 vs SHC Bettlach U15
+LOCATION:Bettlach\, Suisse
+DESCRIPTION:Ligue: Coupe U15\nDomicile: SHC Belpa 1107 U15\nVisiteurs: SHC 
+ Bettlach U15\nLieu du match: Bettlach\nDétails: https://www.swiss-streeth
+ ockey.ch/fr/game-center/game-details/?spielnr=11541
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11541
+CATEGORIES:Streethockey\,Coupe U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11545-302@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261122T140000
+DTEND;TZID=Europe/Zurich:20261122T151000
+SUMMARY:SV Gals U15 vs SHC Grenchen-Limpachtal U15 GF Weiss
+LOCATION:Gals\, Suisse
+DESCRIPTION:Ligue: Coupe U15\nDomicile: SV Gals U15\nVisiteurs: SHC Grenche
+ n-Limpachtal U15 GF Weiss\nLieu du match: Gals\nDétails: https://www.swis
+ s-streethockey.ch/fr/game-center/game-details/?spielnr=11545
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11545
+CATEGORIES:Streethockey\,Coupe U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

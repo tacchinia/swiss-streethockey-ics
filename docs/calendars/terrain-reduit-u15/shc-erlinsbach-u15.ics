@@ -1,0 +1,248 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//swiss-streethockey-ics//Game center calendars//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SHC Erlinsbach U15 · Terrain réduit U15
+X-WR-CALDESC:Matchs de SHC Erlinsbach U15 en Terrain réduit U15 (source: h
+ ttps://www.swiss-streethockey.ch/fr/game-center/prochains-matchs/).
+X-WR-TIMEZONE:Europe/Zurich
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+X-LIC-LOCATION:Europe/Zurich
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:11292-2108@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261101T103000
+DTEND;TZID=Europe/Zurich:20261101T114000
+SUMMARY:SHC Erlinsbach U15 vs SHC Martigny U15
+LOCATION:Erlinsbach\, Suisse
+DESCRIPTION:Ligue: Terrain réduit U15\nDomicile: SHC Erlinsbach U15\nVisit
+ eurs: SHC Martigny U15\nLieu du match: Erlinsbach\nDétails: https://www.s
+ wiss-streethockey.ch/fr/game-center/game-details/?spielnr=11292
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11292
+CATEGORIES:Streethockey\,Terrain réduit U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11294-2108@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261101T125000
+DTEND;TZID=Europe/Zurich:20261101T140000
+SUMMARY:SHC Belpa 1107 U15 vs SHC Erlinsbach U15
+LOCATION:Erlinsbach\, Suisse
+DESCRIPTION:Ligue: Terrain réduit U15\nDomicile: SHC Belpa 1107 U15\nVisit
+ eurs: SHC Erlinsbach U15\nLieu du match: Erlinsbach\nDétails: https://www
+ .swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11294
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11294
+CATEGORIES:Streethockey\,Terrain réduit U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11297-2108@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261115T103000
+DTEND;TZID=Europe/Zurich:20261115T114000
+SUMMARY:SHC Erlinsbach U15 vs SHC Aegerten-Brügg U15
+LOCATION:Aegerten\, Suisse
+DESCRIPTION:Ligue: Terrain réduit U15\nDomicile: SHC Erlinsbach U15\nVisit
+ eurs: SHC Aegerten-Brügg U15\nLieu du match: Aegerten\nDétails: https://
+ www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11297
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11297
+CATEGORIES:Streethockey\,Terrain réduit U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11299-2108@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261115T125000
+DTEND;TZID=Europe/Zurich:20261115T140000
+SUMMARY:SHC Erlinsbach U15 vs SHC La Chaux-de-Fonds U15
+LOCATION:Aegerten\, Suisse
+DESCRIPTION:Ligue: Terrain réduit U15\nDomicile: SHC Erlinsbach U15\nVisit
+ eurs: SHC La Chaux-de-Fonds U15\nLieu du match: Aegerten\nDétails: https:
+ //www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11299
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11299
+CATEGORIES:Streethockey\,Terrain réduit U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11302-2108@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261128T103000
+DTEND;TZID=Europe/Zurich:20261128T114000
+SUMMARY:SHC Martigny U15 vs SHC Erlinsbach U15
+LOCATION:Belp\, Suisse
+DESCRIPTION:Ligue: Terrain réduit U15\nDomicile: SHC Martigny U15\nVisiteu
+ rs: SHC Erlinsbach U15\nLieu du match: Belp\nDétails: https://www.swiss-s
+ treethockey.ch/fr/game-center/game-details/?spielnr=11302
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11302
+CATEGORIES:Streethockey\,Terrain réduit U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11304-2108@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261128T125000
+DTEND;TZID=Europe/Zurich:20261128T140000
+SUMMARY:SHC Erlinsbach U15 vs SHC Belpa 1107 U15
+LOCATION:Belp\, Suisse
+DESCRIPTION:Ligue: Terrain réduit U15\nDomicile: SHC Erlinsbach U15\nVisit
+ eurs: SHC Belpa 1107 U15\nLieu du match: Belp\nDétails: https://www.swiss
+ -streethockey.ch/fr/game-center/game-details/?spielnr=11304
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11304
+CATEGORIES:Streethockey\,Terrain réduit U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11318-2108@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270131T114000
+DTEND;TZID=Europe/Zurich:20270131T125000
+SUMMARY:SHC Erlinsbach U15 vs SHC La Chaux-de-Fonds U15
+LOCATION:Belp\, Suisse
+DESCRIPTION:Ligue: Terrain réduit U15\nDomicile: SHC Erlinsbach U15\nVisit
+ eurs: SHC La Chaux-de-Fonds U15\nLieu du match: Belp\nDétails: https://ww
+ w.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11318
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11318
+CATEGORIES:Streethockey\,Terrain réduit U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11321-2108@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270131T151000
+DTEND;TZID=Europe/Zurich:20270131T162000
+SUMMARY:SHC Aegerten-Brügg U15 vs SHC Erlinsbach U15
+LOCATION:Belp\, Suisse
+DESCRIPTION:Ligue: Terrain réduit U15\nDomicile: SHC Aegerten-Brügg U15\n
+ Visiteurs: SHC Erlinsbach U15\nLieu du match: Belp\nDétails: https://www.
+ swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11321
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11321
+CATEGORIES:Streethockey\,Terrain réduit U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11314-2108@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270320T125000
+DTEND;TZID=Europe/Zurich:20270320T140000
+SUMMARY:SHC Erlinsbach U15 vs SHC Martigny U15
+LOCATION:Martigny\, Suisse
+DESCRIPTION:Ligue: Terrain réduit U15\nDomicile: SHC Erlinsbach U15\nVisit
+ eurs: SHC Martigny U15\nLieu du match: Martigny\nDétails: https://www.swi
+ ss-streethockey.ch/fr/game-center/game-details/?spielnr=11314
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11314
+CATEGORIES:Streethockey\,Terrain réduit U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11316-2108@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270320T151000
+DTEND;TZID=Europe/Zurich:20270320T162000
+SUMMARY:SHC Belpa 1107 U15 vs SHC Erlinsbach U15
+LOCATION:Martigny\, Suisse
+DESCRIPTION:Ligue: Terrain réduit U15\nDomicile: SHC Belpa 1107 U15\nVisit
+ eurs: SHC Erlinsbach U15\nLieu du match: Martigny\nDétails: https://www.s
+ wiss-streethockey.ch/fr/game-center/game-details/?spielnr=11316
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11316
+CATEGORIES:Streethockey\,Terrain réduit U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11308-2108@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270501T114000
+DTEND;TZID=Europe/Zurich:20270501T125000
+SUMMARY:SHC Aegerten-Brügg U15 vs SHC Erlinsbach U15
+LOCATION:La Chaux-de-Fonds\, Suisse
+DESCRIPTION:Ligue: Terrain réduit U15\nDomicile: SHC Aegerten-Brügg U15\n
+ Visiteurs: SHC Erlinsbach U15\nLieu du match: La Chaux-de-Fonds\nDétails:
+  https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11
+ 308
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11308
+CATEGORIES:Streethockey\,Terrain réduit U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11310-2108@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270501T140000
+DTEND;TZID=Europe/Zurich:20270501T151000
+SUMMARY:SHC La Chaux-de-Fonds U15 vs SHC Erlinsbach U15
+LOCATION:La Chaux-de-Fonds\, Suisse
+DESCRIPTION:Ligue: Terrain réduit U15\nDomicile: SHC La Chaux-de-Fonds U15
+ \nVisiteurs: SHC Erlinsbach U15\nLieu du match: La Chaux-de-Fonds\nDétail
+ s: https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11310
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11310
+CATEGORIES:Streethockey\,Terrain réduit U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

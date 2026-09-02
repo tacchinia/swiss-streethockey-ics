@@ -1,0 +1,290 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//swiss-streethockey-ics//Game center calendars//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SHC Grenchen-Limpachtal U15 GF Grün · U15
+X-WR-CALDESC:Matchs de SHC Grenchen-Limpachtal U15 GF Grün en U15 (source:
+  https://www.swiss-streethockey.ch/fr/game-center/prochains-matchs/).
+X-WR-TIMEZONE:Europe/Zurich
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+X-LIC-LOCATION:Europe/Zurich
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:11286-297@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20260919T104000
+DTEND;TZID=Europe/Zurich:20260919T115000
+SUMMARY:SHC Grenchen-Limpachtal U15 GF Grün vs SHC Grenchen-Limpachtal U15
+  GF Weiss
+LOCATION:Bettlach\, Suisse
+DESCRIPTION:Ligue: U15\nDomicile: SHC Grenchen-Limpachtal U15 GF Grün\nVis
+ iteurs: SHC Grenchen-Limpachtal U15 GF Weiss\nLieu du match: Bettlach\nDé
+ tails: https://www.swiss-streethockey.ch/fr/game-center/game-details/?spie
+ lnr=11286
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11286
+CATEGORIES:Streethockey\,U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11288-297@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20260919T130000
+DTEND;TZID=Europe/Zurich:20260919T141000
+SUMMARY:SHC Grenchen-Limpachtal U15 GF Grün vs SHC Bettlach U15
+LOCATION:Bettlach\, Suisse
+DESCRIPTION:Ligue: U15\nDomicile: SHC Grenchen-Limpachtal U15 GF Grün\nVis
+ iteurs: SHC Bettlach U15\nLieu du match: Bettlach\nDétails: https://www.s
+ wiss-streethockey.ch/fr/game-center/game-details/?spielnr=11288
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11288
+CATEGORIES:Streethockey\,U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11245-297@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261115T115000
+DTEND;TZID=Europe/Zurich:20261115T130000
+SUMMARY:SHC Bonstetten-Wettswil U15 vs SHC Grenchen-Limpachtal U15 GF Grün
+LOCATION:Zug\, Suisse
+DESCRIPTION:Ligue: U15\nDomicile: SHC Bonstetten-Wettswil U15\nVisiteurs: S
+ HC Grenchen-Limpachtal U15 GF Grün\nLieu du match: Zug\nDétails: https:/
+ /www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11245
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11245
+CATEGORIES:Streethockey\,U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11247-297@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261115T141000
+DTEND;TZID=Europe/Zurich:20261115T152000
+SUMMARY:SHC Grenchen-Limpachtal U15 GF Grün vs Oberwil Rebells U15
+LOCATION:Zug\, Suisse
+DESCRIPTION:Ligue: U15\nDomicile: SHC Grenchen-Limpachtal U15 GF Grün\nVis
+ iteurs: Oberwil Rebells U15\nLieu du match: Zug\nDétails: https://www.swi
+ ss-streethockey.ch/fr/game-center/game-details/?spielnr=11247
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11247
+CATEGORIES:Streethockey\,U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11250-297@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261205T093000
+DTEND;TZID=Europe/Zurich:20261205T104000
+SUMMARY:SV Gals U15 vs SHC Grenchen-Limpachtal U15 GF Grün
+LOCATION:Grenchen\, Suisse
+DESCRIPTION:Ligue: U15\nDomicile: SV Gals U15\nVisiteurs: SHC Grenchen-Limp
+ achtal U15 GF Grün\nLieu du match: Grenchen\nDétails: https://www.swiss-
+ streethockey.ch/fr/game-center/game-details/?spielnr=11250
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11250
+CATEGORIES:Streethockey\,U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11252-297@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261205T115000
+DTEND;TZID=Europe/Zurich:20261205T130000
+SUMMARY:SHC Bettlach U15 vs SHC Grenchen-Limpachtal U15 GF Grün
+LOCATION:Grenchen\, Suisse
+DESCRIPTION:Ligue: U15\nDomicile: SHC Bettlach U15\nVisiteurs: SHC Grenchen
+ -Limpachtal U15 GF Grün\nLieu du match: Grenchen\nDétails: https://www.s
+ wiss-streethockey.ch/fr/game-center/game-details/?spielnr=11252
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11252
+CATEGORIES:Streethockey\,U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11256-297@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261205T163000
+DTEND;TZID=Europe/Zurich:20261205T174000
+SUMMARY:SHC Bulldozers Kernenried-Zauggenried U15 vs SHC Grenchen-Limpachta
+ l U15 GF Grün
+LOCATION:Grenchen\, Suisse
+DESCRIPTION:Ligue: U15\nDomicile: SHC Bulldozers Kernenried-Zauggenried U15
+ \nVisiteurs: SHC Grenchen-Limpachtal U15 GF Grün\nLieu du match: Grenchen
+ \nDétails: https://www.swiss-streethockey.ch/fr/game-center/game-details/
+ ?spielnr=11256
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11256
+CATEGORIES:Streethockey\,U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11268-297@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270124T141000
+DTEND;TZID=Europe/Zurich:20270124T152000
+SUMMARY:SHC Grenchen-Limpachtal U15 GF Grün vs Horgenberg Hammers U15
+LOCATION:Gals\, Suisse
+DESCRIPTION:Ligue: U15\nDomicile: SHC Grenchen-Limpachtal U15 GF Grün\nVis
+ iteurs: Horgenberg Hammers U15\nLieu du match: Gals\nDétails: https://www
+ .swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11268
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11268
+CATEGORIES:Streethockey\,U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11270-297@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270124T163000
+DTEND;TZID=Europe/Zurich:20270124T174000
+SUMMARY:SHC Grenchen-Limpachtal U15 GF Grün vs SV Gals U15
+LOCATION:Gals\, Suisse
+DESCRIPTION:Ligue: U15\nDomicile: SHC Grenchen-Limpachtal U15 GF Grün\nVis
+ iteurs: SV Gals U15\nLieu du match: Gals\nDétails: https://www.swiss-stre
+ ethockey.ch/fr/game-center/game-details/?spielnr=11270
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11270
+CATEGORIES:Streethockey\,U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11273-297@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270313T115000
+DTEND;TZID=Europe/Zurich:20270313T130000
+SUMMARY:Oberwil Rebells U15 vs SHC Grenchen-Limpachtal U15 GF Grün
+LOCATION:Wettswil\, Suisse
+DESCRIPTION:Ligue: U15\nDomicile: Oberwil Rebells U15\nVisiteurs: SHC Grenc
+ hen-Limpachtal U15 GF Grün\nLieu du match: Wettswil\nDétails: https://ww
+ w.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11273
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11273
+CATEGORIES:Streethockey\,U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11275-297@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270313T141000
+DTEND;TZID=Europe/Zurich:20270313T152000
+SUMMARY:SHC Grenchen-Limpachtal U15 GF Grün vs SHC Bulldozers Kernenried-Z
+ auggenried U15
+LOCATION:Wettswil\, Suisse
+DESCRIPTION:Ligue: U15\nDomicile: SHC Grenchen-Limpachtal U15 GF Grün\nVis
+ iteurs: SHC Bulldozers Kernenried-Zauggenried U15\nLieu du match: Wettswil
+ \nDétails: https://www.swiss-streethockey.ch/fr/game-center/game-details/
+ ?spielnr=11275
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11275
+CATEGORIES:Streethockey\,U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11277-297@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270313T163000
+DTEND;TZID=Europe/Zurich:20270313T174000
+SUMMARY:SHC Grenchen-Limpachtal U15 GF Grün vs SHC Bonstetten-Wettswil U15
+LOCATION:Wettswil\, Suisse
+DESCRIPTION:Ligue: U15\nDomicile: SHC Grenchen-Limpachtal U15 GF Grün\nVis
+ iteurs: SHC Bonstetten-Wettswil U15\nLieu du match: Wettswil\nDétails: ht
+ tps://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11277
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11277
+CATEGORIES:Streethockey\,U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11261-297@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270410T141000
+DTEND;TZID=Europe/Zurich:20270410T152000
+SUMMARY:Horgenberg Hammers U15 vs SHC Grenchen-Limpachtal U15 GF Grün
+LOCATION:Grenchen\, Suisse
+DESCRIPTION:Ligue: U15\nDomicile: Horgenberg Hammers U15\nVisiteurs: SHC Gr
+ enchen-Limpachtal U15 GF Grün\nLieu du match: Grenchen\nDétails: https:/
+ /www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11261
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11261
+CATEGORIES:Streethockey\,U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11263-297@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270410T163000
+DTEND;TZID=Europe/Zurich:20270410T174000
+SUMMARY:SHC Grenchen-Limpachtal U15 GF Weiss vs SHC Grenchen-Limpachtal U15
+  GF Grün
+LOCATION:Grenchen\, Suisse
+DESCRIPTION:Ligue: U15\nDomicile: SHC Grenchen-Limpachtal U15 GF Weiss\nVis
+ iteurs: SHC Grenchen-Limpachtal U15 GF Grün\nLieu du match: Grenchen\nDé
+ tails: https://www.swiss-streethockey.ch/fr/game-center/game-details/?spie
+ lnr=11263
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11263
+CATEGORIES:Streethockey\,U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

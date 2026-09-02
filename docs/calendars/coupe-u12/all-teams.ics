@@ -1,0 +1,195 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//swiss-streethockey-ics//Game center calendars//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Street hockey · Coupe U12
+X-WR-CALDESC:Tous les matchs de la ligue Coupe U12 (source: https://www.swi
+ ss-streethockey.ch/fr/game-center/prochains-matchs/).
+X-WR-TIMEZONE:Europe/Zurich
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+X-LIC-LOCATION:Europe/Zurich
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:11535-301@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261206T103000
+DTEND;TZID=Europe/Zurich:20261206T120000
+SUMMARY:Horgenberg Hammers U12 vs Oberwil Rebells U12
+LOCATION:Horgen\, Suisse
+DESCRIPTION:Ligue: Coupe U12\nDomicile: Horgenberg Hammers U12\nVisiteurs: 
+ Oberwil Rebells U12\nLieu du match: Horgen\nDétails: https://www.swiss-st
+ reethockey.ch/fr/game-center/game-details/?spielnr=11535
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11535
+CATEGORIES:Streethockey\,Coupe U12
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11532-301@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261206T103000
+DTEND;TZID=Europe/Zurich:20261206T120000
+SUMMARY:SHC Bonstetten-Wettswil U12 vs SHC Grenchen-Limpachtal U12 GF
+LOCATION:Wettswil\, Suisse
+DESCRIPTION:Ligue: Coupe U12\nDomicile: SHC Bonstetten-Wettswil U12\nVisite
+ urs: SHC Grenchen-Limpachtal U12 GF\nLieu du match: Wettswil\nDétails: ht
+ tps://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11532
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11532
+CATEGORIES:Streethockey\,Coupe U12
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11529-301@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261206T103000
+DTEND;TZID=Europe/Zurich:20261206T120000
+SUMMARY:SHC Bulldozers Kernenried-Zauggenried U12 vs SHC Erlinsbach U12
+LOCATION:Kernenried\, Suisse
+DESCRIPTION:Ligue: Coupe U12\nDomicile: SHC Bulldozers Kernenried-Zauggenri
+ ed U12\nVisiteurs: SHC Erlinsbach U12\nLieu du match: Kernenried\nDétails
+ : https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=1
+ 1529
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11529
+CATEGORIES:Streethockey\,Coupe U12
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11536-301@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261206T120000
+DTEND;TZID=Europe/Zurich:20261206T133000
+SUMMARY:Oberwil Rebells U12 vs SV Gals U12
+LOCATION:Horgen\, Suisse
+DESCRIPTION:Ligue: Coupe U12\nDomicile: Oberwil Rebells U12\nVisiteurs: SV 
+ Gals U12\nLieu du match: Horgen\nDétails: https://www.swiss-streethockey.
+ ch/fr/game-center/game-details/?spielnr=11536
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11536
+CATEGORIES:Streethockey\,Coupe U12
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11530-301@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261206T120000
+DTEND;TZID=Europe/Zurich:20261206T133000
+SUMMARY:SHC Erlinsbach U12 vs SHC La Chaux-de-Fonds U12
+LOCATION:Kernenried\, Suisse
+DESCRIPTION:Ligue: Coupe U12\nDomicile: SHC Erlinsbach U12\nVisiteurs: SHC 
+ La Chaux-de-Fonds U12\nLieu du match: Kernenried\nDétails: https://www.sw
+ iss-streethockey.ch/fr/game-center/game-details/?spielnr=11530
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11530
+CATEGORIES:Streethockey\,Coupe U12
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11533-301@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261206T120000
+DTEND;TZID=Europe/Zurich:20261206T133000
+SUMMARY:SHC Grenchen-Limpachtal U12 GF vs SHC Aegerten-Brügg U12
+LOCATION:Wettswil\, Suisse
+DESCRIPTION:Ligue: Coupe U12\nDomicile: SHC Grenchen-Limpachtal U12 GF\nVis
+ iteurs: SHC Aegerten-Brügg U12\nLieu du match: Wettswil\nDétails: https:
+ //www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11533
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11533
+CATEGORIES:Streethockey\,Coupe U12
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11534-301@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261206T133000
+DTEND;TZID=Europe/Zurich:20261206T150000
+SUMMARY:SHC Aegerten-Brügg U12 vs SHC Bonstetten-Wettswil U12
+LOCATION:Wettswil\, Suisse
+DESCRIPTION:Ligue: Coupe U12\nDomicile: SHC Aegerten-Brügg U12\nVisiteurs:
+  SHC Bonstetten-Wettswil U12\nLieu du match: Wettswil\nDétails: https://w
+ ww.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11534
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11534
+CATEGORIES:Streethockey\,Coupe U12
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11531-301@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261206T133000
+DTEND;TZID=Europe/Zurich:20261206T150000
+SUMMARY:SHC La Chaux-de-Fonds U12 vs SHC Bulldozers Kernenried-Zauggenried 
+ U12
+LOCATION:Kernenried\, Suisse
+DESCRIPTION:Ligue: Coupe U12\nDomicile: SHC La Chaux-de-Fonds U12\nVisiteur
+ s: SHC Bulldozers Kernenried-Zauggenried U12\nLieu du match: Kernenried\nD
+ étails: https://www.swiss-streethockey.ch/fr/game-center/game-details/?sp
+ ielnr=11531
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11531
+CATEGORIES:Streethockey\,Coupe U12
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11537-301@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261206T133000
+DTEND;TZID=Europe/Zurich:20261206T150000
+SUMMARY:SV Gals U12 vs Horgenberg Hammers U12
+LOCATION:Horgen\, Suisse
+DESCRIPTION:Ligue: Coupe U12\nDomicile: SV Gals U12\nVisiteurs: Horgenberg 
+ Hammers U12\nLieu du match: Horgen\nDétails: https://www.swiss-streethock
+ ey.ch/fr/game-center/game-details/?spielnr=11537
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11537
+CATEGORIES:Streethockey\,Coupe U12
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

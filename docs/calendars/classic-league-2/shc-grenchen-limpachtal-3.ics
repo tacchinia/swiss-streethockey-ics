@@ -1,0 +1,282 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//swiss-streethockey-ics//Game center calendars//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SHC Grenchen-Limpachtal 3 · Classic League 2
+X-WR-CALDESC:Matchs de SHC Grenchen-Limpachtal 3 en Classic League 2 (sourc
+ e: https://www.swiss-streethockey.ch/fr/game-center/prochains-matchs/).
+X-WR-TIMEZONE:Europe/Zurich
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+X-LIC-LOCATION:Europe/Zurich
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:11222-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261101T100000
+DTEND;TZID=Europe/Zurich:20261101T111000
+SUMMARY:SHC Grenchen-Limpachtal 3 vs SHC Seetal Admirals 2
+LOCATION:Lenzburg\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: SHC Grenchen-Limpachtal 3\nV
+ isiteurs: SHC Seetal Admirals 2\nLieu du match: Lenzburg\nDétails: https:
+ //www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11222
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11222
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11224-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261101T122000
+DTEND;TZID=Europe/Zurich:20261101T133000
+SUMMARY:SHC Grenchen-Limpachtal 3 vs Horgenberg Hammers 2
+LOCATION:Lenzburg\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: SHC Grenchen-Limpachtal 3\nV
+ isiteurs: Horgenberg Hammers 2\nLieu du match: Lenzburg\nDétails: https:/
+ /www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11224
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11224
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11227-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261101T155000
+DTEND;TZID=Europe/Zurich:20261101T170000
+SUMMARY:SHC Bonstetten-Wettswil 2 vs SHC Grenchen-Limpachtal 3
+LOCATION:Lenzburg\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: SHC Bonstetten-Wettswil 2\nV
+ isiteurs: SHC Grenchen-Limpachtal 3\nLieu du match: Lenzburg\nDétails: ht
+ tps://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11227
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11227
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11232-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261129T133000
+DTEND;TZID=Europe/Zurich:20261129T144000
+SUMMARY:SHC Grenchen-Limpachtal 3 vs SHC Steckholz
+LOCATION:Langenthal\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: SHC Grenchen-Limpachtal 3\nV
+ isiteurs: SHC Steckholz\nLieu du match: Langenthal\nDétails: https://www.
+ swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11232
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11232
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11234-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261129T155000
+DTEND;TZID=Europe/Zurich:20261129T170000
+SUMMARY:SHC Berner Oberland 1 vs SHC Grenchen-Limpachtal 3
+LOCATION:Langenthal\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: SHC Berner Oberland 1\nVisit
+ eurs: SHC Grenchen-Limpachtal 3\nLieu du match: Langenthal\nDétails: http
+ s://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11234
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11234
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11189-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261213T122000
+DTEND;TZID=Europe/Zurich:20261213T133000
+SUMMARY:SHC Grenchen-Limpachtal 3 vs SHC Bonstetten-Wettswil 2
+LOCATION:Bettlach\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: SHC Grenchen-Limpachtal 3\nV
+ isiteurs: SHC Bonstetten-Wettswil 2\nLieu du match: Bettlach\nDétails: ht
+ tps://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11189
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11189
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11192-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261213T155000
+DTEND;TZID=Europe/Zurich:20261213T170000
+SUMMARY:SHC Steckholz vs SHC Grenchen-Limpachtal 3
+LOCATION:Bettlach\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: SHC Steckholz\nVisiteurs: SH
+ C Grenchen-Limpachtal 3\nLieu du match: Bettlach\nDétails: https://www.sw
+ iss-streethockey.ch/fr/game-center/game-details/?spielnr=11192
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11192
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11184-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270130T144000
+DTEND;TZID=Europe/Zurich:20270130T155000
+SUMMARY:SHC Langenthal Devils 1 vs SHC Grenchen-Limpachtal 3
+LOCATION:Lenzburg\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: SHC Langenthal Devils 1\nVis
+ iteurs: SHC Grenchen-Limpachtal 3\nLieu du match: Lenzburg\nDétails: http
+ s://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11184
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11184
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11186-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270130T170000
+DTEND;TZID=Europe/Zurich:20270130T181000
+SUMMARY:SHC Bettlach 2 vs SHC Grenchen-Limpachtal 3
+LOCATION:Lenzburg\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: SHC Bettlach 2\nVisiteurs: S
+ HC Grenchen-Limpachtal 3\nLieu du match: Lenzburg\nDétails: https://www.s
+ wiss-streethockey.ch/fr/game-center/game-details/?spielnr=11186
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11186
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11194-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270220T100000
+DTEND;TZID=Europe/Zurich:20270220T111000
+SUMMARY:SHC Seetal Admirals 2 vs SHC Grenchen-Limpachtal 3
+LOCATION:Grenchen\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: SHC Seetal Admirals 2\nVisit
+ eurs: SHC Grenchen-Limpachtal 3\nLieu du match: Grenchen\nDétails: https:
+ //www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11194
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11194
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11197-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270220T133000
+DTEND;TZID=Europe/Zurich:20270220T144000
+SUMMARY:SHC Grenchen-Limpachtal 3 vs SHC Berner Oberland 1
+LOCATION:Grenchen\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: SHC Grenchen-Limpachtal 3\nV
+ isiteurs: SHC Berner Oberland 1\nLieu du match: Grenchen\nDétails: https:
+ //www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11197
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11197
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11200-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270220T170000
+DTEND;TZID=Europe/Zurich:20270220T181000
+SUMMARY:Horgenberg Hammers 2 vs SHC Grenchen-Limpachtal 3
+LOCATION:Grenchen\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: Horgenberg Hammers 2\nVisite
+ urs: SHC Grenchen-Limpachtal 3\nLieu du match: Grenchen\nDétails: https:/
+ /www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11200
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11200
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11210-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270307T122000
+DTEND;TZID=Europe/Zurich:20270307T133000
+SUMMARY:SHC Grenchen-Limpachtal 3 vs SHC Bettlach 2
+LOCATION:Langenthal\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: SHC Grenchen-Limpachtal 3\nV
+ isiteurs: SHC Bettlach 2\nLieu du match: Langenthal\nDétails: https://www
+ .swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11210
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11210
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11214-294@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270307T170000
+DTEND;TZID=Europe/Zurich:20270307T181000
+SUMMARY:SHC Grenchen-Limpachtal 3 vs SHC Langenthal Devils 1
+LOCATION:Langenthal\, Suisse
+DESCRIPTION:Ligue: Classic League 2\nDomicile: SHC Grenchen-Limpachtal 3\nV
+ isiteurs: SHC Langenthal Devils 1\nLieu du match: Langenthal\nDétails: ht
+ tps://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11214
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11214
+CATEGORIES:Streethockey\,Classic League 2
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

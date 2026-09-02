@@ -1,0 +1,288 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//swiss-streethockey-ics//Game center calendars//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Oberwil Rebells U15 · Grand terrain U15
+X-WR-CALDESC:Matchs de Oberwil Rebells U15 en Grand terrain U15 (source: ht
+ tps://www.swiss-streethockey.ch/fr/game-center/prochains-matchs/).
+X-WR-TIMEZONE:Europe/Zurich
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+X-LIC-LOCATION:Europe/Zurich
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:11285-2109@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20260919T093000
+DTEND;TZID=Europe/Zurich:20260919T104000
+SUMMARY:Oberwil Rebells U15 vs SHC Bettlach U15
+LOCATION:Bettlach\, Suisse
+DESCRIPTION:Ligue: Grand terrain U15\nDomicile: Oberwil Rebells U15\nVisite
+ urs: SHC Bettlach U15\nLieu du match: Bettlach\nDétails: https://www.swis
+ s-streethockey.ch/fr/game-center/game-details/?spielnr=11285
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11285
+CATEGORIES:Streethockey\,Grand terrain U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11287-2109@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20260919T115000
+DTEND;TZID=Europe/Zurich:20260919T130000
+SUMMARY:Oberwil Rebells U15 vs Horgenberg Hammers U15
+LOCATION:Bettlach\, Suisse
+DESCRIPTION:Ligue: Grand terrain U15\nDomicile: Oberwil Rebells U15\nVisite
+ urs: Horgenberg Hammers U15\nLieu du match: Bettlach\nDétails: https://ww
+ w.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11287
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11287
+CATEGORIES:Streethockey\,Grand terrain U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11290-2109@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20260919T152000
+DTEND;TZID=Europe/Zurich:20260919T163000
+SUMMARY:Oberwil Rebells U15 vs SHC Grenchen-Limpachtal U15 GF Weiss
+LOCATION:Bettlach\, Suisse
+DESCRIPTION:Ligue: Grand terrain U15\nDomicile: Oberwil Rebells U15\nVisite
+ urs: SHC Grenchen-Limpachtal U15 GF Weiss\nLieu du match: Bettlach\nDétai
+ ls: https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr
+ =11290
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11290
+CATEGORIES:Streethockey\,Grand terrain U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11243-2109@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261115T093000
+DTEND;TZID=Europe/Zurich:20261115T104000
+SUMMARY:SHC Bonstetten-Wettswil U15 vs Oberwil Rebells U15
+LOCATION:Zug\, Suisse
+DESCRIPTION:Ligue: Grand terrain U15\nDomicile: SHC Bonstetten-Wettswil U15
+ \nVisiteurs: Oberwil Rebells U15\nLieu du match: Zug\nDétails: https://ww
+ w.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11243
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11243
+CATEGORIES:Streethockey\,Grand terrain U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11247-2109@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261115T141000
+DTEND;TZID=Europe/Zurich:20261115T152000
+SUMMARY:SHC Grenchen-Limpachtal U15 GF Grün vs Oberwil Rebells U15
+LOCATION:Zug\, Suisse
+DESCRIPTION:Ligue: Grand terrain U15\nDomicile: SHC Grenchen-Limpachtal U15
+  GF Grün\nVisiteurs: Oberwil Rebells U15\nLieu du match: Zug\nDétails: h
+ ttps://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=1124
+ 7
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11247
+CATEGORIES:Streethockey\,Grand terrain U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11249-2109@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261115T163000
+DTEND;TZID=Europe/Zurich:20261115T174000
+SUMMARY:SV Gals U15 vs Oberwil Rebells U15
+LOCATION:Zug\, Suisse
+DESCRIPTION:Ligue: Grand terrain U15\nDomicile: SV Gals U15\nVisiteurs: Obe
+ rwil Rebells U15\nLieu du match: Zug\nDétails: https://www.swiss-streetho
+ ckey.ch/fr/game-center/game-details/?spielnr=11249
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11249
+CATEGORIES:Streethockey\,Grand terrain U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11251-2109@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261205T104000
+DTEND;TZID=Europe/Zurich:20261205T115000
+SUMMARY:Horgenberg Hammers U15 vs Oberwil Rebells U15
+LOCATION:Grenchen\, Suisse
+DESCRIPTION:Ligue: Grand terrain U15\nDomicile: Horgenberg Hammers U15\nVis
+ iteurs: Oberwil Rebells U15\nLieu du match: Grenchen\nDétails: https://ww
+ w.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11251
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11251
+CATEGORIES:Streethockey\,Grand terrain U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11254-2109@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261205T141000
+DTEND;TZID=Europe/Zurich:20261205T152000
+SUMMARY:SHC Bulldozers Kernenried-Zauggenried U15 vs Oberwil Rebells U15
+LOCATION:Grenchen\, Suisse
+DESCRIPTION:Ligue: Grand terrain U15\nDomicile: SHC Bulldozers Kernenried-Z
+ auggenried U15\nVisiteurs: Oberwil Rebells U15\nLieu du match: Grenchen\nD
+ étails: https://www.swiss-streethockey.ch/fr/game-center/game-details/?sp
+ ielnr=11254
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11254
+CATEGORIES:Streethockey\,Grand terrain U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11265-2109@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270124T104000
+DTEND;TZID=Europe/Zurich:20270124T115000
+SUMMARY:Oberwil Rebells U15 vs SV Gals U15
+LOCATION:Gals\, Suisse
+DESCRIPTION:Ligue: Grand terrain U15\nDomicile: Oberwil Rebells U15\nVisite
+ urs: SV Gals U15\nLieu du match: Gals\nDétails: https://www.swiss-streeth
+ ockey.ch/fr/game-center/game-details/?spielnr=11265
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11265
+CATEGORIES:Streethockey\,Grand terrain U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11269-2109@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270124T152000
+DTEND;TZID=Europe/Zurich:20270124T163000
+SUMMARY:Oberwil Rebells U15 vs SHC Bulldozers Kernenried-Zauggenried U15
+LOCATION:Gals\, Suisse
+DESCRIPTION:Ligue: Grand terrain U15\nDomicile: Oberwil Rebells U15\nVisite
+ urs: SHC Bulldozers Kernenried-Zauggenried U15\nLieu du match: Gals\nDéta
+ ils: https://www.swiss-streethockey.ch/fr/game-center/game-details/?spieln
+ r=11269
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11269
+CATEGORIES:Streethockey\,Grand terrain U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11271-2109@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270313T093000
+DTEND;TZID=Europe/Zurich:20270313T104000
+SUMMARY:Oberwil Rebells U15 vs SHC Bonstetten-Wettswil U15
+LOCATION:Wettswil\, Suisse
+DESCRIPTION:Ligue: Grand terrain U15\nDomicile: Oberwil Rebells U15\nVisite
+ urs: SHC Bonstetten-Wettswil U15\nLieu du match: Wettswil\nDétails: https
+ ://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11271
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11271
+CATEGORIES:Streethockey\,Grand terrain U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11273-2109@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270313T115000
+DTEND;TZID=Europe/Zurich:20270313T130000
+SUMMARY:Oberwil Rebells U15 vs SHC Grenchen-Limpachtal U15 GF Grün
+LOCATION:Wettswil\, Suisse
+DESCRIPTION:Ligue: Grand terrain U15\nDomicile: Oberwil Rebells U15\nVisite
+ urs: SHC Grenchen-Limpachtal U15 GF Grün\nLieu du match: Wettswil\nDétai
+ ls: https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr
+ =11273
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11273
+CATEGORIES:Streethockey\,Grand terrain U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11259-2109@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270410T115000
+DTEND;TZID=Europe/Zurich:20270410T130000
+SUMMARY:SHC Grenchen-Limpachtal U15 GF Weiss vs Oberwil Rebells U15
+LOCATION:Grenchen\, Suisse
+DESCRIPTION:Ligue: Grand terrain U15\nDomicile: SHC Grenchen-Limpachtal U15
+  GF Weiss\nVisiteurs: Oberwil Rebells U15\nLieu du match: Grenchen\nDétai
+ ls: https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr
+ =11259
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11259
+CATEGORIES:Streethockey\,Grand terrain U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11262-2109@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270410T152000
+DTEND;TZID=Europe/Zurich:20270410T163000
+SUMMARY:SHC Bettlach U15 vs Oberwil Rebells U15
+LOCATION:Grenchen\, Suisse
+DESCRIPTION:Ligue: Grand terrain U15\nDomicile: SHC Bettlach U15\nVisiteurs
+ : Oberwil Rebells U15\nLieu du match: Grenchen\nDétails: https://www.swis
+ s-streethockey.ch/fr/game-center/game-details/?spielnr=11262
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11262
+CATEGORIES:Streethockey\,Grand terrain U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

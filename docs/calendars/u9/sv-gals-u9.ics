@@ -1,0 +1,390 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//swiss-streethockey-ics//Game center calendars//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SV Gals U9 · U9
+X-WR-CALDESC:Matchs de SV Gals U9 en U9 (source: https://www.swiss-streetho
+ ckey.ch/fr/game-center/prochains-matchs/).
+X-WR-TIMEZONE:Europe/Zurich
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+X-LIC-LOCATION:Europe/Zurich
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:11490-299@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20260913T102000
+DTEND;TZID=Europe/Zurich:20260913T104000
+SUMMARY:SHC Bettlach U9 vs SV Gals U9
+LOCATION:Kernenried\, Suisse
+DESCRIPTION:Ligue: U9\nDomicile: SHC Bettlach U9\nVisiteurs: SV Gals U9\nLi
+ eu du match: Kernenried\nDétails: https://www.swiss-streethockey.ch/fr/ga
+ me-center/game-details/?spielnr=11490
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11490
+CATEGORIES:Streethockey\,U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11493-299@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20260913T112000
+DTEND;TZID=Europe/Zurich:20260913T114000
+SUMMARY:SV Gals U9 vs SHC Aegerten-Brügg U9
+LOCATION:Kernenried\, Suisse
+DESCRIPTION:Ligue: U9\nDomicile: SV Gals U9\nVisiteurs: SHC Aegerten-Brügg
+  U9\nLieu du match: Kernenried\nDétails: https://www.swiss-streethockey.c
+ h/fr/game-center/game-details/?spielnr=11493
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11493
+CATEGORIES:Streethockey\,U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11495-299@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20260913T120000
+DTEND;TZID=Europe/Zurich:20260913T122000
+SUMMARY:SHC Bulldozers Kernenried-Zauggenried U9 weiss vs SV Gals U9
+LOCATION:Kernenried\, Suisse
+DESCRIPTION:Ligue: U9\nDomicile: SHC Bulldozers Kernenried-Zauggenried U9 w
+ eiss\nVisiteurs: SV Gals U9\nLieu du match: Kernenried\nDétails: https://
+ www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11495
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11495
+CATEGORIES:Streethockey\,U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11497-299@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20260913T124000
+DTEND;TZID=Europe/Zurich:20260913T130000
+SUMMARY:SHC Bulldozers Kernenried-Zauggenried U9 schwarz vs SV Gals U9
+LOCATION:Kernenried\, Suisse
+DESCRIPTION:Ligue: U9\nDomicile: SHC Bulldozers Kernenried-Zauggenried U9 s
+ chwarz\nVisiteurs: SV Gals U9\nLieu du match: Kernenried\nDétails: https:
+ //www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11497
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11497
+CATEGORIES:Streethockey\,U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11510-299@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261025T102000
+DTEND;TZID=Europe/Zurich:20261025T104000
+SUMMARY:SHC Valais U9 vs SV Gals U9
+LOCATION:Gals\, Suisse
+DESCRIPTION:Ligue: U9\nDomicile: SHC Valais U9\nVisiteurs: SV Gals U9\nLieu
+  du match: Gals\nDétails: https://www.swiss-streethockey.ch/fr/game-cente
+ r/game-details/?spielnr=11510
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11510
+CATEGORIES:Streethockey\,U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11513-299@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261025T112000
+DTEND;TZID=Europe/Zurich:20261025T114000
+SUMMARY:SV Gals U9 vs SHC Bettlach U9
+LOCATION:Gals\, Suisse
+DESCRIPTION:Ligue: U9\nDomicile: SV Gals U9\nVisiteurs: SHC Bettlach U9\nLi
+ eu du match: Gals\nDétails: https://www.swiss-streethockey.ch/fr/game-cen
+ ter/game-details/?spielnr=11513
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11513
+CATEGORIES:Streethockey\,U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11515-299@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261025T120000
+DTEND;TZID=Europe/Zurich:20261025T122000
+SUMMARY:SHC Bulldozers Kernenried-Zauggenried U9 weiss vs SV Gals U9
+LOCATION:Gals\, Suisse
+DESCRIPTION:Ligue: U9\nDomicile: SHC Bulldozers Kernenried-Zauggenried U9 w
+ eiss\nVisiteurs: SV Gals U9\nLieu du match: Gals\nDétails: https://www.sw
+ iss-streethockey.ch/fr/game-center/game-details/?spielnr=11515
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11515
+CATEGORIES:Streethockey\,U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11517-299@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261025T124000
+DTEND;TZID=Europe/Zurich:20261025T130000
+SUMMARY:SHC Bulldozers Kernenried-Zauggenried U9 schwarz vs SV Gals U9
+LOCATION:Gals\, Suisse
+DESCRIPTION:Ligue: U9\nDomicile: SHC Bulldozers Kernenried-Zauggenried U9 s
+ chwarz\nVisiteurs: SV Gals U9\nLieu du match: Gals\nDétails: https://www.
+ swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11517
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11517
+CATEGORIES:Streethockey\,U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11480-299@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261128T102000
+DTEND;TZID=Europe/Zurich:20261128T104000
+SUMMARY:SHC Valais U9 vs SV Gals U9
+LOCATION:Bettlach\, Suisse
+DESCRIPTION:Ligue: U9\nDomicile: SHC Valais U9\nVisiteurs: SV Gals U9\nLieu
+  du match: Bettlach\nDétails: https://www.swiss-streethockey.ch/fr/game-c
+ enter/game-details/?spielnr=11480
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11480
+CATEGORIES:Streethockey\,U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11483-299@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261128T112000
+DTEND;TZID=Europe/Zurich:20261128T114000
+SUMMARY:SV Gals U9 vs SHC Aegerten-Brügg U9
+LOCATION:Bettlach\, Suisse
+DESCRIPTION:Ligue: U9\nDomicile: SV Gals U9\nVisiteurs: SHC Aegerten-Brügg
+  U9\nLieu du match: Bettlach\nDétails: https://www.swiss-streethockey.ch/
+ fr/game-center/game-details/?spielnr=11483
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11483
+CATEGORIES:Streethockey\,U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11485-299@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261128T120000
+DTEND;TZID=Europe/Zurich:20261128T122000
+SUMMARY:SHC Bettlach U9 vs SV Gals U9
+LOCATION:Bettlach\, Suisse
+DESCRIPTION:Ligue: U9\nDomicile: SHC Bettlach U9\nVisiteurs: SV Gals U9\nLi
+ eu du match: Bettlach\nDétails: https://www.swiss-streethockey.ch/fr/game
+ -center/game-details/?spielnr=11485
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11485
+CATEGORIES:Streethockey\,U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11487-299@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261128T124000
+DTEND;TZID=Europe/Zurich:20261128T130000
+SUMMARY:SHC Bulldozers Kernenried-Zauggenried U9 schwarz vs SV Gals U9
+LOCATION:Bettlach\, Suisse
+DESCRIPTION:Ligue: U9\nDomicile: SHC Bulldozers Kernenried-Zauggenried U9 s
+ chwarz\nVisiteurs: SV Gals U9\nLieu du match: Bettlach\nDétails: https://
+ www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11487
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11487
+CATEGORIES:Streethockey\,U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11470-299@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270320T102000
+DTEND;TZID=Europe/Zurich:20270320T104000
+SUMMARY:SHC Valais U9 vs SV Gals U9
+LOCATION:Sierre\, Suisse
+DESCRIPTION:Ligue: U9\nDomicile: SHC Valais U9\nVisiteurs: SV Gals U9\nLieu
+  du match: Sierre\nDétails: https://www.swiss-streethockey.ch/fr/game-cen
+ ter/game-details/?spielnr=11470
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11470
+CATEGORIES:Streethockey\,U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11473-299@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270320T112000
+DTEND;TZID=Europe/Zurich:20270320T114000
+SUMMARY:SV Gals U9 vs SHC Aegerten-Brügg U9
+LOCATION:Sierre\, Suisse
+DESCRIPTION:Ligue: U9\nDomicile: SV Gals U9\nVisiteurs: SHC Aegerten-Brügg
+  U9\nLieu du match: Sierre\nDétails: https://www.swiss-streethockey.ch/fr
+ /game-center/game-details/?spielnr=11473
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11473
+CATEGORIES:Streethockey\,U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11475-299@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270320T120000
+DTEND;TZID=Europe/Zurich:20270320T122000
+SUMMARY:SHC Bulldozers Kernenried-Zauggenried U9 weiss vs SV Gals U9
+LOCATION:Sierre\, Suisse
+DESCRIPTION:Ligue: U9\nDomicile: SHC Bulldozers Kernenried-Zauggenried U9 w
+ eiss\nVisiteurs: SV Gals U9\nLieu du match: Sierre\nDétails: https://www.
+ swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11475
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11475
+CATEGORIES:Streethockey\,U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11477-299@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270320T124000
+DTEND;TZID=Europe/Zurich:20270320T130000
+SUMMARY:SHC Bettlach U9 vs SV Gals U9
+LOCATION:Sierre\, Suisse
+DESCRIPTION:Ligue: U9\nDomicile: SHC Bettlach U9\nVisiteurs: SV Gals U9\nLi
+ eu du match: Sierre\nDétails: https://www.swiss-streethockey.ch/fr/game-c
+ enter/game-details/?spielnr=11477
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11477
+CATEGORIES:Streethockey\,U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11460-299@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270425T102000
+DTEND;TZID=Europe/Zurich:20270425T104000
+SUMMARY:SHC Valais U9 vs SV Gals U9
+LOCATION:Kernenried\, Suisse
+DESCRIPTION:Ligue: U9\nDomicile: SHC Valais U9\nVisiteurs: SV Gals U9\nLieu
+  du match: Kernenried\nDétails: https://www.swiss-streethockey.ch/fr/game
+ -center/game-details/?spielnr=11460
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11460
+CATEGORIES:Streethockey\,U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11463-299@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270425T112000
+DTEND;TZID=Europe/Zurich:20270425T114000
+SUMMARY:SV Gals U9 vs SHC Aegerten-Brügg U9
+LOCATION:Kernenried\, Suisse
+DESCRIPTION:Ligue: U9\nDomicile: SV Gals U9\nVisiteurs: SHC Aegerten-Brügg
+  U9\nLieu du match: Kernenried\nDétails: https://www.swiss-streethockey.c
+ h/fr/game-center/game-details/?spielnr=11463
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11463
+CATEGORIES:Streethockey\,U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11465-299@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270425T120000
+DTEND;TZID=Europe/Zurich:20270425T122000
+SUMMARY:SHC Bulldozers Kernenried-Zauggenried U9 weiss vs SV Gals U9
+LOCATION:Kernenried\, Suisse
+DESCRIPTION:Ligue: U9\nDomicile: SHC Bulldozers Kernenried-Zauggenried U9 w
+ eiss\nVisiteurs: SV Gals U9\nLieu du match: Kernenried\nDétails: https://
+ www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11465
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11465
+CATEGORIES:Streethockey\,U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11467-299@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270425T124000
+DTEND;TZID=Europe/Zurich:20270425T130000
+SUMMARY:SHC Bulldozers Kernenried-Zauggenried U9 schwarz vs SV Gals U9
+LOCATION:Kernenried\, Suisse
+DESCRIPTION:Ligue: U9\nDomicile: SHC Bulldozers Kernenried-Zauggenried U9 s
+ chwarz\nVisiteurs: SV Gals U9\nLieu du match: Kernenried\nDétails: https:
+ //www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11467
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11467
+CATEGORIES:Streethockey\,U9
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,282 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//swiss-streethockey-ics//Game center calendars//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SHC Grenchen-Limpachtal 3 · Team Est
+X-WR-CALDESC:Matchs de SHC Grenchen-Limpachtal 3 en Team Est (source: https
+ ://www.swiss-streethockey.ch/fr/game-center/prochains-matchs/).
+X-WR-TIMEZONE:Europe/Zurich
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+X-LIC-LOCATION:Europe/Zurich
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:11222-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261101T100000
+DTEND;TZID=Europe/Zurich:20261101T111000
+SUMMARY:SHC Grenchen-Limpachtal 3 vs SHC Seetal Admirals 2
+LOCATION:Lenzburg\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: SHC Grenchen-Limpachtal 3\nVisiteurs
+ : SHC Seetal Admirals 2\nLieu du match: Lenzburg\nDétails: https://www.sw
+ iss-streethockey.ch/fr/game-center/game-details/?spielnr=11222
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11222
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11224-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261101T122000
+DTEND;TZID=Europe/Zurich:20261101T133000
+SUMMARY:SHC Grenchen-Limpachtal 3 vs Horgenberg Hammers 2
+LOCATION:Lenzburg\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: SHC Grenchen-Limpachtal 3\nVisiteurs
+ : Horgenberg Hammers 2\nLieu du match: Lenzburg\nDétails: https://www.swi
+ ss-streethockey.ch/fr/game-center/game-details/?spielnr=11224
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11224
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11227-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261101T155000
+DTEND;TZID=Europe/Zurich:20261101T170000
+SUMMARY:SHC Bonstetten-Wettswil 2 vs SHC Grenchen-Limpachtal 3
+LOCATION:Lenzburg\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: SHC Bonstetten-Wettswil 2\nVisiteurs
+ : SHC Grenchen-Limpachtal 3\nLieu du match: Lenzburg\nDétails: https://ww
+ w.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11227
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11227
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11232-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261129T133000
+DTEND;TZID=Europe/Zurich:20261129T144000
+SUMMARY:SHC Grenchen-Limpachtal 3 vs SHC Steckholz
+LOCATION:Langenthal\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: SHC Grenchen-Limpachtal 3\nVisiteurs
+ : SHC Steckholz\nLieu du match: Langenthal\nDétails: https://www.swiss-st
+ reethockey.ch/fr/game-center/game-details/?spielnr=11232
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11232
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11234-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261129T155000
+DTEND;TZID=Europe/Zurich:20261129T170000
+SUMMARY:SHC Berner Oberland 1 vs SHC Grenchen-Limpachtal 3
+LOCATION:Langenthal\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: SHC Berner Oberland 1\nVisiteurs: SH
+ C Grenchen-Limpachtal 3\nLieu du match: Langenthal\nDétails: https://www.
+ swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11234
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11234
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11189-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261213T122000
+DTEND;TZID=Europe/Zurich:20261213T133000
+SUMMARY:SHC Grenchen-Limpachtal 3 vs SHC Bonstetten-Wettswil 2
+LOCATION:Bettlach\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: SHC Grenchen-Limpachtal 3\nVisiteurs
+ : SHC Bonstetten-Wettswil 2\nLieu du match: Bettlach\nDétails: https://ww
+ w.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11189
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11189
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11192-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261213T155000
+DTEND;TZID=Europe/Zurich:20261213T170000
+SUMMARY:SHC Steckholz vs SHC Grenchen-Limpachtal 3
+LOCATION:Bettlach\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: SHC Steckholz\nVisiteurs: SHC Grench
+ en-Limpachtal 3\nLieu du match: Bettlach\nDétails: https://www.swiss-stre
+ ethockey.ch/fr/game-center/game-details/?spielnr=11192
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11192
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11184-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270130T144000
+DTEND;TZID=Europe/Zurich:20270130T155000
+SUMMARY:SHC Langenthal Devils 1 vs SHC Grenchen-Limpachtal 3
+LOCATION:Lenzburg\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: SHC Langenthal Devils 1\nVisiteurs: 
+ SHC Grenchen-Limpachtal 3\nLieu du match: Lenzburg\nDétails: https://www.
+ swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11184
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11184
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11186-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270130T170000
+DTEND;TZID=Europe/Zurich:20270130T181000
+SUMMARY:SHC Bettlach 2 vs SHC Grenchen-Limpachtal 3
+LOCATION:Lenzburg\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: SHC Bettlach 2\nVisiteurs: SHC Grenc
+ hen-Limpachtal 3\nLieu du match: Lenzburg\nDétails: https://www.swiss-str
+ eethockey.ch/fr/game-center/game-details/?spielnr=11186
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11186
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11194-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270220T100000
+DTEND;TZID=Europe/Zurich:20270220T111000
+SUMMARY:SHC Seetal Admirals 2 vs SHC Grenchen-Limpachtal 3
+LOCATION:Grenchen\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: SHC Seetal Admirals 2\nVisiteurs: SH
+ C Grenchen-Limpachtal 3\nLieu du match: Grenchen\nDétails: https://www.sw
+ iss-streethockey.ch/fr/game-center/game-details/?spielnr=11194
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11194
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11197-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270220T133000
+DTEND;TZID=Europe/Zurich:20270220T144000
+SUMMARY:SHC Grenchen-Limpachtal 3 vs SHC Berner Oberland 1
+LOCATION:Grenchen\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: SHC Grenchen-Limpachtal 3\nVisiteurs
+ : SHC Berner Oberland 1\nLieu du match: Grenchen\nDétails: https://www.sw
+ iss-streethockey.ch/fr/game-center/game-details/?spielnr=11197
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11197
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11200-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270220T170000
+DTEND;TZID=Europe/Zurich:20270220T181000
+SUMMARY:Horgenberg Hammers 2 vs SHC Grenchen-Limpachtal 3
+LOCATION:Grenchen\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: Horgenberg Hammers 2\nVisiteurs: SHC
+  Grenchen-Limpachtal 3\nLieu du match: Grenchen\nDétails: https://www.swi
+ ss-streethockey.ch/fr/game-center/game-details/?spielnr=11200
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11200
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11210-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270307T122000
+DTEND;TZID=Europe/Zurich:20270307T133000
+SUMMARY:SHC Grenchen-Limpachtal 3 vs SHC Bettlach 2
+LOCATION:Langenthal\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: SHC Grenchen-Limpachtal 3\nVisiteurs
+ : SHC Bettlach 2\nLieu du match: Langenthal\nDétails: https://www.swiss-s
+ treethockey.ch/fr/game-center/game-details/?spielnr=11210
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11210
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11214-2104@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270307T170000
+DTEND;TZID=Europe/Zurich:20270307T181000
+SUMMARY:SHC Grenchen-Limpachtal 3 vs SHC Langenthal Devils 1
+LOCATION:Langenthal\, Suisse
+DESCRIPTION:Ligue: Team Est\nDomicile: SHC Grenchen-Limpachtal 3\nVisiteurs
+ : SHC Langenthal Devils 1\nLieu du match: Langenthal\nDétails: https://ww
+ w.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11214
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11214
+CATEGORIES:Streethockey\,Team Est
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

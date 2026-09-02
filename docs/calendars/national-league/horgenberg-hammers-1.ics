@@ -1,0 +1,357 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//swiss-streethockey-ics//Game center calendars//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Horgenberg Hammers 1 · National League
+X-WR-CALDESC:Matchs de Horgenberg Hammers 1 en National League (source: htt
+ ps://www.swiss-streethockey.ch/fr/game-center/prochains-matchs/).
+X-WR-TIMEZONE:Europe/Zurich
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+X-LIC-LOCATION:Europe/Zurich
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:10873-292@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20260919T140000
+DTEND;TZID=Europe/Zurich:20260919T160000
+SUMMARY:SHC Bulldozers Kernenried-Zauggenried 1 vs Horgenberg Hammers 1
+LOCATION:Kernenried\, Suisse
+DESCRIPTION:Ligue: National League\nDomicile: SHC Bulldozers Kernenried-Zau
+ ggenried 1\nVisiteurs: Horgenberg Hammers 1\nLieu du match: Kernenried\nD
+ étails: https://www.swiss-streethockey.ch/fr/game-center/game-details/?sp
+ ielnr=10873
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 10873
+CATEGORIES:Streethockey\,National League
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:10877-292@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20260920T140000
+DTEND;TZID=Europe/Zurich:20260920T160000
+SUMMARY:Horgenberg Hammers 1 vs SV Gals 1
+LOCATION:Horgen\, Suisse
+DESCRIPTION:Ligue: National League\nDomicile: Horgenberg Hammers 1\nVisiteu
+ rs: SV Gals 1\nLieu du match: Horgen\nDétails: https://www.swiss-streetho
+ ckey.ch/fr/game-center/game-details/?spielnr=10877
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 10877
+CATEGORIES:Streethockey\,National League
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:10885-292@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20260927T140000
+DTEND;TZID=Europe/Zurich:20260927T160000
+SUMMARY:Sierre Lions 1 vs Horgenberg Hammers 1
+LOCATION:Sierre\, Suisse
+DESCRIPTION:Ligue: National League\nDomicile: Sierre Lions 1\nVisiteurs: Ho
+ rgenberg Hammers 1\nLieu du match: Sierre\nDétails: https://www.swiss-str
+ eethockey.ch/fr/game-center/game-details/?spielnr=10885
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 10885
+CATEGORIES:Streethockey\,National League
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:10887-292@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261002T200000
+DTEND;TZID=Europe/Zurich:20261002T220000
+SUMMARY:Horgenberg Hammers 1 vs Oberwil Rebells 1
+LOCATION:Horgen\, Suisse
+DESCRIPTION:Ligue: National League\nDomicile: Horgenberg Hammers 1\nVisiteu
+ rs: Oberwil Rebells 1\nLieu du match: Horgen\nDétails: https://www.swiss-
+ streethockey.ch/fr/game-center/game-details/?spielnr=10887
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 10887
+CATEGORIES:Streethockey\,National League
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:10889-292@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261003T140000
+DTEND;TZID=Europe/Zurich:20261003T160000
+SUMMARY:SHC La Chaux-de-Fonds 1 vs Horgenberg Hammers 1
+LOCATION:La Chaux-de-Fonds\, Suisse
+DESCRIPTION:Ligue: National League\nDomicile: SHC La Chaux-de-Fonds 1\nVisi
+ teurs: Horgenberg Hammers 1\nLieu du match: La Chaux-de-Fonds\nDétails: h
+ ttps://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=1088
+ 9
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 10889
+CATEGORIES:Streethockey\,National League
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:10896-292@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261009T200000
+DTEND;TZID=Europe/Zurich:20261009T220000
+SUMMARY:SHC Bonstetten-Wettswil 1 vs Horgenberg Hammers 1
+LOCATION:Wettswil\, Suisse
+DESCRIPTION:Ligue: National League\nDomicile: SHC Bonstetten-Wettswil 1\nVi
+ siteurs: Horgenberg Hammers 1\nLieu du match: Wettswil\nDétails: https://
+ www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=10896
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 10896
+CATEGORIES:Streethockey\,National League
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:10901-292@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261016T200000
+DTEND;TZID=Europe/Zurich:20261016T220000
+SUMMARY:Horgenberg Hammers 1 vs Oberwil Rebells 2
+LOCATION:Horgen\, Suisse
+DESCRIPTION:Ligue: National League\nDomicile: Horgenberg Hammers 1\nVisiteu
+ rs: Oberwil Rebells 2\nLieu du match: Horgen\nDétails: https://www.swiss-
+ streethockey.ch/fr/game-center/game-details/?spielnr=10901
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 10901
+CATEGORIES:Streethockey\,National League
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:10908-292@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261024T140000
+DTEND;TZID=Europe/Zurich:20261024T160000
+SUMMARY:SHC Bettlach 1 vs Horgenberg Hammers 1
+LOCATION:Bettlach\, Suisse
+DESCRIPTION:Ligue: National League\nDomicile: SHC Bettlach 1\nVisiteurs: Ho
+ rgenberg Hammers 1\nLieu du match: Bettlach\nDétails: https://www.swiss-s
+ treethockey.ch/fr/game-center/game-details/?spielnr=10908
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 10908
+CATEGORIES:Streethockey\,National League
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:10915-292@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261107T140000
+DTEND;TZID=Europe/Zurich:20261107T160000
+SUMMARY:Horgenberg Hammers 1 vs SHC Bulldozers Kernenried-Zauggenried 1
+LOCATION:Horgen\, Suisse
+DESCRIPTION:Ligue: National League\nDomicile: Horgenberg Hammers 1\nVisiteu
+ rs: SHC Bulldozers Kernenried-Zauggenried 1\nLieu du match: Horgen\nDétai
+ ls: https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr
+ =10915
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 10915
+CATEGORIES:Streethockey\,National League
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:10920-292@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261114T140000
+DTEND;TZID=Europe/Zurich:20261114T160000
+SUMMARY:SHC Grenchen-Limpachtal 1 vs Horgenberg Hammers 1
+LOCATION:Grenchen\, Suisse
+DESCRIPTION:Ligue: National League\nDomicile: SHC Grenchen-Limpachtal 1\nVi
+ siteurs: Horgenberg Hammers 1\nLieu du match: Grenchen\nDétails: https://
+ www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=10920
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 10920
+CATEGORIES:Streethockey\,National League
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:10923-292@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261115T140000
+DTEND;TZID=Europe/Zurich:20261115T160000
+SUMMARY:SV Gals 1 vs Horgenberg Hammers 1
+LOCATION:Gals\, Suisse
+DESCRIPTION:Ligue: National League\nDomicile: SV Gals 1\nVisiteurs: Horgenb
+ erg Hammers 1\nLieu du match: Gals\nDétails: https://www.swiss-streethock
+ ey.ch/fr/game-center/game-details/?spielnr=10923
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 10923
+CATEGORIES:Streethockey\,National League
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:10925-292@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261121T140000
+DTEND;TZID=Europe/Zurich:20261121T160000
+SUMMARY:Horgenberg Hammers 1 vs Sierre Lions 1
+LOCATION:Horgen\, Suisse
+DESCRIPTION:Ligue: National League\nDomicile: Horgenberg Hammers 1\nVisiteu
+ rs: Sierre Lions 1\nLieu du match: Horgen\nDétails: https://www.swiss-str
+ eethockey.ch/fr/game-center/game-details/?spielnr=10925
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 10925
+CATEGORIES:Streethockey\,National League
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:10932-292@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261128T140000
+DTEND;TZID=Europe/Zurich:20261128T160000
+SUMMARY:Horgenberg Hammers 1 vs SHC La Chaux-de-Fonds 1
+LOCATION:Horgen\, Suisse
+DESCRIPTION:Ligue: National League\nDomicile: Horgenberg Hammers 1\nVisiteu
+ rs: SHC La Chaux-de-Fonds 1\nLieu du match: Horgen\nDétails: https://www.
+ swiss-streethockey.ch/fr/game-center/game-details/?spielnr=10932
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 10932
+CATEGORIES:Streethockey\,National League
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:10937-292@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261206T140000
+DTEND;TZID=Europe/Zurich:20261206T160000
+SUMMARY:Oberwil Rebells 1 vs Horgenberg Hammers 1
+LOCATION:Zug\, Suisse
+DESCRIPTION:Ligue: National League\nDomicile: Oberwil Rebells 1\nVisiteurs:
+  Horgenberg Hammers 1\nLieu du match: Zug\nDétails: https://www.swiss-str
+ eethockey.ch/fr/game-center/game-details/?spielnr=10937
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 10937
+CATEGORIES:Streethockey\,National League
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:10948-292@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270212T200000
+DTEND;TZID=Europe/Zurich:20270212T220000
+SUMMARY:Horgenberg Hammers 1 vs SHC Bonstetten-Wettswil 1
+LOCATION:Horgen\, Suisse
+DESCRIPTION:Ligue: National League\nDomicile: Horgenberg Hammers 1\nVisiteu
+ rs: SHC Bonstetten-Wettswil 1\nLieu du match: Horgen\nDétails: https://ww
+ w.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=10948
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 10948
+CATEGORIES:Streethockey\,National League
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:10952-292@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270214T140000
+DTEND;TZID=Europe/Zurich:20270214T160000
+SUMMARY:Horgenberg Hammers 1 vs SHC Grenchen-Limpachtal 1
+LOCATION:Horgen\, Suisse
+DESCRIPTION:Ligue: National League\nDomicile: Horgenberg Hammers 1\nVisiteu
+ rs: SHC Grenchen-Limpachtal 1\nLieu du match: Horgen\nDétails: https://ww
+ w.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=10952
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 10952
+CATEGORIES:Streethockey\,National League
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:10954-292@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270219T193000
+DTEND;TZID=Europe/Zurich:20270219T213000
+SUMMARY:Oberwil Rebells 2 vs Horgenberg Hammers 1
+LOCATION:Zug\, Suisse
+DESCRIPTION:Ligue: National League\nDomicile: Oberwil Rebells 2\nVisiteurs:
+  Horgenberg Hammers 1\nLieu du match: Zug\nDétails: https://www.swiss-str
+ eethockey.ch/fr/game-center/game-details/?spielnr=10954
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 10954
+CATEGORIES:Streethockey\,National League
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:10958-292@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270221T140000
+DTEND;TZID=Europe/Zurich:20270221T160000
+SUMMARY:Horgenberg Hammers 1 vs SHC Bettlach 1
+LOCATION:Horgen\, Suisse
+DESCRIPTION:Ligue: National League\nDomicile: Horgenberg Hammers 1\nVisiteu
+ rs: SHC Bettlach 1\nLieu du match: Horgen\nDétails: https://www.swiss-str
+ eethockey.ch/fr/game-center/game-details/?spielnr=10958
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 10958
+CATEGORIES:Streethockey\,National League
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,354 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//swiss-streethockey-ics//Game center calendars//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SHC Martigny U18 · U18
+X-WR-CALDESC:Matchs de SHC Martigny U18 en U18 (source: https://www.swiss-s
+ treethockey.ch/fr/game-center/prochains-matchs/).
+X-WR-TIMEZONE:Europe/Zurich
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+X-LIC-LOCATION:Europe/Zurich
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:10992-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20260913T103000
+DTEND;TZID=Europe/Zurich:20260913T123000
+SUMMARY:SHC Martigny U18 vs SHC Bulldozers Kernenried-Zauggenried U18
+LOCATION:Martigny\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: SHC Martigny U18\nVisiteurs: SHC Bulldoze
+ rs Kernenried-Zauggenried U18\nLieu du match: Martigny\nDétails: https://
+ www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=10992
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 10992
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:10996-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20260920T103000
+DTEND;TZID=Europe/Zurich:20260920T123000
+SUMMARY:Sierre Lions U18 vs SHC Martigny U18
+LOCATION:Sierre\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: Sierre Lions U18\nVisiteurs: SHC Martigny
+  U18\nLieu du match: Sierre\nDétails: https://www.swiss-streethockey.ch/f
+ r/game-center/game-details/?spielnr=10996
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 10996
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:10999-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20260926T140000
+DTEND;TZID=Europe/Zurich:20260926T160000
+SUMMARY:SHC Martigny U18 vs SHC Grenchen-Limpachtal U18
+LOCATION:Martigny\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: SHC Martigny U18\nVisiteurs: SHC Grenchen
+ -Limpachtal U18\nLieu du match: Martigny\nDétails: https://www.swiss-stre
+ ethockey.ch/fr/game-center/game-details/?spielnr=10999
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 10999
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11016-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261031T140000
+DTEND;TZID=Europe/Zurich:20261031T160000
+SUMMARY:SHC Bettlach U18 vs SHC Martigny U18
+LOCATION:Bettlach\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: SHC Bettlach U18\nVisiteurs: SHC Martigny
+  U18\nLieu du match: Bettlach\nDétails: https://www.swiss-streethockey.ch
+ /fr/game-center/game-details/?spielnr=11016
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11016
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11020-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261101T140000
+DTEND;TZID=Europe/Zurich:20261101T160000
+SUMMARY:SHC Bonstetten-Wettswil U18 vs SHC Martigny U18
+LOCATION:Wettswil\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: SHC Bonstetten-Wettswil U18\nVisiteurs: S
+ HC Martigny U18\nLieu du match: Wettswil\nDétails: https://www.swiss-stre
+ ethockey.ch/fr/game-center/game-details/?spielnr=11020
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11020
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11023-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261107T140000
+DTEND;TZID=Europe/Zurich:20261107T160000
+SUMMARY:SHC Martigny U18 vs Oberwil Rebells U18
+LOCATION:Martigny\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: SHC Martigny U18\nVisiteurs: Oberwil Rebe
+ lls U18\nLieu du match: Martigny\nDétails: https://www.swiss-streethockey
+ .ch/fr/game-center/game-details/?spielnr=11023
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11023
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11024-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261108T140000
+DTEND;TZID=Europe/Zurich:20261108T160000
+SUMMARY:SHC Martigny U18 vs Horgenberg Hammers U18
+LOCATION:Martigny\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: SHC Martigny U18\nVisiteurs: Horgenberg H
+ ammers U18\nLieu du match: Martigny\nDétails: https://www.swiss-streethoc
+ key.ch/fr/game-center/game-details/?spielnr=11024
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11024
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11030-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261115T103000
+DTEND;TZID=Europe/Zurich:20261115T123000
+SUMMARY:SHC Martigny U18 vs SHC La Chaux-de-Fonds U18
+LOCATION:Martigny\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: SHC Martigny U18\nVisiteurs: SHC La Chaux
+ -de-Fonds U18\nLieu du match: Martigny\nDétails: https://www.swiss-street
+ hockey.ch/fr/game-center/game-details/?spielnr=11030
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11030
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11031-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261121T103000
+DTEND;TZID=Europe/Zurich:20261121T123000
+SUMMARY:SHC Belpa 1107 U18 vs SHC Martigny U18
+LOCATION:Belp\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: SHC Belpa 1107 U18\nVisiteurs: SHC Martig
+ ny U18\nLieu du match: Belp\nDétails: https://www.swiss-streethockey.ch/f
+ r/game-center/game-details/?spielnr=11031
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11031
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11037-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261127T200000
+DTEND;TZID=Europe/Zurich:20261127T220000
+SUMMARY:SHC Martigny U18 vs Sierre Lions U18
+LOCATION:Martigny\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: SHC Martigny U18\nVisiteurs: Sierre Lions
+  U18\nLieu du match: Martigny\nDétails: https://www.swiss-streethockey.ch
+ /fr/game-center/game-details/?spielnr=11037
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11037
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11044-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261205T103000
+DTEND;TZID=Europe/Zurich:20261205T123000
+SUMMARY:SHC Bulldozers Kernenried-Zauggenried U18 vs SHC Martigny U18
+LOCATION:Kernenried\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: SHC Bulldozers Kernenried-Zauggenried U18
+ \nVisiteurs: SHC Martigny U18\nLieu du match: Kernenried\nDétails: https:
+ //www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11044
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11044
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11047-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261206T103000
+DTEND;TZID=Europe/Zurich:20261206T123000
+SUMMARY:SHC Grenchen-Limpachtal U18 vs SHC Martigny U18
+LOCATION:Grenchen\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: SHC Grenchen-Limpachtal U18\nVisiteurs: S
+ HC Martigny U18\nLieu du match: Grenchen\nDétails: https://www.swiss-stre
+ ethockey.ch/fr/game-center/game-details/?spielnr=11047
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11047
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11049-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261212T103000
+DTEND;TZID=Europe/Zurich:20261212T123000
+SUMMARY:SHC Martigny U18 vs SHC Bonstetten-Wettswil U18
+LOCATION:Martigny\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: SHC Martigny U18\nVisiteurs: SHC Bonstett
+ en-Wettswil U18\nLieu du match: Martigny\nDétails: https://www.swiss-stre
+ ethockey.ch/fr/game-center/game-details/?spielnr=11049
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11049
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11056-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270117T140000
+DTEND;TZID=Europe/Zurich:20270117T160000
+SUMMARY:Horgenberg Hammers U18 vs SHC Martigny U18
+LOCATION:Horgen\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: Horgenberg Hammers U18\nVisiteurs: SHC Ma
+ rtigny U18\nLieu du match: Horgen\nDétails: https://www.swiss-streethocke
+ y.ch/fr/game-center/game-details/?spielnr=11056
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11056
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11061-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270124T140000
+DTEND;TZID=Europe/Zurich:20270124T160000
+SUMMARY:SHC Martigny U18 vs SHC Bettlach U18
+LOCATION:Martigny\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: SHC Martigny U18\nVisiteurs: SHC Bettlach
+  U18\nLieu du match: Martigny\nDétails: https://www.swiss-streethockey.ch
+ /fr/game-center/game-details/?spielnr=11061
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11061
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11067-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270130T140000
+DTEND;TZID=Europe/Zurich:20270130T160000
+SUMMARY:Oberwil Rebells U18 vs SHC Martigny U18
+LOCATION:Zug\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: Oberwil Rebells U18\nVisiteurs: SHC Marti
+ gny U18\nLieu du match: Zug\nDétails: https://www.swiss-streethockey.ch/f
+ r/game-center/game-details/?spielnr=11067
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11067
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11074-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270221T103000
+DTEND;TZID=Europe/Zurich:20270221T123000
+SUMMARY:SHC La Chaux-de-Fonds U18 vs SHC Martigny U18
+LOCATION:La Chaux-de-Fonds\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: SHC La Chaux-de-Fonds U18\nVisiteurs: SHC
+  Martigny U18\nLieu du match: La Chaux-de-Fonds\nDétails: https://www.swi
+ ss-streethockey.ch/fr/game-center/game-details/?spielnr=11074
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11074
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11075-296@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270227T140000
+DTEND;TZID=Europe/Zurich:20270227T160000
+SUMMARY:SHC Martigny U18 vs SHC Belpa 1107 U18
+LOCATION:Martigny\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: SHC Martigny U18\nVisiteurs: SHC Belpa 11
+ 07 U18\nLieu du match: Martigny\nDétails: https://www.swiss-streethockey.
+ ch/fr/game-center/game-details/?spielnr=11075
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11075
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,299 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//swiss-streethockey-ics//Game center calendars//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SHC Grenchen-Limpachtal U15 GF Weiss · Grand terrain U15
+X-WR-CALDESC:Matchs de SHC Grenchen-Limpachtal U15 GF Weiss en Grand terrai
+ n U15 (source: https://www.swiss-streethockey.ch/fr/game-center/prochains-
+ matchs/).
+X-WR-TIMEZONE:Europe/Zurich
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+X-LIC-LOCATION:Europe/Zurich
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:11286-2109@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20260919T104000
+DTEND;TZID=Europe/Zurich:20260919T115000
+SUMMARY:SHC Grenchen-Limpachtal U15 GF Grün vs SHC Grenchen-Limpachtal U15
+  GF Weiss
+LOCATION:Bettlach\, Suisse
+DESCRIPTION:Ligue: Grand terrain U15\nDomicile: SHC Grenchen-Limpachtal U15
+  GF Grün\nVisiteurs: SHC Grenchen-Limpachtal U15 GF Weiss\nLieu du match:
+  Bettlach\nDétails: https://www.swiss-streethockey.ch/fr/game-center/game
+ -details/?spielnr=11286
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11286
+CATEGORIES:Streethockey\,Grand terrain U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11290-2109@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20260919T152000
+DTEND;TZID=Europe/Zurich:20260919T163000
+SUMMARY:Oberwil Rebells U15 vs SHC Grenchen-Limpachtal U15 GF Weiss
+LOCATION:Bettlach\, Suisse
+DESCRIPTION:Ligue: Grand terrain U15\nDomicile: Oberwil Rebells U15\nVisite
+ urs: SHC Grenchen-Limpachtal U15 GF Weiss\nLieu du match: Bettlach\nDétai
+ ls: https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr
+ =11290
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11290
+CATEGORIES:Streethockey\,Grand terrain U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11279-2109@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261025T104000
+DTEND;TZID=Europe/Zurich:20261025T115000
+SUMMARY:SHC Bettlach U15 vs SHC Grenchen-Limpachtal U15 GF Weiss
+LOCATION:Horgen\, Suisse
+DESCRIPTION:Ligue: Grand terrain U15\nDomicile: SHC Bettlach U15\nVisiteurs
+ : SHC Grenchen-Limpachtal U15 GF Weiss\nLieu du match: Horgen\nDétails: h
+ ttps://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=1127
+ 9
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11279
+CATEGORIES:Streethockey\,Grand terrain U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11281-2109@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261025T130000
+DTEND;TZID=Europe/Zurich:20261025T141000
+SUMMARY:Horgenberg Hammers U15 vs SHC Grenchen-Limpachtal U15 GF Weiss
+LOCATION:Horgen\, Suisse
+DESCRIPTION:Ligue: Grand terrain U15\nDomicile: Horgenberg Hammers U15\nVis
+ iteurs: SHC Grenchen-Limpachtal U15 GF Weiss\nLieu du match: Horgen\nDéta
+ ils: https://www.swiss-streethockey.ch/fr/game-center/game-details/?spieln
+ r=11281
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11281
+CATEGORIES:Streethockey\,Grand terrain U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11283-2109@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261025T152000
+DTEND;TZID=Europe/Zurich:20261025T163000
+SUMMARY:SHC Grenchen-Limpachtal U15 GF Weiss vs SHC Bonstetten-Wettswil U15
+LOCATION:Horgen\, Suisse
+DESCRIPTION:Ligue: Grand terrain U15\nDomicile: SHC Grenchen-Limpachtal U15
+  GF Weiss\nVisiteurs: SHC Bonstetten-Wettswil U15\nLieu du match: Horgen\n
+ Détails: https://www.swiss-streethockey.ch/fr/game-center/game-details/?s
+ pielnr=11283
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11283
+CATEGORIES:Streethockey\,Grand terrain U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11244-2109@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261115T104000
+DTEND;TZID=Europe/Zurich:20261115T115000
+SUMMARY:SHC Bulldozers Kernenried-Zauggenried U15 vs SHC Grenchen-Limpachta
+ l U15 GF Weiss
+LOCATION:Zug\, Suisse
+DESCRIPTION:Ligue: Grand terrain U15\nDomicile: SHC Bulldozers Kernenried-Z
+ auggenried U15\nVisiteurs: SHC Grenchen-Limpachtal U15 GF Weiss\nLieu du m
+ atch: Zug\nDétails: https://www.swiss-streethockey.ch/fr/game-center/game
+ -details/?spielnr=11244
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11244
+CATEGORIES:Streethockey\,Grand terrain U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11246-2109@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261115T130000
+DTEND;TZID=Europe/Zurich:20261115T141000
+SUMMARY:SV Gals U15 vs SHC Grenchen-Limpachtal U15 GF Weiss
+LOCATION:Zug\, Suisse
+DESCRIPTION:Ligue: Grand terrain U15\nDomicile: SV Gals U15\nVisiteurs: SHC
+  Grenchen-Limpachtal U15 GF Weiss\nLieu du match: Zug\nDétails: https://w
+ ww.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11246
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11246
+CATEGORIES:Streethockey\,Grand terrain U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11272-2109@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270313T104000
+DTEND;TZID=Europe/Zurich:20270313T115000
+SUMMARY:SHC Grenchen-Limpachtal U15 GF Weiss vs SHC Bulldozers Kernenried-Z
+ auggenried U15
+LOCATION:Wettswil\, Suisse
+DESCRIPTION:Ligue: Grand terrain U15\nDomicile: SHC Grenchen-Limpachtal U15
+  GF Weiss\nVisiteurs: SHC Bulldozers Kernenried-Zauggenried U15\nLieu du m
+ atch: Wettswil\nDétails: https://www.swiss-streethockey.ch/fr/game-center
+ /game-details/?spielnr=11272
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11272
+CATEGORIES:Streethockey\,Grand terrain U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11276-2109@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270313T152000
+DTEND;TZID=Europe/Zurich:20270313T163000
+SUMMARY:SHC Grenchen-Limpachtal U15 GF Weiss vs SV Gals U15
+LOCATION:Wettswil\, Suisse
+DESCRIPTION:Ligue: Grand terrain U15\nDomicile: SHC Grenchen-Limpachtal U15
+  GF Weiss\nVisiteurs: SV Gals U15\nLieu du match: Wettswil\nDétails: http
+ s://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11276
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11276
+CATEGORIES:Streethockey\,Grand terrain U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11257-2109@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270410T093000
+DTEND;TZID=Europe/Zurich:20270410T104000
+SUMMARY:SHC Grenchen-Limpachtal U15 GF Weiss vs SHC Bettlach U15
+LOCATION:Grenchen\, Suisse
+DESCRIPTION:Ligue: Grand terrain U15\nDomicile: SHC Grenchen-Limpachtal U15
+  GF Weiss\nVisiteurs: SHC Bettlach U15\nLieu du match: Grenchen\nDétails:
+  https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11
+ 257
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11257
+CATEGORIES:Streethockey\,Grand terrain U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11259-2109@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270410T115000
+DTEND;TZID=Europe/Zurich:20270410T130000
+SUMMARY:SHC Grenchen-Limpachtal U15 GF Weiss vs Oberwil Rebells U15
+LOCATION:Grenchen\, Suisse
+DESCRIPTION:Ligue: Grand terrain U15\nDomicile: SHC Grenchen-Limpachtal U15
+  GF Weiss\nVisiteurs: Oberwil Rebells U15\nLieu du match: Grenchen\nDétai
+ ls: https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr
+ =11259
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11259
+CATEGORIES:Streethockey\,Grand terrain U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11263-2109@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270410T163000
+DTEND;TZID=Europe/Zurich:20270410T174000
+SUMMARY:SHC Grenchen-Limpachtal U15 GF Weiss vs SHC Grenchen-Limpachtal U15
+  GF Grün
+LOCATION:Grenchen\, Suisse
+DESCRIPTION:Ligue: Grand terrain U15\nDomicile: SHC Grenchen-Limpachtal U15
+  GF Weiss\nVisiteurs: SHC Grenchen-Limpachtal U15 GF Grün\nLieu du match:
+  Grenchen\nDétails: https://www.swiss-streethockey.ch/fr/game-center/game
+ -details/?spielnr=11263
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11263
+CATEGORIES:Streethockey\,Grand terrain U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11236-2109@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270502T093000
+DTEND;TZID=Europe/Zurich:20270502T104000
+SUMMARY:SHC Grenchen-Limpachtal U15 GF Weiss vs Horgenberg Hammers U15
+LOCATION:Kernenried\, Suisse
+DESCRIPTION:Ligue: Grand terrain U15\nDomicile: SHC Grenchen-Limpachtal U15
+  GF Weiss\nVisiteurs: Horgenberg Hammers U15\nLieu du match: Kernenried\nD
+ étails: https://www.swiss-streethockey.ch/fr/game-center/game-details/?sp
+ ielnr=11236
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11236
+CATEGORIES:Streethockey\,Grand terrain U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11239-2109@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270502T130000
+DTEND;TZID=Europe/Zurich:20270502T141000
+SUMMARY:SHC Bonstetten-Wettswil U15 vs SHC Grenchen-Limpachtal U15 GF Weiss
+LOCATION:Kernenried\, Suisse
+DESCRIPTION:Ligue: Grand terrain U15\nDomicile: SHC Bonstetten-Wettswil U15
+ \nVisiteurs: SHC Grenchen-Limpachtal U15 GF Weiss\nLieu du match: Kernenri
+ ed\nDétails: https://www.swiss-streethockey.ch/fr/game-center/game-detail
+ s/?spielnr=11239
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11239
+CATEGORIES:Streethockey\,Grand terrain U15
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,300 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//swiss-streethockey-ics//Game center calendars//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SHC Erlinsbach U12 · U12
+X-WR-CALDESC:Matchs de SHC Erlinsbach U12 en U12 (source: https://www.swiss
+ -streethockey.ch/fr/game-center/prochains-matchs/).
+X-WR-TIMEZONE:Europe/Zurich
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+X-LIC-LOCATION:Europe/Zurich
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:11408-298@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261031T115000
+DTEND;TZID=Europe/Zurich:20261031T130000
+SUMMARY:SHC Erlinsbach U12 vs SHC Aegerten-Brügg U12
+LOCATION:La Chaux-de-Fonds\, Suisse
+DESCRIPTION:Ligue: U12\nDomicile: SHC Erlinsbach U12\nVisiteurs: SHC Aegert
+ en-Brügg U12\nLieu du match: La Chaux-de-Fonds\nDétails: https://www.swi
+ ss-streethockey.ch/fr/game-center/game-details/?spielnr=11408
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11408
+CATEGORIES:Streethockey\,U12
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11410-298@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261031T141000
+DTEND;TZID=Europe/Zurich:20261031T152000
+SUMMARY:SHC Erlinsbach U12 vs SHC Valais U12
+LOCATION:La Chaux-de-Fonds\, Suisse
+DESCRIPTION:Ligue: U12\nDomicile: SHC Erlinsbach U12\nVisiteurs: SHC Valais
+  U12\nLieu du match: La Chaux-de-Fonds\nDétails: https://www.swiss-street
+ hockey.ch/fr/game-center/game-details/?spielnr=11410
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11410
+CATEGORIES:Streethockey\,U12
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11374-298@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261129T100000
+DTEND;TZID=Europe/Zurich:20261129T111000
+SUMMARY:SHC Erlinsbach U12 vs SHC Aegerten-Brügg U12
+LOCATION:Aegerten\, Suisse
+DESCRIPTION:Ligue: U12\nDomicile: SHC Erlinsbach U12\nVisiteurs: SHC Aegert
+ en-Brügg U12\nLieu du match: Aegerten\nDétails: https://www.swiss-street
+ hockey.ch/fr/game-center/game-details/?spielnr=11374
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11374
+CATEGORIES:Streethockey\,U12
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11377-298@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261129T133000
+DTEND;TZID=Europe/Zurich:20261129T144000
+SUMMARY:SHC Erlinsbach U12 vs SHC Valais U12
+LOCATION:Aegerten\, Suisse
+DESCRIPTION:Ligue: U12\nDomicile: SHC Erlinsbach U12\nVisiteurs: SHC Valais
+  U12\nLieu du match: Aegerten\nDétails: https://www.swiss-streethockey.ch
+ /fr/game-center/game-details/?spielnr=11377
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11377
+CATEGORIES:Streethockey\,U12
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11380-298@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261212T100000
+DTEND;TZID=Europe/Zurich:20261212T111000
+SUMMARY:SHC Bettlach U12 vs SHC Erlinsbach U12
+LOCATION:Bettlach\, Suisse
+DESCRIPTION:Ligue: U12\nDomicile: SHC Bettlach U12\nVisiteurs: SHC Erlinsba
+ ch U12\nLieu du match: Bettlach\nDétails: https://www.swiss-streethockey.
+ ch/fr/game-center/game-details/?spielnr=11380
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11380
+CATEGORIES:Streethockey\,U12
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11383-298@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261212T133000
+DTEND;TZID=Europe/Zurich:20261212T144000
+SUMMARY:SHC Erlinsbach U12 vs SHC La Chaux-de-Fonds U12
+LOCATION:Bettlach\, Suisse
+DESCRIPTION:Ligue: U12\nDomicile: SHC Erlinsbach U12\nVisiteurs: SHC La Cha
+ ux-de-Fonds U12\nLieu du match: Bettlach\nDétails: https://www.swiss-stre
+ ethockey.ch/fr/game-center/game-details/?spielnr=11383
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11383
+CATEGORIES:Streethockey\,U12
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11389-298@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270307T133000
+DTEND;TZID=Europe/Zurich:20270307T144000
+SUMMARY:SHC Aegerten-Brügg U12 vs SHC Erlinsbach U12
+LOCATION:Martigny\, Suisse
+DESCRIPTION:Ligue: U12\nDomicile: SHC Aegerten-Brügg U12\nVisiteurs: SHC E
+ rlinsbach U12\nLieu du match: Martigny\nDétails: https://www.swiss-street
+ hockey.ch/fr/game-center/game-details/?spielnr=11389
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11389
+CATEGORIES:Streethockey\,U12
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11391-298@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270307T155000
+DTEND;TZID=Europe/Zurich:20270307T170000
+SUMMARY:SHC Martigny U12 vs SHC Erlinsbach U12
+LOCATION:Martigny\, Suisse
+DESCRIPTION:Ligue: U12\nDomicile: SHC Martigny U12\nVisiteurs: SHC Erlinsba
+ ch U12\nLieu du match: Martigny\nDétails: https://www.swiss-streethockey.
+ ch/fr/game-center/game-details/?spielnr=11391
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11391
+CATEGORIES:Streethockey\,U12
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11413-298@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270321T100000
+DTEND;TZID=Europe/Zurich:20270321T111000
+SUMMARY:SHC La Chaux-de-Fonds U12 vs SHC Erlinsbach U12
+LOCATION:La Chaux-de-Fonds\, Suisse
+DESCRIPTION:Ligue: U12\nDomicile: SHC La Chaux-de-Fonds U12\nVisiteurs: SHC
+  Erlinsbach U12\nLieu du match: La Chaux-de-Fonds\nDétails: https://www.s
+ wiss-streethockey.ch/fr/game-center/game-details/?spielnr=11413
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11413
+CATEGORIES:Streethockey\,U12
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11416-298@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270321T133000
+DTEND;TZID=Europe/Zurich:20270321T144000
+SUMMARY:SHC Erlinsbach U12 vs SHC Martigny U12
+LOCATION:La Chaux-de-Fonds\, Suisse
+DESCRIPTION:Ligue: U12\nDomicile: SHC Erlinsbach U12\nVisiteurs: SHC Martig
+ ny U12\nLieu du match: La Chaux-de-Fonds\nDétails: https://www.swiss-stre
+ ethockey.ch/fr/game-center/game-details/?spielnr=11416
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11416
+CATEGORIES:Streethockey\,U12
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11399-298@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270502T093000
+DTEND;TZID=Europe/Zurich:20270502T104000
+SUMMARY:SHC Bettlach U12 vs SHC Erlinsbach U12
+LOCATION:Erlinsbach\, Suisse
+DESCRIPTION:Ligue: U12\nDomicile: SHC Bettlach U12\nVisiteurs: SHC Erlinsba
+ ch U12\nLieu du match: Erlinsbach\nDétails: https://www.swiss-streethocke
+ y.ch/fr/game-center/game-details/?spielnr=11399
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11399
+CATEGORIES:Streethockey\,U12
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11402-298@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270502T130000
+DTEND;TZID=Europe/Zurich:20270502T141000
+SUMMARY:SHC Erlinsbach U12 vs SHC La Chaux-de-Fonds U12
+LOCATION:Erlinsbach\, Suisse
+DESCRIPTION:Ligue: U12\nDomicile: SHC Erlinsbach U12\nVisiteurs: SHC La Cha
+ ux-de-Fonds U12\nLieu du match: Erlinsbach\nDétails: https://www.swiss-st
+ reethockey.ch/fr/game-center/game-details/?spielnr=11402
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11402
+CATEGORIES:Streethockey\,U12
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11405-298@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270502T163000
+DTEND;TZID=Europe/Zurich:20270502T174000
+SUMMARY:SHC Martigny U12 vs SHC Erlinsbach U12
+LOCATION:Erlinsbach\, Suisse
+DESCRIPTION:Ligue: U12\nDomicile: SHC Martigny U12\nVisiteurs: SHC Erlinsba
+ ch U12\nLieu du match: Erlinsbach\nDétails: https://www.swiss-streethocke
+ y.ch/fr/game-center/game-details/?spielnr=11405
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11405
+CATEGORIES:Streethockey\,U12
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11392-298@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20271107T093000
+DTEND;TZID=Europe/Zurich:20271107T104000
+SUMMARY:SHC Valais U12 vs SHC Erlinsbach U12
+LOCATION:Dorénaz\, Suisse
+DESCRIPTION:Ligue: U12\nDomicile: SHC Valais U12\nVisiteurs: SHC Erlinsbach
+  U12\nLieu du match: Dorénaz\nDétails: https://www.swiss-streethockey.ch
+ /fr/game-center/game-details/?spielnr=11392
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11392
+CATEGORIES:Streethockey\,U12
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11395-298@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20271107T130000
+DTEND;TZID=Europe/Zurich:20271107T141000
+SUMMARY:SHC Erlinsbach U12 vs SHC Bettlach U12
+LOCATION:Dorénaz\, Suisse
+DESCRIPTION:Ligue: U12\nDomicile: SHC Erlinsbach U12\nVisiteurs: SHC Bettla
+ ch U12\nLieu du match: Dorénaz\nDétails: https://www.swiss-streethockey.
+ ch/fr/game-center/game-details/?spielnr=11395
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11395
+CATEGORIES:Streethockey\,U12
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

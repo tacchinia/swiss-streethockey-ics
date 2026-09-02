@@ -1,0 +1,309 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//swiss-streethockey-ics//Game center calendars//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SHC Bonstetten-Wettswil U12 · Grand terrain U12
+X-WR-CALDESC:Matchs de SHC Bonstetten-Wettswil U12 en Grand terrain U12 (so
+ urce: https://www.swiss-streethockey.ch/fr/game-center/prochains-matchs/).
+X-WR-TIMEZONE:Europe/Zurich
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+X-LIC-LOCATION:Europe/Zurich
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:11351-2110@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261024T115000
+DTEND;TZID=Europe/Zurich:20261024T130000
+SUMMARY:SHC Bonstetten-Wettswil U12 vs SHC Grenchen-Limpachtal U12 GF
+LOCATION:Grenchen\, Suisse
+DESCRIPTION:Ligue: Grand terrain U12\nDomicile: SHC Bonstetten-Wettswil U12
+ \nVisiteurs: SHC Grenchen-Limpachtal U12 GF\nLieu du match: Grenchen\nDét
+ ails: https://www.swiss-streethockey.ch/fr/game-center/game-details/?spiel
+ nr=11351
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11351
+CATEGORIES:Streethockey\,Grand terrain U12
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11353-2110@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261024T141000
+DTEND;TZID=Europe/Zurich:20261024T152000
+SUMMARY:Oberwil Rebells U12 vs SHC Bonstetten-Wettswil U12
+LOCATION:Grenchen\, Suisse
+DESCRIPTION:Ligue: Grand terrain U12\nDomicile: Oberwil Rebells U12\nVisite
+ urs: SHC Bonstetten-Wettswil U12\nLieu du match: Grenchen\nDétails: https
+ ://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11353
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11353
+CATEGORIES:Streethockey\,Grand terrain U12
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11336-2110@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261114T104000
+DTEND;TZID=Europe/Zurich:20261114T115000
+SUMMARY:SHC Bonstetten-Wettswil U12 vs Oberwil Rebells U12
+LOCATION:Horgen\, Suisse
+DESCRIPTION:Ligue: Grand terrain U12\nDomicile: SHC Bonstetten-Wettswil U12
+ \nVisiteurs: Oberwil Rebells U12\nLieu du match: Horgen\nDétails: https:/
+ /www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11336
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11336
+CATEGORIES:Streethockey\,Grand terrain U12
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11338-2110@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261114T130000
+DTEND;TZID=Europe/Zurich:20261114T141000
+SUMMARY:SHC Bulldozers Kernenried-Zauggenried U12 vs SHC Bonstetten-Wettswi
+ l U12
+LOCATION:Horgen\, Suisse
+DESCRIPTION:Ligue: Grand terrain U12\nDomicile: SHC Bulldozers Kernenried-Z
+ auggenried U12\nVisiteurs: SHC Bonstetten-Wettswil U12\nLieu du match: Hor
+ gen\nDétails: https://www.swiss-streethockey.ch/fr/game-center/game-detai
+ ls/?spielnr=11338
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11338
+CATEGORIES:Streethockey\,Grand terrain U12
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11341-2110@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261114T163000
+DTEND;TZID=Europe/Zurich:20261114T174000
+SUMMARY:Horgenberg Hammers U12 vs SHC Bonstetten-Wettswil U12
+LOCATION:Horgen\, Suisse
+DESCRIPTION:Ligue: Grand terrain U12\nDomicile: Horgenberg Hammers U12\nVis
+ iteurs: SHC Bonstetten-Wettswil U12\nLieu du match: Horgen\nDétails: http
+ s://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11341
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11341
+CATEGORIES:Streethockey\,Grand terrain U12
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11342-2110@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261129T093000
+DTEND;TZID=Europe/Zurich:20261129T104000
+SUMMARY:SHC Bonstetten-Wettswil U12 vs SHC Bulldozers Kernenried-Zauggenrie
+ d U12
+LOCATION:Kernenried\, Suisse
+DESCRIPTION:Ligue: Grand terrain U12\nDomicile: SHC Bonstetten-Wettswil U12
+ \nVisiteurs: SHC Bulldozers Kernenried-Zauggenried U12\nLieu du match: Ker
+ nenried\nDétails: https://www.swiss-streethockey.ch/fr/game-center/game-d
+ etails/?spielnr=11342
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11342
+CATEGORIES:Streethockey\,Grand terrain U12
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11346-2110@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261129T141000
+DTEND;TZID=Europe/Zurich:20261129T152000
+SUMMARY:SHC Bonstetten-Wettswil U12 vs SV Gals U12
+LOCATION:Kernenried\, Suisse
+DESCRIPTION:Ligue: Grand terrain U12\nDomicile: SHC Bonstetten-Wettswil U12
+ \nVisiteurs: SV Gals U12\nLieu du match: Kernenried\nDétails: https://www
+ .swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11346
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11346
+CATEGORIES:Streethockey\,Grand terrain U12
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11331-2110@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261212T122000
+DTEND;TZID=Europe/Zurich:20261212T133000
+SUMMARY:Horgenberg Hammers U12 vs SHC Bonstetten-Wettswil U12
+LOCATION:Gals\, Suisse
+DESCRIPTION:Ligue: Grand terrain U12\nDomicile: Horgenberg Hammers U12\nVis
+ iteurs: SHC Bonstetten-Wettswil U12\nLieu du match: Gals\nDétails: https:
+ //www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11331
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11331
+CATEGORIES:Streethockey\,Grand terrain U12
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11334-2110@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261212T155000
+DTEND;TZID=Europe/Zurich:20261212T170000
+SUMMARY:SHC Grenchen-Limpachtal U12 GF vs SHC Bonstetten-Wettswil U12
+LOCATION:Gals\, Suisse
+DESCRIPTION:Ligue: Grand terrain U12\nDomicile: SHC Grenchen-Limpachtal U12
+  GF\nVisiteurs: SHC Bonstetten-Wettswil U12\nLieu du match: Gals\nDétails
+ : https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=1
+ 1334
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11334
+CATEGORIES:Streethockey\,Grand terrain U12
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11357-2110@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270130T111000
+DTEND;TZID=Europe/Zurich:20270130T122000
+SUMMARY:SV Gals U12 vs SHC Bonstetten-Wettswil U12
+LOCATION:Wettswil\, Suisse
+DESCRIPTION:Ligue: Grand terrain U12\nDomicile: SV Gals U12\nVisiteurs: SHC
+  Bonstetten-Wettswil U12\nLieu du match: Wettswil\nDétails: https://www.s
+ wiss-streethockey.ch/fr/game-center/game-details/?spielnr=11357
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11357
+CATEGORIES:Streethockey\,Grand terrain U12
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11361-2110@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270130T155000
+DTEND;TZID=Europe/Zurich:20270130T170000
+SUMMARY:SHC Bonstetten-Wettswil U12 vs Horgenberg Hammers U12
+LOCATION:Wettswil\, Suisse
+DESCRIPTION:Ligue: Grand terrain U12\nDomicile: SHC Bonstetten-Wettswil U12
+ \nVisiteurs: Horgenberg Hammers U12\nLieu du match: Wettswil\nDétails: ht
+ tps://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11361
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11361
+CATEGORIES:Streethockey\,Grand terrain U12
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11364-2110@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270321T122000
+DTEND;TZID=Europe/Zurich:20270321T133000
+SUMMARY:SHC Bonstetten-Wettswil U12 vs SHC Grenchen-Limpachtal U12 GF
+LOCATION:Zug\, Suisse
+DESCRIPTION:Ligue: Grand terrain U12\nDomicile: SHC Bonstetten-Wettswil U12
+ \nVisiteurs: SHC Grenchen-Limpachtal U12 GF\nLieu du match: Zug\nDétails:
+  https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11
+ 364
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11364
+CATEGORIES:Streethockey\,Grand terrain U12
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11366-2110@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270321T144000
+DTEND;TZID=Europe/Zurich:20270321T155000
+SUMMARY:Oberwil Rebells U12 vs SHC Bonstetten-Wettswil U12
+LOCATION:Zug\, Suisse
+DESCRIPTION:Ligue: Grand terrain U12\nDomicile: Oberwil Rebells U12\nVisite
+ urs: SHC Bonstetten-Wettswil U12\nLieu du match: Zug\nDétails: https://ww
+ w.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11366
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11366
+CATEGORIES:Streethockey\,Grand terrain U12
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11368-2110@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270424T100000
+DTEND;TZID=Europe/Zurich:20270424T111000
+SUMMARY:SHC Bonstetten-Wettswil U12 vs SHC Bulldozers Kernenried-Zauggenrie
+ d U12
+LOCATION:Wettswil\, Suisse
+DESCRIPTION:Ligue: Grand terrain U12\nDomicile: SHC Bonstetten-Wettswil U12
+ \nVisiteurs: SHC Bulldozers Kernenried-Zauggenried U12\nLieu du match: Wet
+ tswil\nDétails: https://www.swiss-streethockey.ch/fr/game-center/game-det
+ ails/?spielnr=11368
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11368
+CATEGORIES:Streethockey\,Grand terrain U12
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11372-2110@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270424T144000
+DTEND;TZID=Europe/Zurich:20270424T155000
+SUMMARY:SHC Bonstetten-Wettswil U12 vs SV Gals U12
+LOCATION:Wettswil\, Suisse
+DESCRIPTION:Ligue: Grand terrain U12\nDomicile: SHC Bonstetten-Wettswil U12
+ \nVisiteurs: SV Gals U12\nLieu du match: Wettswil\nDétails: https://www.s
+ wiss-streethockey.ch/fr/game-center/game-details/?spielnr=11372
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11372
+CATEGORIES:Streethockey\,Grand terrain U12
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

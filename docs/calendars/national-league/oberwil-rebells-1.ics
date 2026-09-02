@@ -1,0 +1,355 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//swiss-streethockey-ics//Game center calendars//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Oberwil Rebells 1 · National League
+X-WR-CALDESC:Matchs de Oberwil Rebells 1 en National League (source: https:
+ //www.swiss-streethockey.ch/fr/game-center/prochains-matchs/).
+X-WR-TIMEZONE:Europe/Zurich
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+X-LIC-LOCATION:Europe/Zurich
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:10874-292@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20260919T140000
+DTEND;TZID=Europe/Zurich:20260919T160000
+SUMMARY:Oberwil Rebells 1 vs SV Gals 1
+LOCATION:Zug\, Suisse
+DESCRIPTION:Ligue: National League\nDomicile: Oberwil Rebells 1\nVisiteurs:
+  SV Gals 1\nLieu du match: Zug\nDétails: https://www.swiss-streethockey.c
+ h/fr/game-center/game-details/?spielnr=10874
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 10874
+CATEGORIES:Streethockey\,National League
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:10881-292@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20260926T140000
+DTEND;TZID=Europe/Zurich:20260926T160000
+SUMMARY:SHC Bettlach 1 vs Oberwil Rebells 1
+LOCATION:Bettlach\, Suisse
+DESCRIPTION:Ligue: National League\nDomicile: SHC Bettlach 1\nVisiteurs: Ob
+ erwil Rebells 1\nLieu du match: Bettlach\nDétails: https://www.swiss-stre
+ ethockey.ch/fr/game-center/game-details/?spielnr=10881
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 10881
+CATEGORIES:Streethockey\,National League
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:10887-292@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261002T200000
+DTEND;TZID=Europe/Zurich:20261002T220000
+SUMMARY:Horgenberg Hammers 1 vs Oberwil Rebells 1
+LOCATION:Horgen\, Suisse
+DESCRIPTION:Ligue: National League\nDomicile: Horgenberg Hammers 1\nVisiteu
+ rs: Oberwil Rebells 1\nLieu du match: Horgen\nDétails: https://www.swiss-
+ streethockey.ch/fr/game-center/game-details/?spielnr=10887
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 10887
+CATEGORIES:Streethockey\,National League
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:10890-292@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261003T140000
+DTEND;TZID=Europe/Zurich:20261003T160000
+SUMMARY:Oberwil Rebells 1 vs Sierre Lions 1
+LOCATION:Zug\, Suisse
+DESCRIPTION:Ligue: National League\nDomicile: Oberwil Rebells 1\nVisiteurs:
+  Sierre Lions 1\nLieu du match: Zug\nDétails: https://www.swiss-streethoc
+ key.ch/fr/game-center/game-details/?spielnr=10890
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 10890
+CATEGORIES:Streethockey\,National League
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:10899-292@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261011T140000
+DTEND;TZID=Europe/Zurich:20261011T160000
+SUMMARY:Oberwil Rebells 1 vs SHC Grenchen-Limpachtal 1
+LOCATION:Zug\, Suisse
+DESCRIPTION:Ligue: National League\nDomicile: Oberwil Rebells 1\nVisiteurs:
+  SHC Grenchen-Limpachtal 1\nLieu du match: Zug\nDétails: https://www.swis
+ s-streethockey.ch/fr/game-center/game-details/?spielnr=10899
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 10899
+CATEGORIES:Streethockey\,National League
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:10903-292@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261017T170000
+DTEND;TZID=Europe/Zurich:20261017T190000
+SUMMARY:Oberwil Rebells 1 vs SHC La Chaux-de-Fonds 1
+LOCATION:Zug\, Suisse
+DESCRIPTION:Ligue: National League\nDomicile: Oberwil Rebells 1\nVisiteurs:
+  SHC La Chaux-de-Fonds 1\nLieu du match: Zug\nDétails: https://www.swiss-
+ streethockey.ch/fr/game-center/game-details/?spielnr=10903
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 10903
+CATEGORIES:Streethockey\,National League
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:10905-292@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261018T140000
+DTEND;TZID=Europe/Zurich:20261018T160000
+SUMMARY:SHC Bonstetten-Wettswil 1 vs Oberwil Rebells 1
+LOCATION:Wettswil\, Suisse
+DESCRIPTION:Ligue: National League\nDomicile: SHC Bonstetten-Wettswil 1\nVi
+ siteurs: Oberwil Rebells 1\nLieu du match: Wettswil\nDétails: https://www
+ .swiss-streethockey.ch/fr/game-center/game-details/?spielnr=10905
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 10905
+CATEGORIES:Streethockey\,National League
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:10911-292@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261025T140000
+DTEND;TZID=Europe/Zurich:20261025T160000
+SUMMARY:Oberwil Rebells 1 vs SHC Bulldozers Kernenried-Zauggenried 1
+LOCATION:Zug\, Suisse
+DESCRIPTION:Ligue: National League\nDomicile: Oberwil Rebells 1\nVisiteurs:
+  SHC Bulldozers Kernenried-Zauggenried 1\nLieu du match: Zug\nDétails: ht
+ tps://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=10911
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 10911
+CATEGORIES:Streethockey\,National League
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:10914-292@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261107T140000
+DTEND;TZID=Europe/Zurich:20261107T160000
+SUMMARY:SV Gals 1 vs Oberwil Rebells 1
+LOCATION:Gals\, Suisse
+DESCRIPTION:Ligue: National League\nDomicile: SV Gals 1\nVisiteurs: Oberwil
+  Rebells 1\nLieu du match: Gals\nDétails: https://www.swiss-streethockey.
+ ch/fr/game-center/game-details/?spielnr=10914
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 10914
+CATEGORIES:Streethockey\,National League
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:10918-292@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261113T193000
+DTEND;TZID=Europe/Zurich:20261113T213000
+SUMMARY:Oberwil Rebells 2 vs Oberwil Rebells 1
+LOCATION:Zug\, Suisse
+DESCRIPTION:Ligue: National League\nDomicile: Oberwil Rebells 2\nVisiteurs:
+  Oberwil Rebells 1\nLieu du match: Zug\nDétails: https://www.swiss-street
+ hockey.ch/fr/game-center/game-details/?spielnr=10918
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 10918
+CATEGORIES:Streethockey\,National League
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:10928-292@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261122T140000
+DTEND;TZID=Europe/Zurich:20261122T160000
+SUMMARY:Oberwil Rebells 1 vs SHC Bettlach 1
+LOCATION:Zug\, Suisse
+DESCRIPTION:Ligue: National League\nDomicile: Oberwil Rebells 1\nVisiteurs:
+  SHC Bettlach 1\nLieu du match: Zug\nDétails: https://www.swiss-streethoc
+ key.ch/fr/game-center/game-details/?spielnr=10928
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 10928
+CATEGORIES:Streethockey\,National League
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:10934-292@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261129T140000
+DTEND;TZID=Europe/Zurich:20261129T160000
+SUMMARY:Sierre Lions 1 vs Oberwil Rebells 1
+LOCATION:Sierre\, Suisse
+DESCRIPTION:Ligue: National League\nDomicile: Sierre Lions 1\nVisiteurs: Ob
+ erwil Rebells 1\nLieu du match: Sierre\nDétails: https://www.swiss-street
+ hockey.ch/fr/game-center/game-details/?spielnr=10934
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 10934
+CATEGORIES:Streethockey\,National League
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:10937-292@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261206T140000
+DTEND;TZID=Europe/Zurich:20261206T160000
+SUMMARY:Oberwil Rebells 1 vs Horgenberg Hammers 1
+LOCATION:Zug\, Suisse
+DESCRIPTION:Ligue: National League\nDomicile: Oberwil Rebells 1\nVisiteurs:
+  Horgenberg Hammers 1\nLieu du match: Zug\nDétails: https://www.swiss-str
+ eethockey.ch/fr/game-center/game-details/?spielnr=10937
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 10937
+CATEGORIES:Streethockey\,National League
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:10943-292@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270131T140000
+DTEND;TZID=Europe/Zurich:20270131T160000
+SUMMARY:SHC Grenchen-Limpachtal 1 vs Oberwil Rebells 1
+LOCATION:Grenchen\, Suisse
+DESCRIPTION:Ligue: National League\nDomicile: SHC Grenchen-Limpachtal 1\nVi
+ siteurs: Oberwil Rebells 1\nLieu du match: Grenchen\nDétails: https://www
+ .swiss-streethockey.ch/fr/game-center/game-details/?spielnr=10943
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 10943
+CATEGORIES:Streethockey\,National League
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:10945-292@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270206T140000
+DTEND;TZID=Europe/Zurich:20270206T160000
+SUMMARY:SHC La Chaux-de-Fonds 1 vs Oberwil Rebells 1
+LOCATION:La Chaux-de-Fonds\, Suisse
+DESCRIPTION:Ligue: National League\nDomicile: SHC La Chaux-de-Fonds 1\nVisi
+ teurs: Oberwil Rebells 1\nLieu du match: La Chaux-de-Fonds\nDétails: http
+ s://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=10945
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 10945
+CATEGORIES:Streethockey\,National League
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:10872-292@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270212T193000
+DTEND;TZID=Europe/Zurich:20270212T213000
+SUMMARY:Oberwil Rebells 1 vs Oberwil Rebells 2
+LOCATION:Zug\, Suisse
+DESCRIPTION:Ligue: National League\nDomicile: Oberwil Rebells 1\nVisiteurs:
+  Oberwil Rebells 2\nLieu du match: Zug\nDétails: https://www.swiss-street
+ hockey.ch/fr/game-center/game-details/?spielnr=10872
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 10872
+CATEGORIES:Streethockey\,National League
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:10955-292@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270220T140000
+DTEND;TZID=Europe/Zurich:20270220T160000
+SUMMARY:Oberwil Rebells 1 vs SHC Bonstetten-Wettswil 1
+LOCATION:Zug\, Suisse
+DESCRIPTION:Ligue: National League\nDomicile: Oberwil Rebells 1\nVisiteurs:
+  SHC Bonstetten-Wettswil 1\nLieu du match: Zug\nDétails: https://www.swis
+ s-streethockey.ch/fr/game-center/game-details/?spielnr=10955
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 10955
+CATEGORIES:Streethockey\,National League
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:10960-292@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270221T140000
+DTEND;TZID=Europe/Zurich:20270221T160000
+SUMMARY:SHC Bulldozers Kernenried-Zauggenried 1 vs Oberwil Rebells 1
+LOCATION:Kernenried\, Suisse
+DESCRIPTION:Ligue: National League\nDomicile: SHC Bulldozers Kernenried-Zau
+ ggenried 1\nVisiteurs: Oberwil Rebells 1\nLieu du match: Kernenried\nDéta
+ ils: https://www.swiss-streethockey.ch/fr/game-center/game-details/?spieln
+ r=10960
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 10960
+CATEGORIES:Streethockey\,National League
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

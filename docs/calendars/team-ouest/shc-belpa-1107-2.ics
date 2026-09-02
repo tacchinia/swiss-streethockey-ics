@@ -1,0 +1,282 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//swiss-streethockey-ics//Game center calendars//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SHC Belpa 1107 2 · Team Ouest
+X-WR-CALDESC:Matchs de SHC Belpa 1107 2 en Team Ouest (source: https://www.
+ swiss-streethockey.ch/fr/game-center/prochains-matchs/).
+X-WR-TIMEZONE:Europe/Zurich
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+X-LIC-LOCATION:Europe/Zurich
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:11138-2105@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261017T093000
+DTEND;TZID=Europe/Zurich:20261017T104000
+SUMMARY:SHC Martigny 2 vs SHC Belpa 1107 2
+LOCATION:Martigny\, Suisse
+DESCRIPTION:Ligue: Team Ouest\nDomicile: SHC Martigny 2\nVisiteurs: SHC Bel
+ pa 1107 2\nLieu du match: Martigny\nDétails: https://www.swiss-streethock
+ ey.ch/fr/game-center/game-details/?spielnr=11138
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11138
+CATEGORIES:Streethockey\,Team Ouest
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11140-2105@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261017T115000
+DTEND;TZID=Europe/Zurich:20261017T130000
+SUMMARY:SHC Aegerten-Brügg 1 vs SHC Belpa 1107 2
+LOCATION:Martigny\, Suisse
+DESCRIPTION:Ligue: Team Ouest\nDomicile: SHC Aegerten-Brügg 1\nVisiteurs: 
+ SHC Belpa 1107 2\nLieu du match: Martigny\nDétails: https://www.swiss-str
+ eethockey.ch/fr/game-center/game-details/?spielnr=11140
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11140
+CATEGORIES:Streethockey\,Team Ouest
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11144-2105@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261017T163000
+DTEND;TZID=Europe/Zurich:20261017T174000
+SUMMARY:SHC La Chaux-de-Fonds 2 vs SHC Belpa 1107 2
+LOCATION:Martigny\, Suisse
+DESCRIPTION:Ligue: Team Ouest\nDomicile: SHC La Chaux-de-Fonds 2\nVisiteurs
+ : SHC Belpa 1107 2\nLieu du match: Martigny\nDétails: https://www.swiss-s
+ treethockey.ch/fr/game-center/game-details/?spielnr=11144
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11144
+CATEGORIES:Streethockey\,Team Ouest
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11156-2105@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261114T141000
+DTEND;TZID=Europe/Zurich:20261114T152000
+SUMMARY:SHC Belpa 1107 2 vs SHC Seetal Admirals 1
+LOCATION:La Chaux-de-Fonds\, Suisse
+DESCRIPTION:Ligue: Team Ouest\nDomicile: SHC Belpa 1107 2\nVisiteurs: SHC S
+ eetal Admirals 1\nLieu du match: La Chaux-de-Fonds\nDétails: https://www.
+ swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11156
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11156
+CATEGORIES:Streethockey\,Team Ouest
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11158-2105@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20261114T163000
+DTEND;TZID=Europe/Zurich:20261114T174000
+SUMMARY:SHC Belpa 1107 2 vs SHC Martigny 2
+LOCATION:La Chaux-de-Fonds\, Suisse
+DESCRIPTION:Ligue: Team Ouest\nDomicile: SHC Belpa 1107 2\nVisiteurs: SHC M
+ artigny 2\nLieu du match: La Chaux-de-Fonds\nDétails: https://www.swiss-s
+ treethockey.ch/fr/game-center/game-details/?spielnr=11158
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11158
+CATEGORIES:Streethockey\,Team Ouest
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11174-2105@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270131T104000
+DTEND;TZID=Europe/Zurich:20270131T115000
+SUMMARY:SHC Belpa 1107 2 vs SHC Fribourg Dragons
+LOCATION:Aegerten\, Suisse
+DESCRIPTION:Ligue: Team Ouest\nDomicile: SHC Belpa 1107 2\nVisiteurs: SHC F
+ ribourg Dragons\nLieu du match: Aegerten\nDétails: https://www.swiss-stre
+ ethockey.ch/fr/game-center/game-details/?spielnr=11174
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11174
+CATEGORIES:Streethockey\,Team Ouest
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11176-2105@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270131T130000
+DTEND;TZID=Europe/Zurich:20270131T141000
+SUMMARY:SHC Belpa 1107 2 vs SHC Aegerten-Brügg 1
+LOCATION:Aegerten\, Suisse
+DESCRIPTION:Ligue: Team Ouest\nDomicile: SHC Belpa 1107 2\nVisiteurs: SHC A
+ egerten-Brügg 1\nLieu du match: Aegerten\nDétails: https://www.swiss-str
+ eethockey.ch/fr/game-center/game-details/?spielnr=11176
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11176
+CATEGORIES:Streethockey\,Team Ouest
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11161-2105@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270227T115000
+DTEND;TZID=Europe/Zurich:20270227T130000
+SUMMARY:SHC Diabla 1 vs SHC Belpa 1107 2
+LOCATION:Sierre\, Suisse
+DESCRIPTION:Ligue: Team Ouest\nDomicile: SHC Diabla 1\nVisiteurs: SHC Belpa
+  1107 2\nLieu du match: Sierre\nDétails: https://www.swiss-streethockey.c
+ h/fr/game-center/game-details/?spielnr=11161
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11161
+CATEGORIES:Streethockey\,Team Ouest
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11163-2105@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270227T141000
+DTEND;TZID=Europe/Zurich:20270227T152000
+SUMMARY:SHC Belpa 1107 2 vs SHC La Chaux-de-Fonds 2
+LOCATION:Sierre\, Suisse
+DESCRIPTION:Ligue: Team Ouest\nDomicile: SHC Belpa 1107 2\nVisiteurs: SHC L
+ a Chaux-de-Fonds 2\nLieu du match: Sierre\nDétails: https://www.swiss-str
+ eethockey.ch/fr/game-center/game-details/?spielnr=11163
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11163
+CATEGORIES:Streethockey\,Team Ouest
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11165-2105@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270227T163000
+DTEND;TZID=Europe/Zurich:20270227T174000
+SUMMARY:SHC Belpa 1107 2 vs Sierre Lions 2
+LOCATION:Sierre\, Suisse
+DESCRIPTION:Ligue: Team Ouest\nDomicile: SHC Belpa 1107 2\nVisiteurs: Sierr
+ e Lions 2\nLieu du match: Sierre\nDétails: https://www.swiss-streethockey
+ .ch/fr/game-center/game-details/?spielnr=11165
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11165
+CATEGORIES:Streethockey\,Team Ouest
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11145-2105@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270306T093000
+DTEND;TZID=Europe/Zurich:20270306T104000
+SUMMARY:SHC Fribourg Dragons vs SHC Belpa 1107 2
+LOCATION:Belp\, Suisse
+DESCRIPTION:Ligue: Team Ouest\nDomicile: SHC Fribourg Dragons\nVisiteurs: S
+ HC Belpa 1107 2\nLieu du match: Belp\nDétails: https://www.swiss-streetho
+ ckey.ch/fr/game-center/game-details/?spielnr=11145
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11145
+CATEGORIES:Streethockey\,Team Ouest
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11150-2105@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270306T152000
+DTEND;TZID=Europe/Zurich:20270306T163000
+SUMMARY:SHC Seetal Admirals 1 vs SHC Belpa 1107 2
+LOCATION:Belp\, Suisse
+DESCRIPTION:Ligue: Team Ouest\nDomicile: SHC Seetal Admirals 1\nVisiteurs: 
+ SHC Belpa 1107 2\nLieu du match: Belp\nDétails: https://www.swiss-streeth
+ ockey.ch/fr/game-center/game-details/?spielnr=11150
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11150
+CATEGORIES:Streethockey\,Team Ouest
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11133-2105@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270321T115000
+DTEND;TZID=Europe/Zurich:20270321T130000
+SUMMARY:Sierre Lions 2 vs SHC Belpa 1107 2
+LOCATION:Dorénaz\, Suisse
+DESCRIPTION:Ligue: Team Ouest\nDomicile: Sierre Lions 2\nVisiteurs: SHC Bel
+ pa 1107 2\nLieu du match: Dorénaz\nDétails: https://www.swiss-streethock
+ ey.ch/fr/game-center/game-details/?spielnr=11133
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11133
+CATEGORIES:Streethockey\,Team Ouest
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11135-2105@swiss-streethockey-ics
+DTSTAMP:20260902T085415Z
+DTSTART;TZID=Europe/Zurich:20270321T141000
+DTEND;TZID=Europe/Zurich:20270321T152000
+SUMMARY:SHC Belpa 1107 2 vs SHC Diabla 1
+LOCATION:Dorénaz\, Suisse
+DESCRIPTION:Ligue: Team Ouest\nDomicile: SHC Belpa 1107 2\nVisiteurs: SHC D
+ iabla 1\nLieu du match: Dorénaz\nDétails: https://www.swiss-streethockey
+ .ch/fr/game-center/game-details/?spielnr=11135
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11135
+CATEGORIES:Streethockey\,Team Ouest
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
