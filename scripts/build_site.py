@@ -170,8 +170,9 @@ def build_catalog(dataset: dict, games: list[dict], durations: dict[str, int]) -
     # season is the one most fixtures belong to rather than the latest one.
     season_counts = Counter(season_of(game["start_dt"]) for game in games)
     seasons = sorted(season_counts)
+    # Nothing here is stamped with the build time: an unchanged dataset has to
+    # rebuild to byte-identical output so a rerun produces no commit.
     return {
-        "generated_at": dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "scraped_at": dataset.get("scraped_at"),
         "source": dataset.get("source", GAME_CENTER),
         "timezone": TIMEZONE,
@@ -210,7 +211,7 @@ def write_calendars(catalog: dict) -> int:
 
 def render_index(catalog: dict) -> str:
     template = (TEMPLATE_DIR / "index.html").read_text(encoding="utf-8")
-    scraped = catalog.get("scraped_at") or catalog["generated_at"]
+    scraped = catalog["scraped_at"]
     scraped_dt = dt.datetime.fromisoformat(scraped.replace("Z", "+00:00"))
 
     sections = []
