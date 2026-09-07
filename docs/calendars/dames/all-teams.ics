@@ -28,24 +28,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:11082-295@swiss-streethockey-ics
-DTSTAMP:20260902T085415Z
-DTSTART;TZID=Europe/Zurich:20260920T140000
-DTEND;TZID=Europe/Zurich:20260920T160000
-SUMMARY:SHC Belpa 1107 Damen vs Horgenberg Hammers Damen
-LOCATION:Belp\, Suisse
-DESCRIPTION:Ligue: Dames\nDomicile: SHC Belpa 1107 Damen\nVisiteurs: Horgen
- berg Hammers Damen\nLieu du match: Belp\nDétails: https://www.swiss-stree
- thockey.ch/fr/game-center/game-details/?spielnr=11082
-URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
- 11082
-CATEGORIES:Streethockey\,Dames
-STATUS:CONFIRMED
-SEQUENCE:0
-LAST-MODIFIED:20260902T085415Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:11083-295@swiss-streethockey-ics
 DTSTAMP:20260902T085415Z
 DTSTART;TZID=Europe/Zurich:20260920T140000
@@ -157,9 +139,9 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:11091-295@swiss-streethockey-ics
-DTSTAMP:20260902T085415Z
-DTSTART;TZID=Europe/Zurich:20261011T140000
-DTEND;TZID=Europe/Zurich:20261011T160000
+DTSTAMP:20260907T092006Z
+DTSTART;TZID=Europe/Zurich:20261011T103000
+DTEND;TZID=Europe/Zurich:20261011T123000
 SUMMARY:SHC Belpa 1107 Damen vs SHC Valais Femmes
 LOCATION:Belp\, Suisse
 DESCRIPTION:Ligue: Dames\nDomicile: SHC Belpa 1107 Damen\nVisiteurs: SHC Va
@@ -169,8 +151,8 @@ URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
  11091
 CATEGORIES:Streethockey\,Dames
 STATUS:CONFIRMED
-SEQUENCE:0
-LAST-MODIFIED:20260902T085415Z
+SEQUENCE:1
+LAST-MODIFIED:20260907T092006Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -600,9 +582,9 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:11113-295@swiss-streethockey-ics
-DTSTAMP:20260902T085415Z
-DTSTART;TZID=Europe/Zurich:20270213T140000
-DTEND;TZID=Europe/Zurich:20270213T160000
+DTSTAMP:20260907T092006Z
+DTSTART;TZID=Europe/Zurich:20270206T140000
+DTEND;TZID=Europe/Zurich:20270206T160000
 SUMMARY:SHC Valais Femmes vs SHC Belpa 1107 Damen
 LOCATION:Dorénaz\, Suisse
 DESCRIPTION:Ligue: Dames\nDomicile: SHC Valais Femmes\nVisiteurs: SHC Belpa
@@ -612,8 +594,26 @@ URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
  11113
 CATEGORIES:Streethockey\,Dames
 STATUS:CONFIRMED
-SEQUENCE:0
-LAST-MODIFIED:20260902T085415Z
+SEQUENCE:1
+LAST-MODIFIED:20260907T092006Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11082-295@swiss-streethockey-ics
+DTSTAMP:20260907T092006Z
+DTSTART;TZID=Europe/Zurich:20270213T140000
+DTEND;TZID=Europe/Zurich:20270213T160000
+SUMMARY:SHC Belpa 1107 Damen vs Horgenberg Hammers Damen
+LOCATION:Belp\, Suisse
+DESCRIPTION:Ligue: Dames\nDomicile: SHC Belpa 1107 Damen\nVisiteurs: Horgen
+ berg Hammers Damen\nLieu du match: Belp\nDétails: https://www.swiss-stree
+ thockey.ch/fr/game-center/game-details/?spielnr=11082
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11082
+CATEGORIES:Streethockey\,Dames
+STATUS:CONFIRMED
+SEQUENCE:1
+LAST-MODIFIED:20260907T092006Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT

@@ -1,10 +1,9 @@
 {
- "scraped_at": "2026-09-02T09:17:01Z",
+ "scraped_at": "2026-09-07T09:20:06Z",
  "source": "https://www.swiss-streethockey.ch/fr/game-center/prochains-matchs/",
  "timezone": "Europe/Zurich",
  "seasons": [
-  "2026-2027",
-  "2027-2028"
+  "2026-2027"
  ],
  "season": "2026-2027",
  "total_games": 1059,
@@ -494,7 +493,7 @@
      "path": "calendars/dames/horgenberg-hammers-damen.ics",
      "games": 12,
      "upcoming": 12,
-     "next": "2026-09-20T14:00:00"
+     "next": "2026-10-04T14:00:00"
     },
     {
      "name": "SHC Belpa 1107 Damen",
@@ -502,7 +501,7 @@
      "path": "calendars/dames/shc-belpa-1107-damen.ics",
      "games": 12,
      "upcoming": 12,
-     "next": "2026-09-20T14:00:00"
+     "next": "2026-09-27T14:00:00"
     },
     {
      "name": "SHC Bettlach - Seetal Damen",
@@ -568,8 +567,8 @@
      "slug": "shc-aegerten-brugg-1",
      "path": "calendars/coupe-suisse/shc-aegerten-brugg-1.ics",
      "games": 1,
-     "upcoming": 1,
-     "next": "2026-09-06T14:00:00"
+     "upcoming": 0,
+     "next": null
     },
     {
      "name": "SHC Belpa 1107 1",
@@ -664,8 +663,8 @@
      "slug": "shc-la-chaux-de-fonds-2",
      "path": "calendars/coupe-suisse/shc-la-chaux-de-fonds-2.ics",
      "games": 1,
-     "upcoming": 1,
-     "next": "2026-09-06T14:00:00"
+     "upcoming": 0,
+     "next": null
     },
     {
      "name": "SHC Langenthal Devils 1",
@@ -898,7 +897,7 @@
      "path": "calendars/u18/shc-belpa-1107-u18.ics",
      "games": 18,
      "upcoming": 18,
-     "next": "2026-09-19T14:00:00"
+     "next": "2026-09-18T20:00:00"
     },
     {
      "name": "SHC Bettlach U18",

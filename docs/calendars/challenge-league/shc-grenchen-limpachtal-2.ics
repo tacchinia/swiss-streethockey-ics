@@ -178,6 +178,24 @@ LAST-MODIFIED:20260902T085415Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:10989-291@swiss-streethockey-ics
+DTSTAMP:20260907T092006Z
+DTSTART;TZID=Europe/Zurich:20270130T103000
+DTEND;TZID=Europe/Zurich:20270130T123000
+SUMMARY:SHC Grenchen-Limpachtal 2 vs SHC Belpa 1107 1
+LOCATION:Grenchen\, Suisse
+DESCRIPTION:Ligue: Challenge League\nDomicile: SHC Grenchen-Limpachtal 2\nV
+ isiteurs: SHC Belpa 1107 1\nLieu du match: Grenchen\nDétails: https://www
+ .swiss-streethockey.ch/fr/game-center/game-details/?spielnr=10989
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 10989
+CATEGORIES:Streethockey\,Challenge League
+STATUS:CONFIRMED
+SEQUENCE:1
+LAST-MODIFIED:20260907T092006Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:10987-291@swiss-streethockey-ics
 DTSTAMP:20260902T085415Z
 DTSTART;TZID=Europe/Zurich:20270207T140000
@@ -189,24 +207,6 @@ DESCRIPTION:Ligue: Challenge League\nDomicile: SHC Martigny 1\nVisiteurs: S
  wiss-streethockey.ch/fr/game-center/game-details/?spielnr=10987
 URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
  10987
-CATEGORIES:Streethockey\,Challenge League
-STATUS:CONFIRMED
-SEQUENCE:0
-LAST-MODIFIED:20260902T085415Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:10989-291@swiss-streethockey-ics
-DTSTAMP:20260902T085415Z
-DTSTART;TZID=Europe/Zurich:20270213T140000
-DTEND;TZID=Europe/Zurich:20270213T160000
-SUMMARY:SHC Grenchen-Limpachtal 2 vs SHC Belpa 1107 1
-LOCATION:Grenchen\, Suisse
-DESCRIPTION:Ligue: Challenge League\nDomicile: SHC Grenchen-Limpachtal 2\nV
- isiteurs: SHC Belpa 1107 1\nLieu du match: Grenchen\nDétails: https://www
- .swiss-streethockey.ch/fr/game-center/game-details/?spielnr=10989
-URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
- 10989
 CATEGORIES:Streethockey\,Challenge League
 STATUS:CONFIRMED
 SEQUENCE:0

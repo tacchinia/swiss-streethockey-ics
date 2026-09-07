@@ -159,6 +159,132 @@ LAST-MODIFIED:20260902T085415Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:11392-2111@swiss-streethockey-ics
+DTSTAMP:20260907T092006Z
+DTSTART;TZID=Europe/Zurich:20261107T093000
+DTEND;TZID=Europe/Zurich:20261107T104000
+SUMMARY:SHC Valais U12 vs SHC Erlinsbach U12
+LOCATION:Dorénaz\, Suisse
+DESCRIPTION:Ligue: Terrain réduit U12\nDomicile: SHC Valais U12\nVisiteurs
+ : SHC Erlinsbach U12\nLieu du match: Dorénaz\nDétails: https://www.swiss
+ -streethockey.ch/fr/game-center/game-details/?spielnr=11392
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11392
+CATEGORIES:Streethockey\,Terrain réduit U12
+STATUS:CONFIRMED
+SEQUENCE:1
+LAST-MODIFIED:20260907T092006Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11393-2111@swiss-streethockey-ics
+DTSTAMP:20260907T092006Z
+DTSTART;TZID=Europe/Zurich:20261107T104000
+DTEND;TZID=Europe/Zurich:20261107T115000
+SUMMARY:SHC Bettlach U12 vs SHC Aegerten-Brügg U12
+LOCATION:Dorénaz\, Suisse
+DESCRIPTION:Ligue: Terrain réduit U12\nDomicile: SHC Bettlach U12\nVisiteu
+ rs: SHC Aegerten-Brügg U12\nLieu du match: Dorénaz\nDétails: https://ww
+ w.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11393
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11393
+CATEGORIES:Streethockey\,Terrain réduit U12
+STATUS:CONFIRMED
+SEQUENCE:1
+LAST-MODIFIED:20260907T092006Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11394-2111@swiss-streethockey-ics
+DTSTAMP:20260907T092006Z
+DTSTART;TZID=Europe/Zurich:20261107T115000
+DTEND;TZID=Europe/Zurich:20261107T130000
+SUMMARY:SHC Martigny U12 vs SHC La Chaux-de-Fonds U12
+LOCATION:Dorénaz\, Suisse
+DESCRIPTION:Ligue: Terrain réduit U12\nDomicile: SHC Martigny U12\nVisiteu
+ rs: SHC La Chaux-de-Fonds U12\nLieu du match: Dorénaz\nDétails: https://
+ www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11394
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11394
+CATEGORIES:Streethockey\,Terrain réduit U12
+STATUS:CONFIRMED
+SEQUENCE:1
+LAST-MODIFIED:20260907T092006Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11395-2111@swiss-streethockey-ics
+DTSTAMP:20260907T092006Z
+DTSTART;TZID=Europe/Zurich:20261107T130000
+DTEND;TZID=Europe/Zurich:20261107T141000
+SUMMARY:SHC Erlinsbach U12 vs SHC Bettlach U12
+LOCATION:Dorénaz\, Suisse
+DESCRIPTION:Ligue: Terrain réduit U12\nDomicile: SHC Erlinsbach U12\nVisit
+ eurs: SHC Bettlach U12\nLieu du match: Dorénaz\nDétails: https://www.swi
+ ss-streethockey.ch/fr/game-center/game-details/?spielnr=11395
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11395
+CATEGORIES:Streethockey\,Terrain réduit U12
+STATUS:CONFIRMED
+SEQUENCE:1
+LAST-MODIFIED:20260907T092006Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11396-2111@swiss-streethockey-ics
+DTSTAMP:20260907T092006Z
+DTSTART;TZID=Europe/Zurich:20261107T141000
+DTEND;TZID=Europe/Zurich:20261107T152000
+SUMMARY:SHC Valais U12 vs SHC La Chaux-de-Fonds U12
+LOCATION:Dorénaz\, Suisse
+DESCRIPTION:Ligue: Terrain réduit U12\nDomicile: SHC Valais U12\nVisiteurs
+ : SHC La Chaux-de-Fonds U12\nLieu du match: Dorénaz\nDétails: https://ww
+ w.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11396
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11396
+CATEGORIES:Streethockey\,Terrain réduit U12
+STATUS:CONFIRMED
+SEQUENCE:1
+LAST-MODIFIED:20260907T092006Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11397-2111@swiss-streethockey-ics
+DTSTAMP:20260907T092006Z
+DTSTART;TZID=Europe/Zurich:20261107T152000
+DTEND;TZID=Europe/Zurich:20261107T163000
+SUMMARY:SHC Martigny U12 vs SHC Aegerten-Brügg U12
+LOCATION:Dorénaz\, Suisse
+DESCRIPTION:Ligue: Terrain réduit U12\nDomicile: SHC Martigny U12\nVisiteu
+ rs: SHC Aegerten-Brügg U12\nLieu du match: Dorénaz\nDétails: https://ww
+ w.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11397
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11397
+CATEGORIES:Streethockey\,Terrain réduit U12
+STATUS:CONFIRMED
+SEQUENCE:1
+LAST-MODIFIED:20260907T092006Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11398-2111@swiss-streethockey-ics
+DTSTAMP:20260907T092006Z
+DTSTART;TZID=Europe/Zurich:20261107T163000
+DTEND;TZID=Europe/Zurich:20261107T174000
+SUMMARY:SHC Valais U12 vs SHC Bettlach U12
+LOCATION:Dorénaz\, Suisse
+DESCRIPTION:Ligue: Terrain réduit U12\nDomicile: SHC Valais U12\nVisiteurs
+ : SHC Bettlach U12\nLieu du match: Dorénaz\nDétails: https://www.swiss-s
+ treethockey.ch/fr/game-center/game-details/?spielnr=11398
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11398
+CATEGORIES:Streethockey\,Terrain réduit U12
+STATUS:CONFIRMED
+SEQUENCE:1
+LAST-MODIFIED:20260907T092006Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:11374-2111@swiss-streethockey-ics
 DTSTAMP:20260902T085415Z
 DTSTART;TZID=Europe/Zurich:20261129T100000
@@ -713,132 +839,6 @@ DESCRIPTION:Ligue: Terrain réduit U12\nDomicile: SHC Martigny U12\nVisiteu
  wiss-streethockey.ch/fr/game-center/game-details/?spielnr=11405
 URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
  11405
-CATEGORIES:Streethockey\,Terrain réduit U12
-STATUS:CONFIRMED
-SEQUENCE:0
-LAST-MODIFIED:20260902T085415Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:11392-2111@swiss-streethockey-ics
-DTSTAMP:20260902T085415Z
-DTSTART;TZID=Europe/Zurich:20271107T093000
-DTEND;TZID=Europe/Zurich:20271107T104000
-SUMMARY:SHC Valais U12 vs SHC Erlinsbach U12
-LOCATION:Dorénaz\, Suisse
-DESCRIPTION:Ligue: Terrain réduit U12\nDomicile: SHC Valais U12\nVisiteurs
- : SHC Erlinsbach U12\nLieu du match: Dorénaz\nDétails: https://www.swiss
- -streethockey.ch/fr/game-center/game-details/?spielnr=11392
-URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
- 11392
-CATEGORIES:Streethockey\,Terrain réduit U12
-STATUS:CONFIRMED
-SEQUENCE:0
-LAST-MODIFIED:20260902T085415Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:11393-2111@swiss-streethockey-ics
-DTSTAMP:20260902T085415Z
-DTSTART;TZID=Europe/Zurich:20271107T104000
-DTEND;TZID=Europe/Zurich:20271107T115000
-SUMMARY:SHC Bettlach U12 vs SHC Aegerten-Brügg U12
-LOCATION:Dorénaz\, Suisse
-DESCRIPTION:Ligue: Terrain réduit U12\nDomicile: SHC Bettlach U12\nVisiteu
- rs: SHC Aegerten-Brügg U12\nLieu du match: Dorénaz\nDétails: https://ww
- w.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11393
-URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
- 11393
-CATEGORIES:Streethockey\,Terrain réduit U12
-STATUS:CONFIRMED
-SEQUENCE:0
-LAST-MODIFIED:20260902T085415Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:11394-2111@swiss-streethockey-ics
-DTSTAMP:20260902T085415Z
-DTSTART;TZID=Europe/Zurich:20271107T115000
-DTEND;TZID=Europe/Zurich:20271107T130000
-SUMMARY:SHC Martigny U12 vs SHC La Chaux-de-Fonds U12
-LOCATION:Dorénaz\, Suisse
-DESCRIPTION:Ligue: Terrain réduit U12\nDomicile: SHC Martigny U12\nVisiteu
- rs: SHC La Chaux-de-Fonds U12\nLieu du match: Dorénaz\nDétails: https://
- www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11394
-URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
- 11394
-CATEGORIES:Streethockey\,Terrain réduit U12
-STATUS:CONFIRMED
-SEQUENCE:0
-LAST-MODIFIED:20260902T085415Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:11395-2111@swiss-streethockey-ics
-DTSTAMP:20260902T085415Z
-DTSTART;TZID=Europe/Zurich:20271107T130000
-DTEND;TZID=Europe/Zurich:20271107T141000
-SUMMARY:SHC Erlinsbach U12 vs SHC Bettlach U12
-LOCATION:Dorénaz\, Suisse
-DESCRIPTION:Ligue: Terrain réduit U12\nDomicile: SHC Erlinsbach U12\nVisit
- eurs: SHC Bettlach U12\nLieu du match: Dorénaz\nDétails: https://www.swi
- ss-streethockey.ch/fr/game-center/game-details/?spielnr=11395
-URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
- 11395
-CATEGORIES:Streethockey\,Terrain réduit U12
-STATUS:CONFIRMED
-SEQUENCE:0
-LAST-MODIFIED:20260902T085415Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:11396-2111@swiss-streethockey-ics
-DTSTAMP:20260902T085415Z
-DTSTART;TZID=Europe/Zurich:20271107T141000
-DTEND;TZID=Europe/Zurich:20271107T152000
-SUMMARY:SHC Valais U12 vs SHC La Chaux-de-Fonds U12
-LOCATION:Dorénaz\, Suisse
-DESCRIPTION:Ligue: Terrain réduit U12\nDomicile: SHC Valais U12\nVisiteurs
- : SHC La Chaux-de-Fonds U12\nLieu du match: Dorénaz\nDétails: https://ww
- w.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11396
-URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
- 11396
-CATEGORIES:Streethockey\,Terrain réduit U12
-STATUS:CONFIRMED
-SEQUENCE:0
-LAST-MODIFIED:20260902T085415Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:11397-2111@swiss-streethockey-ics
-DTSTAMP:20260902T085415Z
-DTSTART;TZID=Europe/Zurich:20271107T152000
-DTEND;TZID=Europe/Zurich:20271107T163000
-SUMMARY:SHC Martigny U12 vs SHC Aegerten-Brügg U12
-LOCATION:Dorénaz\, Suisse
-DESCRIPTION:Ligue: Terrain réduit U12\nDomicile: SHC Martigny U12\nVisiteu
- rs: SHC Aegerten-Brügg U12\nLieu du match: Dorénaz\nDétails: https://ww
- w.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11397
-URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
- 11397
-CATEGORIES:Streethockey\,Terrain réduit U12
-STATUS:CONFIRMED
-SEQUENCE:0
-LAST-MODIFIED:20260902T085415Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:11398-2111@swiss-streethockey-ics
-DTSTAMP:20260902T085415Z
-DTSTART;TZID=Europe/Zurich:20271107T163000
-DTEND;TZID=Europe/Zurich:20271107T174000
-SUMMARY:SHC Valais U12 vs SHC Bettlach U12
-LOCATION:Dorénaz\, Suisse
-DESCRIPTION:Ligue: Terrain réduit U12\nDomicile: SHC Valais U12\nVisiteurs
- : SHC Bettlach U12\nLieu du match: Dorénaz\nDétails: https://www.swiss-s
- treethockey.ch/fr/game-center/game-details/?spielnr=11398
-URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
- 11398
 CATEGORIES:Streethockey\,Terrain réduit U12
 STATUS:CONFIRMED
 SEQUENCE:0

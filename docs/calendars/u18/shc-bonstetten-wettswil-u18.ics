@@ -46,24 +46,6 @@ LAST-MODIFIED:20260902T085415Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:10997-296@swiss-streethockey-ics
-DTSTAMP:20260902T085415Z
-DTSTART;TZID=Europe/Zurich:20260926T103000
-DTEND;TZID=Europe/Zurich:20260926T123000
-SUMMARY:SHC Bonstetten-Wettswil U18 vs SHC Belpa 1107 U18
-LOCATION:Wettswil\, Suisse
-DESCRIPTION:Ligue: U18\nDomicile: SHC Bonstetten-Wettswil U18\nVisiteurs: S
- HC Belpa 1107 U18\nLieu du match: Wettswil\nDétails: https://www.swiss-st
- reethockey.ch/fr/game-center/game-details/?spielnr=10997
-URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
- 10997
-CATEGORIES:Streethockey\,U18
-STATUS:CONFIRMED
-SEQUENCE:0
-LAST-MODIFIED:20260902T085415Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:11005-296@swiss-streethockey-ics
 DTSTAMP:20260902T085415Z
 DTSTART;TZID=Europe/Zurich:20261010T140000
@@ -225,6 +207,24 @@ CATEGORIES:Streethockey\,U18
 STATUS:CONFIRMED
 SEQUENCE:0
 LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:10997-296@swiss-streethockey-ics
+DTSTAMP:20260907T092006Z
+DTSTART;TZID=Europe/Zurich:20261205T140000
+DTEND;TZID=Europe/Zurich:20261205T160000
+SUMMARY:SHC Bonstetten-Wettswil U18 vs SHC Belpa 1107 U18
+LOCATION:Wettswil\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: SHC Bonstetten-Wettswil U18\nVisiteurs: S
+ HC Belpa 1107 U18\nLieu du match: Wettswil\nDétails: https://www.swiss-st
+ reethockey.ch/fr/game-center/game-details/?spielnr=10997
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 10997
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:1
+LAST-MODIFIED:20260907T092006Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT

@@ -82,6 +82,42 @@ LAST-MODIFIED:20260902T085415Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:11394-298@swiss-streethockey-ics
+DTSTAMP:20260907T092006Z
+DTSTART;TZID=Europe/Zurich:20261107T115000
+DTEND;TZID=Europe/Zurich:20261107T130000
+SUMMARY:SHC Martigny U12 vs SHC La Chaux-de-Fonds U12
+LOCATION:Dorénaz\, Suisse
+DESCRIPTION:Ligue: U12\nDomicile: SHC Martigny U12\nVisiteurs: SHC La Chaux
+ -de-Fonds U12\nLieu du match: Dorénaz\nDétails: https://www.swiss-street
+ hockey.ch/fr/game-center/game-details/?spielnr=11394
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11394
+CATEGORIES:Streethockey\,U12
+STATUS:CONFIRMED
+SEQUENCE:1
+LAST-MODIFIED:20260907T092006Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11396-298@swiss-streethockey-ics
+DTSTAMP:20260907T092006Z
+DTSTART;TZID=Europe/Zurich:20261107T141000
+DTEND;TZID=Europe/Zurich:20261107T152000
+SUMMARY:SHC Valais U12 vs SHC La Chaux-de-Fonds U12
+LOCATION:Dorénaz\, Suisse
+DESCRIPTION:Ligue: U12\nDomicile: SHC Valais U12\nVisiteurs: SHC La Chaux-d
+ e-Fonds U12\nLieu du match: Dorénaz\nDétails: https://www.swiss-streetho
+ ckey.ch/fr/game-center/game-details/?spielnr=11396
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11396
+CATEGORIES:Streethockey\,U12
+STATUS:CONFIRMED
+SEQUENCE:1
+LAST-MODIFIED:20260907T092006Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:11376-298@swiss-streethockey-ics
 DTSTAMP:20260902T085415Z
 DTSTART;TZID=Europe/Zurich:20261129T122000
@@ -255,42 +291,6 @@ DESCRIPTION:Ligue: U12\nDomicile: SHC Erlinsbach U12\nVisiteurs: SHC La Cha
  reethockey.ch/fr/game-center/game-details/?spielnr=11402
 URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
  11402
-CATEGORIES:Streethockey\,U12
-STATUS:CONFIRMED
-SEQUENCE:0
-LAST-MODIFIED:20260902T085415Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:11394-298@swiss-streethockey-ics
-DTSTAMP:20260902T085415Z
-DTSTART;TZID=Europe/Zurich:20271107T115000
-DTEND;TZID=Europe/Zurich:20271107T130000
-SUMMARY:SHC Martigny U12 vs SHC La Chaux-de-Fonds U12
-LOCATION:Dorénaz\, Suisse
-DESCRIPTION:Ligue: U12\nDomicile: SHC Martigny U12\nVisiteurs: SHC La Chaux
- -de-Fonds U12\nLieu du match: Dorénaz\nDétails: https://www.swiss-street
- hockey.ch/fr/game-center/game-details/?spielnr=11394
-URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
- 11394
-CATEGORIES:Streethockey\,U12
-STATUS:CONFIRMED
-SEQUENCE:0
-LAST-MODIFIED:20260902T085415Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:11396-298@swiss-streethockey-ics
-DTSTAMP:20260902T085415Z
-DTSTART;TZID=Europe/Zurich:20271107T141000
-DTEND;TZID=Europe/Zurich:20271107T152000
-SUMMARY:SHC Valais U12 vs SHC La Chaux-de-Fonds U12
-LOCATION:Dorénaz\, Suisse
-DESCRIPTION:Ligue: U12\nDomicile: SHC Valais U12\nVisiteurs: SHC La Chaux-d
- e-Fonds U12\nLieu du match: Dorénaz\nDétails: https://www.swiss-streetho
- ckey.ch/fr/game-center/game-details/?spielnr=11396
-URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
- 11396
 CATEGORIES:Streethockey\,U12
 STATUS:CONFIRMED
 SEQUENCE:0
