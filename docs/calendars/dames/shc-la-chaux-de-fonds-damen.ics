@@ -48,9 +48,9 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:11087-295@swiss-streethockey-ics
-DTSTAMP:20260902T085415Z
-DTSTART;TZID=Europe/Zurich:20260927T140000
-DTEND;TZID=Europe/Zurich:20260927T160000
+DTSTAMP:20260914T095110Z
+DTSTART;TZID=Europe/Zurich:20261004T140000
+DTEND;TZID=Europe/Zurich:20261004T160000
 SUMMARY:SHC La Chaux-de-Fonds Damen vs SHC Belpa 1107 Damen
 LOCATION:La Chaux-de-Fonds\, Suisse
 DESCRIPTION:Ligue: Dames\nDomicile: SHC La Chaux-de-Fonds Damen\nVisiteurs:
@@ -60,26 +60,8 @@ URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
  11087
 CATEGORIES:Streethockey\,Dames
 STATUS:CONFIRMED
-SEQUENCE:0
-LAST-MODIFIED:20260902T085415Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:11093-295@swiss-streethockey-ics
-DTSTAMP:20260902T085415Z
-DTSTART;TZID=Europe/Zurich:20261018T140000
-DTEND;TZID=Europe/Zurich:20261018T160000
-SUMMARY:Horgenberg Hammers Damen vs SHC La Chaux-de-Fonds Damen
-LOCATION:Horgen\, Suisse
-DESCRIPTION:Ligue: Dames\nDomicile: Horgenberg Hammers Damen\nVisiteurs: SH
- C La Chaux-de-Fonds Damen\nLieu du match: Horgen\nDétails: https://www.sw
- iss-streethockey.ch/fr/game-center/game-details/?spielnr=11093
-URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
- 11093
-CATEGORIES:Streethockey\,Dames
-STATUS:CONFIRMED
-SEQUENCE:0
-LAST-MODIFIED:20260902T085415Z
+SEQUENCE:1
+LAST-MODIFIED:20260914T095110Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -118,6 +100,24 @@ CATEGORIES:Streethockey\,Dames
 STATUS:CONFIRMED
 SEQUENCE:0
 LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11093-295@swiss-streethockey-ics
+DTSTAMP:20260914T095110Z
+DTSTART;TZID=Europe/Zurich:20261107T103000
+DTEND;TZID=Europe/Zurich:20261107T123000
+SUMMARY:Horgenberg Hammers Damen vs SHC La Chaux-de-Fonds Damen
+LOCATION:Horgen\, Suisse
+DESCRIPTION:Ligue: Dames\nDomicile: Horgenberg Hammers Damen\nVisiteurs: SH
+ C La Chaux-de-Fonds Damen\nLieu du match: Horgen\nDétails: https://www.sw
+ iss-streethockey.ch/fr/game-center/game-details/?spielnr=11093
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11093
+CATEGORIES:Streethockey\,Dames
+STATUS:CONFIRMED
+SEQUENCE:1
+LAST-MODIFIED:20260914T095110Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT

@@ -101,25 +101,6 @@ LAST-MODIFIED:20260902T085415Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:10889-292@swiss-streethockey-ics
-DTSTAMP:20260902T085415Z
-DTSTART;TZID=Europe/Zurich:20261003T140000
-DTEND;TZID=Europe/Zurich:20261003T160000
-SUMMARY:SHC La Chaux-de-Fonds 1 vs Horgenberg Hammers 1
-LOCATION:La Chaux-de-Fonds\, Suisse
-DESCRIPTION:Ligue: National League\nDomicile: SHC La Chaux-de-Fonds 1\nVisi
- teurs: Horgenberg Hammers 1\nLieu du match: La Chaux-de-Fonds\nDétails: h
- ttps://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=1088
- 9
-URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
- 10889
-CATEGORIES:Streethockey\,National League
-STATUS:CONFIRMED
-SEQUENCE:0
-LAST-MODIFIED:20260902T085415Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:10896-292@swiss-streethockey-ics
 DTSTAMP:20260902T085415Z
 DTSTART;TZID=Europe/Zurich:20261009T200000
@@ -352,6 +333,25 @@ CATEGORIES:Streethockey\,National League
 STATUS:CONFIRMED
 SEQUENCE:0
 LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:10889-292@swiss-streethockey-ics
+DTSTAMP:20260914T095110Z
+DTSTART;TZID=Europe/Zurich:20270227T140000
+DTEND;TZID=Europe/Zurich:20270227T160000
+SUMMARY:SHC La Chaux-de-Fonds 1 vs Horgenberg Hammers 1
+LOCATION:La Chaux-de-Fonds\, Suisse
+DESCRIPTION:Ligue: National League\nDomicile: SHC La Chaux-de-Fonds 1\nVisi
+ teurs: Horgenberg Hammers 1\nLieu du match: La Chaux-de-Fonds\nDétails: h
+ ttps://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=1088
+ 9
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 10889
+CATEGORIES:Streethockey\,National League
+STATUS:CONFIRMED
+SEQUENCE:1
+LAST-MODIFIED:20260914T095110Z
 TRANSP:OPAQUE
 END:VEVENT
 END:VCALENDAR

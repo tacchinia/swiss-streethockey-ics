@@ -1458,22 +1458,6 @@
    "first_seen": "2026-09-02T08:54:15Z",
    "last_modified": "2026-09-02T08:54:15Z"
   },
-  "295-11087": {
-   "key": "295-11087",
-   "game_id": "11087",
-   "league_id": "295",
-   "league_name": "Dames",
-   "season": "2026-2027",
-   "start": "2026-09-27T14:00:00",
-   "home": "SHC La Chaux-de-Fonds Damen",
-   "guest": "SHC Belpa 1107 Damen",
-   "venue": "La Chaux-de-Fonds",
-   "url": "https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11087",
-   "status": "confirmed",
-   "sequence": 0,
-   "first_seen": "2026-09-02T08:54:15Z",
-   "last_modified": "2026-09-02T08:54:15Z"
-  },
   "296-11001": {
    "key": "296-11001",
    "game_id": "11001",
@@ -1554,22 +1538,6 @@
    "first_seen": "2026-09-02T08:54:15Z",
    "last_modified": "2026-09-02T08:54:15Z"
   },
-  "292-10889": {
-   "key": "292-10889",
-   "game_id": "10889",
-   "league_id": "292",
-   "league_name": "National League",
-   "season": "2026-2027",
-   "start": "2026-10-03T14:00:00",
-   "home": "SHC La Chaux-de-Fonds 1",
-   "guest": "Horgenberg Hammers 1",
-   "venue": "La Chaux-de-Fonds",
-   "url": "https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=10889",
-   "status": "confirmed",
-   "sequence": 0,
-   "first_seen": "2026-09-02T08:54:15Z",
-   "last_modified": "2026-09-02T08:54:15Z"
-  },
   "292-10890": {
    "key": "292-10890",
    "game_id": "10890",
@@ -1601,6 +1569,22 @@
    "sequence": 0,
    "first_seen": "2026-09-02T08:54:15Z",
    "last_modified": "2026-09-02T08:54:15Z"
+  },
+  "295-11087": {
+   "key": "295-11087",
+   "game_id": "11087",
+   "league_id": "295",
+   "league_name": "Dames",
+   "season": "2026-2027",
+   "start": "2026-10-04T14:00:00",
+   "home": "SHC La Chaux-de-Fonds Damen",
+   "guest": "SHC Belpa 1107 Damen",
+   "venue": "La Chaux-de-Fonds",
+   "url": "https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11087",
+   "status": "confirmed",
+   "sequence": 1,
+   "first_seen": "2026-09-02T08:54:15Z",
+   "last_modified": "2026-09-14T09:51:10Z"
   },
   "291-10965": {
    "key": "291-10965",
@@ -2509,22 +2493,6 @@
    "guest": "Sierre Lions 1",
    "venue": "Gals",
    "url": "https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=10906",
-   "status": "confirmed",
-   "sequence": 0,
-   "first_seen": "2026-09-02T08:54:15Z",
-   "last_modified": "2026-09-02T08:54:15Z"
-  },
-  "295-11093": {
-   "key": "295-11093",
-   "game_id": "11093",
-   "league_id": "295",
-   "league_name": "Dames",
-   "season": "2026-2027",
-   "start": "2026-10-18T14:00:00",
-   "home": "Horgenberg Hammers Damen",
-   "guest": "SHC La Chaux-de-Fonds Damen",
-   "venue": "Horgen",
-   "url": "https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11093",
    "status": "confirmed",
    "sequence": 0,
    "first_seen": "2026-09-02T08:54:15Z",
@@ -4689,6 +4657,22 @@
    "sequence": 1,
    "first_seen": "2026-09-02T08:54:15Z",
    "last_modified": "2026-09-07T09:20:06Z"
+  },
+  "295-11093": {
+   "key": "295-11093",
+   "game_id": "11093",
+   "league_id": "295",
+   "league_name": "Dames",
+   "season": "2026-2027",
+   "start": "2026-11-07T10:30:00",
+   "home": "Horgenberg Hammers Damen",
+   "guest": "SHC La Chaux-de-Fonds Damen",
+   "venue": "Horgen",
+   "url": "https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11093",
+   "status": "confirmed",
+   "sequence": 1,
+   "first_seen": "2026-09-02T08:54:15Z",
+   "last_modified": "2026-09-14T09:51:10Z"
   },
   "298-11393": {
    "key": "298-11393",
@@ -11778,22 +11762,6 @@
    "first_seen": "2026-09-02T08:54:15Z",
    "last_modified": "2026-09-02T08:54:15Z"
   },
-  "295-11113": {
-   "key": "295-11113",
-   "game_id": "11113",
-   "league_id": "295",
-   "league_name": "Dames",
-   "season": "2026-2027",
-   "start": "2027-02-06T14:00:00",
-   "home": "SHC Valais Femmes",
-   "guest": "SHC Belpa 1107 Damen",
-   "venue": "Dorenaz",
-   "url": "https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11113",
-   "status": "confirmed",
-   "sequence": 1,
-   "first_seen": "2026-09-02T08:54:15Z",
-   "last_modified": "2026-09-07T09:20:06Z"
-  },
   "291-10987": {
    "key": "291-10987",
    "game_id": "10987",
@@ -11873,6 +11841,22 @@
    "sequence": 0,
    "first_seen": "2026-09-02T08:54:15Z",
    "last_modified": "2026-09-02T08:54:15Z"
+  },
+  "295-11113": {
+   "key": "295-11113",
+   "game_id": "11113",
+   "league_id": "295",
+   "league_name": "Dames",
+   "season": "2026-2027",
+   "start": "2027-02-13T14:00:00",
+   "home": "SHC Valais Femmes",
+   "guest": "SHC Belpa 1107 Damen",
+   "venue": "Dorenaz",
+   "url": "https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11113",
+   "status": "confirmed",
+   "sequence": 2,
+   "first_seen": "2026-09-02T08:54:15Z",
+   "last_modified": "2026-09-14T09:51:10Z"
   },
   "295-11082": {
    "key": "295-11082",
@@ -12609,6 +12593,22 @@
    "sequence": 0,
    "first_seen": "2026-09-02T08:54:15Z",
    "last_modified": "2026-09-02T08:54:15Z"
+  },
+  "292-10889": {
+   "key": "292-10889",
+   "game_id": "10889",
+   "league_id": "292",
+   "league_name": "National League",
+   "season": "2026-2027",
+   "start": "2027-02-27T14:00:00",
+   "home": "SHC La Chaux-de-Fonds 1",
+   "guest": "Horgenberg Hammers 1",
+   "venue": "La Chaux-de-Fonds",
+   "url": "https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=10889",
+   "status": "confirmed",
+   "sequence": 1,
+   "first_seen": "2026-09-02T08:54:15Z",
+   "last_modified": "2026-09-14T09:51:10Z"
   },
   "291-10976": {
    "key": "291-10976",
@@ -17043,6 +17043,6 @@
    "last_modified": "2026-09-02T08:54:15Z"
   }
  },
- "scraped_at": "2026-09-07T09:20:06Z",
+ "scraped_at": "2026-09-14T09:51:10Z",
  "source": "https://www.swiss-streethockey.ch/fr/game-center/prochains-matchs/"
 }
