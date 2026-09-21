@@ -119,9 +119,9 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:11106-295@swiss-streethockey-ics
-DTSTAMP:20260902T085415Z
-DTSTART;TZID=Europe/Zurich:20261115T140000
-DTEND;TZID=Europe/Zurich:20261115T160000
+DTSTAMP:20260921T095547Z
+DTSTART;TZID=Europe/Zurich:20261113T200000
+DTEND;TZID=Europe/Zurich:20261113T220000
 SUMMARY:SHC Belpa 1107 Damen vs SHC La Chaux-de-Fonds Damen
 LOCATION:Belp\, Suisse
 DESCRIPTION:Ligue: Dames\nDomicile: SHC Belpa 1107 Damen\nVisiteurs: SHC La
@@ -131,8 +131,8 @@ URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
  11106
 CATEGORIES:Streethockey\,Dames
 STATUS:CONFIRMED
-SEQUENCE:0
-LAST-MODIFIED:20260902T085415Z
+SEQUENCE:1
+LAST-MODIFIED:20260921T095547Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -173,6 +173,24 @@ LAST-MODIFIED:20260902T085415Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:11113-295@swiss-streethockey-ics
+DTSTAMP:20260921T095547Z
+DTSTART;TZID=Europe/Zurich:20270131T140000
+DTEND;TZID=Europe/Zurich:20270131T160000
+SUMMARY:SHC Valais Femmes vs SHC Belpa 1107 Damen
+LOCATION:Sierre\, Suisse
+DESCRIPTION:Ligue: Dames\nDomicile: SHC Valais Femmes\nVisiteurs: SHC Belpa
+  1107 Damen\nLieu du match: Sierre\nDétails: https://www.swiss-streethock
+ ey.ch/fr/game-center/game-details/?spielnr=11113
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11113
+CATEGORIES:Streethockey\,Dames
+STATUS:CONFIRMED
+SEQUENCE:3
+LAST-MODIFIED:20260921T095547Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:11082-295@swiss-streethockey-ics
 DTSTAMP:20260907T092006Z
 DTSTART;TZID=Europe/Zurich:20270213T140000
@@ -188,24 +206,6 @@ CATEGORIES:Streethockey\,Dames
 STATUS:CONFIRMED
 SEQUENCE:1
 LAST-MODIFIED:20260907T092006Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:11113-295@swiss-streethockey-ics
-DTSTAMP:20260914T095110Z
-DTSTART;TZID=Europe/Zurich:20270213T140000
-DTEND;TZID=Europe/Zurich:20270213T160000
-SUMMARY:SHC Valais Femmes vs SHC Belpa 1107 Damen
-LOCATION:Dorénaz\, Suisse
-DESCRIPTION:Ligue: Dames\nDomicile: SHC Valais Femmes\nVisiteurs: SHC Belpa
-  1107 Damen\nLieu du match: Dorénaz\nDétails: https://www.swiss-streetho
- ckey.ch/fr/game-center/game-details/?spielnr=11113
-URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
- 11113
-CATEGORIES:Streethockey\,Dames
-STATUS:CONFIRMED
-SEQUENCE:2
-LAST-MODIFIED:20260914T095110Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT

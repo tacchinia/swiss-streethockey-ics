@@ -129,20 +129,20 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:11104-295@swiss-streethockey-ics
-DTSTAMP:20260902T085415Z
+DTSTAMP:20260921T095547Z
 DTSTART;TZID=Europe/Zurich:20261114T103000
 DTEND;TZID=Europe/Zurich:20261114T123000
 SUMMARY:SHC Valais Femmes vs SHC Bulldozers Kernenried-Zauggenried Damen
-LOCATION:Dorénaz\, Suisse
+LOCATION:Sierre\, Suisse
 DESCRIPTION:Ligue: Dames\nDomicile: SHC Valais Femmes\nVisiteurs: SHC Bulld
- ozers Kernenried-Zauggenried Damen\nLieu du match: Dorénaz\nDétails: htt
- ps://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11104
+ ozers Kernenried-Zauggenried Damen\nLieu du match: Sierre\nDétails: https
+ ://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11104
 URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
  11104
 CATEGORIES:Streethockey\,Dames
 STATUS:CONFIRMED
-SEQUENCE:0
-LAST-MODIFIED:20260902T085415Z
+SEQUENCE:1
+LAST-MODIFIED:20260921T095547Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT

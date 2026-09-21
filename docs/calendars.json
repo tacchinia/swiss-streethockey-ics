@@ -1,5 +1,5 @@
 {
- "scraped_at": "2026-09-14T09:51:10Z",
+ "scraped_at": "2026-09-21T09:55:47Z",
  "source": "https://www.swiss-streethockey.ch/fr/game-center/prochains-matchs/",
  "timezone": "Europe/Zurich",
  "seasons": [
@@ -29,8 +29,8 @@
      "slug": "shc-bulldozers-kernenried-zauggenried-2",
      "path": "calendars/challenge-league/shc-bulldozers-kernenried-zauggenried-2.ics",
      "games": 12,
-     "upcoming": 12,
-     "next": "2026-09-19T14:00:00"
+     "upcoming": 11,
+     "next": "2026-09-27T14:00:00"
     },
     {
      "name": "SHC Erlinsbach 1",
@@ -45,8 +45,8 @@
      "slug": "shc-grenchen-limpachtal-2",
      "path": "calendars/challenge-league/shc-grenchen-limpachtal-2.ics",
      "games": 12,
-     "upcoming": 12,
-     "next": "2026-09-19T14:00:00"
+     "upcoming": 11,
+     "next": "2026-09-26T14:00:00"
     },
     {
      "name": "SHC Martigny 1",
@@ -72,80 +72,80 @@
      "slug": "horgenberg-hammers-1",
      "path": "calendars/national-league/horgenberg-hammers-1.ics",
      "games": 18,
-     "upcoming": 18,
-     "next": "2026-09-19T14:00:00"
+     "upcoming": 16,
+     "next": "2026-09-27T14:00:00"
     },
     {
      "name": "Oberwil Rebells 1",
      "slug": "oberwil-rebells-1",
      "path": "calendars/national-league/oberwil-rebells-1.ics",
      "games": 18,
-     "upcoming": 18,
-     "next": "2026-09-19T14:00:00"
+     "upcoming": 17,
+     "next": "2026-09-26T14:00:00"
     },
     {
      "name": "Oberwil Rebells 2",
      "slug": "oberwil-rebells-2",
      "path": "calendars/national-league/oberwil-rebells-2.ics",
      "games": 18,
-     "upcoming": 18,
-     "next": "2026-09-19T17:00:00"
+     "upcoming": 17,
+     "next": "2026-09-26T14:00:00"
     },
     {
      "name": "SHC Bettlach 1",
      "slug": "shc-bettlach-1",
      "path": "calendars/national-league/shc-bettlach-1.ics",
      "games": 18,
-     "upcoming": 18,
-     "next": "2026-09-20T14:00:00"
+     "upcoming": 17,
+     "next": "2026-09-26T14:00:00"
     },
     {
      "name": "SHC Bonstetten-Wettswil 1",
      "slug": "shc-bonstetten-wettswil-1",
      "path": "calendars/national-league/shc-bonstetten-wettswil-1.ics",
      "games": 18,
-     "upcoming": 18,
-     "next": "2026-09-20T14:00:00"
+     "upcoming": 17,
+     "next": "2026-09-26T14:00:00"
     },
     {
      "name": "SHC Bulldozers Kernenried-Zauggenried 1",
      "slug": "shc-bulldozers-kernenried-zauggenried-1",
      "path": "calendars/national-league/shc-bulldozers-kernenried-zauggenried-1.ics",
      "games": 18,
-     "upcoming": 18,
-     "next": "2026-09-19T14:00:00"
+     "upcoming": 16,
+     "next": "2026-09-26T14:00:00"
     },
     {
      "name": "SHC Grenchen-Limpachtal 1",
      "slug": "shc-grenchen-limpachtal-1",
      "path": "calendars/national-league/shc-grenchen-limpachtal-1.ics",
      "games": 18,
-     "upcoming": 18,
-     "next": "2026-09-19T17:00:00"
+     "upcoming": 16,
+     "next": "2026-09-26T14:00:00"
     },
     {
      "name": "SHC La Chaux-de-Fonds 1",
      "slug": "shc-la-chaux-de-fonds-1",
      "path": "calendars/national-league/shc-la-chaux-de-fonds-1.ics",
      "games": 18,
-     "upcoming": 18,
-     "next": "2026-09-20T14:00:00"
+     "upcoming": 17,
+     "next": "2026-10-04T14:00:00"
     },
     {
      "name": "Sierre Lions 1",
      "slug": "sierre-lions-1",
      "path": "calendars/national-league/sierre-lions-1.ics",
      "games": 18,
-     "upcoming": 18,
-     "next": "2026-09-20T14:00:00"
+     "upcoming": 17,
+     "next": "2026-09-27T14:00:00"
     },
     {
      "name": "SV Gals 1",
      "slug": "sv-gals-1",
      "path": "calendars/national-league/sv-gals-1.ics",
      "games": 18,
-     "upcoming": 18,
-     "next": "2026-09-19T14:00:00"
+     "upcoming": 16,
+     "next": "2026-10-09T20:00:00"
     }
    ],
    "path": "calendars/national-league/all-teams.ics"
@@ -508,8 +508,8 @@
      "slug": "shc-bettlach-seetal-damen",
      "path": "calendars/dames/shc-bettlach-seetal-damen.ics",
      "games": 12,
-     "upcoming": 12,
-     "next": "2026-09-20T14:00:00"
+     "upcoming": 11,
+     "next": "2026-09-25T20:00:00"
     },
     {
      "name": "SHC Bulldozers Kernenried-Zauggenried Damen",
@@ -524,24 +524,24 @@
      "slug": "shc-grenchen-limpachtal-damen",
      "path": "calendars/dames/shc-grenchen-limpachtal-damen.ics",
      "games": 12,
-     "upcoming": 12,
-     "next": "2026-09-20T14:00:00"
+     "upcoming": 11,
+     "next": "2026-09-25T20:00:00"
     },
     {
      "name": "SHC La Chaux-de-Fonds Damen",
      "slug": "shc-la-chaux-de-fonds-damen",
      "path": "calendars/dames/shc-la-chaux-de-fonds-damen.ics",
      "games": 12,
-     "upcoming": 12,
-     "next": "2026-09-20T14:00:00"
+     "upcoming": 11,
+     "next": "2026-10-04T14:00:00"
     },
     {
      "name": "SHC Valais Femmes",
      "slug": "shc-valais-femmes",
      "path": "calendars/dames/shc-valais-femmes.ics",
      "games": 12,
-     "upcoming": 12,
-     "next": "2026-09-20T14:00:00"
+     "upcoming": 11,
+     "next": "2026-09-26T14:00:00"
     }
    ],
    "path": "calendars/dames/all-teams.ics"
@@ -599,16 +599,16 @@
      "slug": "shc-bonstetten-wettswil-1",
      "path": "calendars/coupe-suisse/shc-bonstetten-wettswil-1.ics",
      "games": 1,
-     "upcoming": 1,
-     "next": "2026-09-19T14:00:00"
+     "upcoming": 0,
+     "next": null
     },
     {
      "name": "SHC Bonstetten-Wettswil 2",
      "slug": "shc-bonstetten-wettswil-2",
      "path": "calendars/coupe-suisse/shc-bonstetten-wettswil-2.ics",
      "games": 1,
-     "upcoming": 1,
-     "next": "2026-09-20T14:00:00"
+     "upcoming": 0,
+     "next": null
     },
     {
      "name": "SHC Bulldozers Kernenried-Zauggenried 2",
@@ -679,8 +679,8 @@
      "slug": "shc-martigny-1",
      "path": "calendars/coupe-suisse/shc-martigny-1.ics",
      "games": 1,
-     "upcoming": 1,
-     "next": "2026-09-19T14:00:00"
+     "upcoming": 0,
+     "next": null
     },
     {
      "name": "SHC Martigny 2",
@@ -695,8 +695,8 @@
      "slug": "shc-seetal-admirals-1",
      "path": "calendars/coupe-suisse/shc-seetal-admirals-1.ics",
      "games": 1,
-     "upcoming": 1,
-     "next": "2026-09-20T14:00:00"
+     "upcoming": 0,
+     "next": null
     },
     {
      "name": "SHC Seetal Admirals 2",
@@ -896,24 +896,24 @@
      "slug": "shc-belpa-1107-u18",
      "path": "calendars/u18/shc-belpa-1107-u18.ics",
      "games": 18,
-     "upcoming": 18,
-     "next": "2026-09-18T20:00:00"
+     "upcoming": 17,
+     "next": "2026-10-04T10:30:00"
     },
     {
      "name": "SHC Bettlach U18",
      "slug": "shc-bettlach-u18",
      "path": "calendars/u18/shc-bettlach-u18.ics",
      "games": 18,
-     "upcoming": 17,
-     "next": "2026-09-18T20:00:00"
+     "upcoming": 16,
+     "next": "2026-09-27T10:30:00"
     },
     {
      "name": "SHC Bonstetten-Wettswil U18",
      "slug": "shc-bonstetten-wettswil-u18",
      "path": "calendars/u18/shc-bonstetten-wettswil-u18.ics",
      "games": 18,
-     "upcoming": 18,
-     "next": "2026-09-19T10:30:00"
+     "upcoming": 17,
+     "next": "2026-10-10T14:00:00"
     },
     {
      "name": "SHC Bulldozers Kernenried-Zauggenried U18",
@@ -928,8 +928,8 @@
      "slug": "shc-grenchen-limpachtal-u18",
      "path": "calendars/u18/shc-grenchen-limpachtal-u18.ics",
      "games": 18,
-     "upcoming": 18,
-     "next": "2026-09-19T10:30:00"
+     "upcoming": 17,
+     "next": "2026-09-26T14:00:00"
     },
     {
      "name": "SHC La Chaux-de-Fonds U18",
@@ -944,16 +944,16 @@
      "slug": "shc-martigny-u18",
      "path": "calendars/u18/shc-martigny-u18.ics",
      "games": 18,
-     "upcoming": 17,
-     "next": "2026-09-20T10:30:00"
+     "upcoming": 16,
+     "next": "2026-09-26T14:00:00"
     },
     {
      "name": "Sierre Lions U18",
      "slug": "sierre-lions-u18",
      "path": "calendars/u18/sierre-lions-u18.ics",
      "games": 18,
-     "upcoming": 18,
-     "next": "2026-09-20T10:30:00"
+     "upcoming": 17,
+     "next": "2026-09-27T10:30:00"
     }
    ],
    "path": "calendars/u18/all-teams.ics"
@@ -971,16 +971,16 @@
      "slug": "horgenberg-hammers-u15",
      "path": "calendars/u15/horgenberg-hammers-u15.ics",
      "games": 14,
-     "upcoming": 14,
-     "next": "2026-09-19T11:50:00"
+     "upcoming": 12,
+     "next": "2026-10-25T09:30:00"
     },
     {
      "name": "Oberwil Rebells U15",
      "slug": "oberwil-rebells-u15",
      "path": "calendars/u15/oberwil-rebells-u15.ics",
      "games": 14,
-     "upcoming": 14,
-     "next": "2026-09-19T09:30:00"
+     "upcoming": 11,
+     "next": "2026-11-15T09:30:00"
     },
     {
      "name": "SHC Aegerten-Brügg U15",
@@ -1003,16 +1003,16 @@
      "slug": "shc-bettlach-u15",
      "path": "calendars/u15/shc-bettlach-u15.ics",
      "games": 14,
-     "upcoming": 14,
-     "next": "2026-09-19T09:30:00"
+     "upcoming": 11,
+     "next": "2026-10-25T10:40:00"
     },
     {
      "name": "SHC Bonstetten-Wettswil U15",
      "slug": "shc-bonstetten-wettswil-u15",
      "path": "calendars/u15/shc-bonstetten-wettswil-u15.ics",
      "games": 14,
-     "upcoming": 14,
-     "next": "2026-09-19T14:10:00"
+     "upcoming": 12,
+     "next": "2026-10-25T11:50:00"
     },
     {
      "name": "SHC Bulldozers Kernenried-Zauggenried U15",
@@ -1035,16 +1035,16 @@
      "slug": "shc-grenchen-limpachtal-u15-gf-grun",
      "path": "calendars/u15/shc-grenchen-limpachtal-u15-gf-grun.ics",
      "games": 14,
-     "upcoming": 14,
-     "next": "2026-09-19T10:40:00"
+     "upcoming": 12,
+     "next": "2026-11-15T11:50:00"
     },
     {
      "name": "SHC Grenchen-Limpachtal U15 GF Weiss",
      "slug": "shc-grenchen-limpachtal-u15-gf-weiss",
      "path": "calendars/u15/shc-grenchen-limpachtal-u15-gf-weiss.ics",
      "games": 14,
-     "upcoming": 14,
-     "next": "2026-09-19T10:40:00"
+     "upcoming": 12,
+     "next": "2026-10-25T10:40:00"
     },
     {
      "name": "SHC La Chaux-de-Fonds U15",
@@ -1137,32 +1137,32 @@
      "slug": "horgenberg-hammers-u15",
      "path": "calendars/grand-terrain-u15/horgenberg-hammers-u15.ics",
      "games": 14,
-     "upcoming": 14,
-     "next": "2026-09-19T11:50:00"
+     "upcoming": 12,
+     "next": "2026-10-25T09:30:00"
     },
     {
      "name": "Oberwil Rebells U15",
      "slug": "oberwil-rebells-u15",
      "path": "calendars/grand-terrain-u15/oberwil-rebells-u15.ics",
      "games": 14,
-     "upcoming": 14,
-     "next": "2026-09-19T09:30:00"
+     "upcoming": 11,
+     "next": "2026-11-15T09:30:00"
     },
     {
      "name": "SHC Bettlach U15",
      "slug": "shc-bettlach-u15",
      "path": "calendars/grand-terrain-u15/shc-bettlach-u15.ics",
      "games": 14,
-     "upcoming": 14,
-     "next": "2026-09-19T09:30:00"
+     "upcoming": 11,
+     "next": "2026-10-25T10:40:00"
     },
     {
      "name": "SHC Bonstetten-Wettswil U15",
      "slug": "shc-bonstetten-wettswil-u15",
      "path": "calendars/grand-terrain-u15/shc-bonstetten-wettswil-u15.ics",
      "games": 14,
-     "upcoming": 14,
-     "next": "2026-09-19T14:10:00"
+     "upcoming": 12,
+     "next": "2026-10-25T11:50:00"
     },
     {
      "name": "SHC Bulldozers Kernenried-Zauggenried U15",
@@ -1177,16 +1177,16 @@
      "slug": "shc-grenchen-limpachtal-u15-gf-grun",
      "path": "calendars/grand-terrain-u15/shc-grenchen-limpachtal-u15-gf-grun.ics",
      "games": 14,
-     "upcoming": 14,
-     "next": "2026-09-19T10:40:00"
+     "upcoming": 12,
+     "next": "2026-11-15T11:50:00"
     },
     {
      "name": "SHC Grenchen-Limpachtal U15 GF Weiss",
      "slug": "shc-grenchen-limpachtal-u15-gf-weiss",
      "path": "calendars/grand-terrain-u15/shc-grenchen-limpachtal-u15-gf-weiss.ics",
      "games": 14,
-     "upcoming": 14,
-     "next": "2026-09-19T10:40:00"
+     "upcoming": 12,
+     "next": "2026-10-25T10:40:00"
     },
     {
      "name": "SV Gals U15",

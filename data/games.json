@@ -1512,15 +1512,15 @@
    "league_id": "296",
    "league_name": "U18",
    "season": "2026-2027",
-   "start": "2026-10-03T10:30:00",
+   "start": "2026-10-03T14:00:00",
    "home": "SHC La Chaux-de-Fonds U18",
    "guest": "Sierre Lions U18",
    "venue": "La Chaux-de-Fonds",
    "url": "https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11002",
    "status": "confirmed",
-   "sequence": 0,
+   "sequence": 1,
    "first_seen": "2026-09-02T08:54:15Z",
-   "last_modified": "2026-09-02T08:54:15Z"
+   "last_modified": "2026-09-21T09:55:47Z"
   },
   "292-10888": {
    "key": "292-10888",
@@ -5058,6 +5058,22 @@
    "first_seen": "2026-09-02T08:54:15Z",
    "last_modified": "2026-09-02T08:54:15Z"
   },
+  "295-11106": {
+   "key": "295-11106",
+   "game_id": "11106",
+   "league_id": "295",
+   "league_name": "Dames",
+   "season": "2026-2027",
+   "start": "2026-11-13T20:00:00",
+   "home": "SHC Belpa 1107 Damen",
+   "guest": "SHC La Chaux-de-Fonds Damen",
+   "venue": "Belp",
+   "url": "https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11106",
+   "status": "confirmed",
+   "sequence": 1,
+   "first_seen": "2026-09-02T08:54:15Z",
+   "last_modified": "2026-09-21T09:55:47Z"
+  },
   "294-11152": {
    "key": "294-11152",
    "game_id": "11152",
@@ -5163,12 +5179,12 @@
    "start": "2026-11-14T10:30:00",
    "home": "SHC Valais Femmes",
    "guest": "SHC Bulldozers Kernenried-Zauggenried Damen",
-   "venue": "Dorenaz",
+   "venue": "Sierre",
    "url": "https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11104",
    "status": "confirmed",
-   "sequence": 0,
+   "sequence": 1,
    "first_seen": "2026-09-02T08:54:15Z",
-   "last_modified": "2026-09-02T08:54:15Z"
+   "last_modified": "2026-09-21T09:55:47Z"
   },
   "296-11026": {
    "key": "296-11026",
@@ -6173,22 +6189,6 @@
    "guest": "SHC Bettlach - Seetal Damen",
    "venue": "Grenchen",
    "url": "https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11105",
-   "status": "confirmed",
-   "sequence": 0,
-   "first_seen": "2026-09-02T08:54:15Z",
-   "last_modified": "2026-09-02T08:54:15Z"
-  },
-  "295-11106": {
-   "key": "295-11106",
-   "game_id": "11106",
-   "league_id": "295",
-   "league_name": "Dames",
-   "season": "2026-2027",
-   "start": "2026-11-15T14:00:00",
-   "home": "SHC Belpa 1107 Damen",
-   "guest": "SHC La Chaux-de-Fonds Damen",
-   "venue": "Belp",
-   "url": "https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11106",
    "status": "confirmed",
    "sequence": 0,
    "first_seen": "2026-09-02T08:54:15Z",
@@ -7707,12 +7707,12 @@
    "start": "2026-11-28T14:00:00",
    "home": "SHC Valais Femmes",
    "guest": "SHC La Chaux-de-Fonds Damen",
-   "venue": "Dorenaz",
+   "venue": "Sierre",
    "url": "https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11110",
    "status": "confirmed",
-   "sequence": 0,
+   "sequence": 1,
    "first_seen": "2026-09-02T08:54:15Z",
-   "last_modified": "2026-09-02T08:54:15Z"
+   "last_modified": "2026-09-21T09:55:47Z"
   },
   "296-11039": {
    "key": "296-11039",
@@ -11570,6 +11570,22 @@
    "first_seen": "2026-09-02T08:54:15Z",
    "last_modified": "2026-09-02T08:54:15Z"
   },
+  "295-11113": {
+   "key": "295-11113",
+   "game_id": "11113",
+   "league_id": "295",
+   "league_name": "Dames",
+   "season": "2026-2027",
+   "start": "2027-01-31T14:00:00",
+   "home": "SHC Valais Femmes",
+   "guest": "SHC Belpa 1107 Damen",
+   "venue": "Sierre",
+   "url": "https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11113",
+   "status": "confirmed",
+   "sequence": 3,
+   "first_seen": "2026-09-02T08:54:15Z",
+   "last_modified": "2026-09-21T09:55:47Z"
+  },
   "294-11177": {
    "key": "294-11177",
    "game_id": "11177",
@@ -11841,22 +11857,6 @@
    "sequence": 0,
    "first_seen": "2026-09-02T08:54:15Z",
    "last_modified": "2026-09-02T08:54:15Z"
-  },
-  "295-11113": {
-   "key": "295-11113",
-   "game_id": "11113",
-   "league_id": "295",
-   "league_name": "Dames",
-   "season": "2026-2027",
-   "start": "2027-02-13T14:00:00",
-   "home": "SHC Valais Femmes",
-   "guest": "SHC Belpa 1107 Damen",
-   "venue": "Dorenaz",
-   "url": "https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11113",
-   "status": "confirmed",
-   "sequence": 2,
-   "first_seen": "2026-09-02T08:54:15Z",
-   "last_modified": "2026-09-14T09:51:10Z"
   },
   "295-11082": {
    "key": "295-11082",
@@ -17043,6 +17043,6 @@
    "last_modified": "2026-09-02T08:54:15Z"
   }
  },
- "scraped_at": "2026-09-14T09:51:10Z",
+ "scraped_at": "2026-09-21T09:55:47Z",
  "source": "https://www.swiss-streethockey.ch/fr/game-center/prochains-matchs/"
 }
