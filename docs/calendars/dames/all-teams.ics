@@ -83,25 +83,6 @@ LAST-MODIFIED:20260902T085415Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:11086-295@swiss-streethockey-ics
-DTSTAMP:20260902T085415Z
-DTSTART;TZID=Europe/Zurich:20260926T140000
-DTEND;TZID=Europe/Zurich:20260926T160000
-SUMMARY:SHC Bulldozers Kernenried-Zauggenried Damen vs SHC Valais Femmes
-LOCATION:Kernenried\, Suisse
-DESCRIPTION:Ligue: Dames\nDomicile: SHC Bulldozers Kernenried-Zauggenried D
- amen\nVisiteurs: SHC Valais Femmes\nLieu du match: Kernenried\nDétails: h
- ttps://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=1108
- 6
-URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
- 11086
-CATEGORIES:Streethockey\,Dames
-STATUS:CONFIRMED
-SEQUENCE:0
-LAST-MODIFIED:20260902T085415Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:11089-295@swiss-streethockey-ics
 DTSTAMP:20260902T085415Z
 DTSTART;TZID=Europe/Zurich:20261004T140000
@@ -435,9 +416,9 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:11105-295@swiss-streethockey-ics
-DTSTAMP:20260902T085415Z
-DTSTART;TZID=Europe/Zurich:20261115T140000
-DTEND;TZID=Europe/Zurich:20261115T160000
+DTSTAMP:20260928T105338Z
+DTSTART;TZID=Europe/Zurich:20261115T103000
+DTEND;TZID=Europe/Zurich:20261115T123000
 SUMMARY:SHC Grenchen-Limpachtal Damen vs SHC Bettlach - Seetal Damen
 LOCATION:Grenchen\, Suisse
 DESCRIPTION:Ligue: Dames\nDomicile: SHC Grenchen-Limpachtal Damen\nVisiteur
@@ -447,8 +428,8 @@ URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
  11105
 CATEGORIES:Streethockey\,Dames
 STATUS:CONFIRMED
-SEQUENCE:0
-LAST-MODIFIED:20260902T085415Z
+SEQUENCE:1
+LAST-MODIFIED:20260928T105338Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -508,9 +489,9 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:11110-295@swiss-streethockey-ics
-DTSTAMP:20260921T095547Z
-DTSTART;TZID=Europe/Zurich:20261128T140000
-DTEND;TZID=Europe/Zurich:20261128T160000
+DTSTAMP:20260928T105338Z
+DTSTART;TZID=Europe/Zurich:20261128T110000
+DTEND;TZID=Europe/Zurich:20261128T130000
 SUMMARY:SHC Valais Femmes vs SHC La Chaux-de-Fonds Damen
 LOCATION:Sierre\, Suisse
 DESCRIPTION:Ligue: Dames\nDomicile: SHC Valais Femmes\nVisiteurs: SHC La Ch
@@ -520,8 +501,8 @@ URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
  11110
 CATEGORIES:Streethockey\,Dames
 STATUS:CONFIRMED
-SEQUENCE:1
-LAST-MODIFIED:20260921T095547Z
+SEQUENCE:2
+LAST-MODIFIED:20260928T105338Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -558,6 +539,25 @@ CATEGORIES:Streethockey\,Dames
 STATUS:CONFIRMED
 SEQUENCE:0
 LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11086-295@swiss-streethockey-ics
+DTSTAMP:20260928T105338Z
+DTSTART;TZID=Europe/Zurich:20261219T140000
+DTEND;TZID=Europe/Zurich:20261219T160000
+SUMMARY:SHC Bulldozers Kernenried-Zauggenried Damen vs SHC Valais Femmes
+LOCATION:Kernenried\, Suisse
+DESCRIPTION:Ligue: Dames\nDomicile: SHC Bulldozers Kernenried-Zauggenried D
+ amen\nVisiteurs: SHC Valais Femmes\nLieu du match: Kernenried\nDétails: h
+ ttps://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=1108
+ 6
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11086
+CATEGORIES:Streethockey\,Dames
+STATUS:CONFIRMED
+SEQUENCE:1
+LAST-MODIFIED:20260928T105338Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT

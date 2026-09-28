@@ -226,26 +226,6 @@ LAST-MODIFIED:20260902T085415Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:11004-296@swiss-streethockey-ics
-DTSTAMP:20260902T085415Z
-DTSTART;TZID=Europe/Zurich:20261010T103000
-DTEND;TZID=Europe/Zurich:20261010T123000
-SUMMARY:SHC Bulldozers Kernenried-Zauggenried U18 vs SHC Grenchen-Limpachta
- l U18
-LOCATION:Kernenried\, Suisse
-DESCRIPTION:Ligue: U18\nDomicile: SHC Bulldozers Kernenried-Zauggenried U18
- \nVisiteurs: SHC Grenchen-Limpachtal U18\nLieu du match: Kernenried\nDéta
- ils: https://www.swiss-streethockey.ch/fr/game-center/game-details/?spieln
- r=11004
-URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
- 11004
-CATEGORIES:Streethockey\,U18
-STATUS:CONFIRMED
-SEQUENCE:0
-LAST-MODIFIED:20260902T085415Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:11005-296@swiss-streethockey-ics
 DTSTAMP:20260902T085415Z
 DTSTART;TZID=Europe/Zurich:20261010T140000
@@ -315,6 +295,26 @@ CATEGORIES:Streethockey\,U18
 STATUS:CONFIRMED
 SEQUENCE:0
 LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11004-296@swiss-streethockey-ics
+DTSTAMP:20260928T105338Z
+DTSTART;TZID=Europe/Zurich:20261018T103000
+DTEND;TZID=Europe/Zurich:20261018T123000
+SUMMARY:SHC Bulldozers Kernenried-Zauggenried U18 vs SHC Grenchen-Limpachta
+ l U18
+LOCATION:Kernenried\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: SHC Bulldozers Kernenried-Zauggenried U18
+ \nVisiteurs: SHC Grenchen-Limpachtal U18\nLieu du match: Kernenried\nDéta
+ ils: https://www.swiss-streethockey.ch/fr/game-center/game-details/?spieln
+ r=11004
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11004
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:1
+LAST-MODIFIED:20260928T105338Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -426,6 +426,24 @@ LAST-MODIFIED:20260902T085415Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:11016-296@swiss-streethockey-ics
+DTSTAMP:20260928T105338Z
+DTSTART;TZID=Europe/Zurich:20261031T103000
+DTEND;TZID=Europe/Zurich:20261031T123000
+SUMMARY:SHC Bettlach U18 vs SHC Martigny U18
+LOCATION:Bettlach\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: SHC Bettlach U18\nVisiteurs: SHC Martigny
+  U18\nLieu du match: Bettlach\nDétails: https://www.swiss-streethockey.ch
+ /fr/game-center/game-details/?spielnr=11016
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11016
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:1
+LAST-MODIFIED:20260928T105338Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:11018-296@swiss-streethockey-ics
 DTSTAMP:20260902T085415Z
 DTSTART;TZID=Europe/Zurich:20261031T103000
@@ -437,24 +455,6 @@ DESCRIPTION:Ligue: U18\nDomicile: SHC Grenchen-Limpachtal U18\nVisiteurs: S
  reethockey.ch/fr/game-center/game-details/?spielnr=11018
 URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
  11018
-CATEGORIES:Streethockey\,U18
-STATUS:CONFIRMED
-SEQUENCE:0
-LAST-MODIFIED:20260902T085415Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:11016-296@swiss-streethockey-ics
-DTSTAMP:20260902T085415Z
-DTSTART;TZID=Europe/Zurich:20261031T140000
-DTEND;TZID=Europe/Zurich:20261031T160000
-SUMMARY:SHC Bettlach U18 vs SHC Martigny U18
-LOCATION:Bettlach\, Suisse
-DESCRIPTION:Ligue: U18\nDomicile: SHC Bettlach U18\nVisiteurs: SHC Martigny
-  U18\nLieu du match: Bettlach\nDétails: https://www.swiss-streethockey.ch
- /fr/game-center/game-details/?spielnr=11016
-URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
- 11016
 CATEGORIES:Streethockey\,U18
 STATUS:CONFIRMED
 SEQUENCE:0

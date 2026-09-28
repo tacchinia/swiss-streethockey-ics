@@ -45,4 +45,22 @@ SEQUENCE:0
 LAST-MODIFIED:20260902T085415Z
 TRANSP:OPAQUE
 END:VEVENT
+BEGIN:VEVENT
+UID:11551-300@swiss-streethockey-ics
+DTSTAMP:20260928T105338Z
+DTSTART;TZID=Europe/Zurich:20261101T140000
+DTEND;TZID=Europe/Zurich:20261101T160000
+SUMMARY:SHC Belpa 1107 1 vs Sierre Lions 1
+LOCATION:Belp\, Suisse
+DESCRIPTION:Ligue: Coupe Suisse\nDomicile: SHC Belpa 1107 1\nVisiteurs: Sie
+ rre Lions 1\nLieu du match: Belp\nDétails: https://www.swiss-streethockey
+ .ch/fr/game-center/game-details/?spielnr=11551
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11551
+CATEGORIES:Streethockey\,Coupe Suisse
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260928T105338Z
+TRANSP:OPAQUE
+END:VEVENT
 END:VCALENDAR

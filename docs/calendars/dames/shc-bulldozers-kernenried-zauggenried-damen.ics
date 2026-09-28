@@ -29,25 +29,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:11086-295@swiss-streethockey-ics
-DTSTAMP:20260902T085415Z
-DTSTART;TZID=Europe/Zurich:20260926T140000
-DTEND;TZID=Europe/Zurich:20260926T160000
-SUMMARY:SHC Bulldozers Kernenried-Zauggenried Damen vs SHC Valais Femmes
-LOCATION:Kernenried\, Suisse
-DESCRIPTION:Ligue: Dames\nDomicile: SHC Bulldozers Kernenried-Zauggenried D
- amen\nVisiteurs: SHC Valais Femmes\nLieu du match: Kernenried\nDétails: h
- ttps://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=1108
- 6
-URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
- 11086
-CATEGORIES:Streethockey\,Dames
-STATUS:CONFIRMED
-SEQUENCE:0
-LAST-MODIFIED:20260902T085415Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:11092-295@swiss-streethockey-ics
 DTSTAMP:20260902T085415Z
 DTSTART;TZID=Europe/Zurich:20261011T140000
@@ -180,6 +161,25 @@ CATEGORIES:Streethockey\,Dames
 STATUS:CONFIRMED
 SEQUENCE:0
 LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11086-295@swiss-streethockey-ics
+DTSTAMP:20260928T105338Z
+DTSTART;TZID=Europe/Zurich:20261219T140000
+DTEND;TZID=Europe/Zurich:20261219T160000
+SUMMARY:SHC Bulldozers Kernenried-Zauggenried Damen vs SHC Valais Femmes
+LOCATION:Kernenried\, Suisse
+DESCRIPTION:Ligue: Dames\nDomicile: SHC Bulldozers Kernenried-Zauggenried D
+ amen\nVisiteurs: SHC Valais Femmes\nLieu du match: Kernenried\nDétails: h
+ ttps://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=1108
+ 6
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11086
+CATEGORIES:Streethockey\,Dames
+STATUS:CONFIRMED
+SEQUENCE:1
+LAST-MODIFIED:20260928T105338Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT

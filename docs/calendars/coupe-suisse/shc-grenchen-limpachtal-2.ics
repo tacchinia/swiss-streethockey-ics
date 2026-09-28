@@ -45,4 +45,22 @@ SEQUENCE:0
 LAST-MODIFIED:20260902T085415Z
 TRANSP:OPAQUE
 END:VEVENT
+BEGIN:VEVENT
+UID:11557-300@swiss-streethockey-ics
+DTSTAMP:20260928T105338Z
+DTSTART;TZID=Europe/Zurich:20261115T140000
+DTEND;TZID=Europe/Zurich:20261115T160000
+SUMMARY:SHC Grenchen-Limpachtal 2 vs Oberwil Rebells 1
+LOCATION:Grenchen\, Suisse
+DESCRIPTION:Ligue: Coupe Suisse\nDomicile: SHC Grenchen-Limpachtal 2\nVisit
+ eurs: Oberwil Rebells 1\nLieu du match: Grenchen\nDétails: https://www.sw
+ iss-streethockey.ch/fr/game-center/game-details/?spielnr=11557
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11557
+CATEGORIES:Streethockey\,Coupe Suisse
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260928T105338Z
+TRANSP:OPAQUE
+END:VEVENT
 END:VCALENDAR

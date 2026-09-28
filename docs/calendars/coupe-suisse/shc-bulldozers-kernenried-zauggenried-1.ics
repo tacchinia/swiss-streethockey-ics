@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//swiss-streethockey-ics//Game center calendars//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SHC Bulldozers Kernenried-Zauggenried 1 · Coupe Suisse
+X-WR-CALDESC:Matchs de SHC Bulldozers Kernenried-Zauggenried 1 en Coupe Sui
+ sse (source: https://www.swiss-streethockey.ch/fr/game-center/prochains-ma
+ tchs/).
+X-WR-TIMEZONE:Europe/Zurich
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+X-LIC-LOCATION:Europe/Zurich
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:11552-300@swiss-streethockey-ics
+DTSTAMP:20260928T105338Z
+DTSTART;TZID=Europe/Zurich:20261108T103000
+DTEND;TZID=Europe/Zurich:20261108T123000
+SUMMARY:Sierre Lions 2 vs SHC Bulldozers Kernenried-Zauggenried 1
+LOCATION:Sierre\, Suisse
+DESCRIPTION:Ligue: Coupe Suisse\nDomicile: Sierre Lions 2\nVisiteurs: SHC B
+ ulldozers Kernenried-Zauggenried 1\nLieu du match: Sierre\nDétails: https
+ ://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11552
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11552
+CATEGORIES:Streethockey\,Coupe Suisse
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260928T105338Z
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

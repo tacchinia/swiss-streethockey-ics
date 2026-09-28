@@ -45,4 +45,22 @@ SEQUENCE:0
 LAST-MODIFIED:20260902T085415Z
 TRANSP:OPAQUE
 END:VEVENT
+BEGIN:VEVENT
+UID:11550-300@swiss-streethockey-ics
+DTSTAMP:20260928T105338Z
+DTSTART;TZID=Europe/Zurich:20261023T200000
+DTEND;TZID=Europe/Zurich:20261023T220000
+SUMMARY:SV Gals 1 vs SHC Grenchen-Limpachtal 1
+LOCATION:Gals\, Suisse
+DESCRIPTION:Ligue: Coupe Suisse\nDomicile: SV Gals 1\nVisiteurs: SHC Grench
+ en-Limpachtal 1\nLieu du match: Gals\nDétails: https://www.swiss-streetho
+ ckey.ch/fr/game-center/game-details/?spielnr=11550
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11550
+CATEGORIES:Streethockey\,Coupe Suisse
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260928T105338Z
+TRANSP:OPAQUE
+END:VEVENT
 END:VCALENDAR

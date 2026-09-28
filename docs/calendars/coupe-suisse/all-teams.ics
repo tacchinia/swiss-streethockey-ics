@@ -208,4 +208,148 @@ SEQUENCE:0
 LAST-MODIFIED:20260902T085415Z
 TRANSP:OPAQUE
 END:VEVENT
+BEGIN:VEVENT
+UID:11550-300@swiss-streethockey-ics
+DTSTAMP:20260928T105338Z
+DTSTART;TZID=Europe/Zurich:20261023T200000
+DTEND;TZID=Europe/Zurich:20261023T220000
+SUMMARY:SV Gals 1 vs SHC Grenchen-Limpachtal 1
+LOCATION:Gals\, Suisse
+DESCRIPTION:Ligue: Coupe Suisse\nDomicile: SV Gals 1\nVisiteurs: SHC Grench
+ en-Limpachtal 1\nLieu du match: Gals\nDétails: https://www.swiss-streetho
+ ckey.ch/fr/game-center/game-details/?spielnr=11550
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11550
+CATEGORIES:Streethockey\,Coupe Suisse
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260928T105338Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11553-300@swiss-streethockey-ics
+DTSTAMP:20260928T105338Z
+DTSTART;TZID=Europe/Zurich:20261025T140000
+DTEND;TZID=Europe/Zurich:20261025T160000
+SUMMARY:SHC Seetal Admirals 1 vs Horgenberg Hammers 1
+LOCATION:Lenzburg\, Suisse
+DESCRIPTION:Ligue: Coupe Suisse\nDomicile: SHC Seetal Admirals 1\nVisiteurs
+ : Horgenberg Hammers 1\nLieu du match: Lenzburg\nDétails: https://www.swi
+ ss-streethockey.ch/fr/game-center/game-details/?spielnr=11553
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11553
+CATEGORIES:Streethockey\,Coupe Suisse
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260928T105338Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11554-300@swiss-streethockey-ics
+DTSTAMP:20260928T105338Z
+DTSTART;TZID=Europe/Zurich:20261031T140000
+DTEND;TZID=Europe/Zurich:20261031T160000
+SUMMARY:Oberwil Rebells 2 vs SHC La Chaux-de-Fonds 1
+LOCATION:Zug\, Suisse
+DESCRIPTION:Ligue: Coupe Suisse\nDomicile: Oberwil Rebells 2\nVisiteurs: SH
+ C La Chaux-de-Fonds 1\nLieu du match: Zug\nDétails: https://www.swiss-str
+ eethockey.ch/fr/game-center/game-details/?spielnr=11554
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11554
+CATEGORIES:Streethockey\,Coupe Suisse
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260928T105338Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11556-300@swiss-streethockey-ics
+DTSTAMP:20260928T105338Z
+DTSTART;TZID=Europe/Zurich:20261031T140000
+DTEND;TZID=Europe/Zurich:20261031T160000
+SUMMARY:SHC Bettlach 2 vs SHC Aegerten-Brügg 1
+LOCATION:Bettlach\, Suisse
+DESCRIPTION:Ligue: Coupe Suisse\nDomicile: SHC Bettlach 2\nVisiteurs: SHC A
+ egerten-Brügg 1\nLieu du match: Bettlach\nDétails: https://www.swiss-str
+ eethockey.ch/fr/game-center/game-details/?spielnr=11556
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11556
+CATEGORIES:Streethockey\,Coupe Suisse
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260928T105338Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11555-300@swiss-streethockey-ics
+DTSTAMP:20260928T105338Z
+DTSTART;TZID=Europe/Zurich:20261031T140000
+DTEND;TZID=Europe/Zurich:20261031T160000
+SUMMARY:SHC Martigny 1 vs SHC Bettlach 1
+LOCATION:Martigny\, Suisse
+DESCRIPTION:Ligue: Coupe Suisse\nDomicile: SHC Martigny 1\nVisiteurs: SHC B
+ ettlach 1\nLieu du match: Martigny\nDétails: https://www.swiss-streethock
+ ey.ch/fr/game-center/game-details/?spielnr=11555
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11555
+CATEGORIES:Streethockey\,Coupe Suisse
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260928T105338Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11551-300@swiss-streethockey-ics
+DTSTAMP:20260928T105338Z
+DTSTART;TZID=Europe/Zurich:20261101T140000
+DTEND;TZID=Europe/Zurich:20261101T160000
+SUMMARY:SHC Belpa 1107 1 vs Sierre Lions 1
+LOCATION:Belp\, Suisse
+DESCRIPTION:Ligue: Coupe Suisse\nDomicile: SHC Belpa 1107 1\nVisiteurs: Sie
+ rre Lions 1\nLieu du match: Belp\nDétails: https://www.swiss-streethockey
+ .ch/fr/game-center/game-details/?spielnr=11551
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11551
+CATEGORIES:Streethockey\,Coupe Suisse
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260928T105338Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11552-300@swiss-streethockey-ics
+DTSTAMP:20260928T105338Z
+DTSTART;TZID=Europe/Zurich:20261108T103000
+DTEND;TZID=Europe/Zurich:20261108T123000
+SUMMARY:Sierre Lions 2 vs SHC Bulldozers Kernenried-Zauggenried 1
+LOCATION:Sierre\, Suisse
+DESCRIPTION:Ligue: Coupe Suisse\nDomicile: Sierre Lions 2\nVisiteurs: SHC B
+ ulldozers Kernenried-Zauggenried 1\nLieu du match: Sierre\nDétails: https
+ ://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11552
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11552
+CATEGORIES:Streethockey\,Coupe Suisse
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260928T105338Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11557-300@swiss-streethockey-ics
+DTSTAMP:20260928T105338Z
+DTSTART;TZID=Europe/Zurich:20261115T140000
+DTEND;TZID=Europe/Zurich:20261115T160000
+SUMMARY:SHC Grenchen-Limpachtal 2 vs Oberwil Rebells 1
+LOCATION:Grenchen\, Suisse
+DESCRIPTION:Ligue: Coupe Suisse\nDomicile: SHC Grenchen-Limpachtal 2\nVisit
+ eurs: Oberwil Rebells 1\nLieu du match: Grenchen\nDétails: https://www.sw
+ iss-streethockey.ch/fr/game-center/game-details/?spielnr=11557
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11557
+CATEGORIES:Streethockey\,Coupe Suisse
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260928T105338Z
+TRANSP:OPAQUE
+END:VEVENT
 END:VCALENDAR

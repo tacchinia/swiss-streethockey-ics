@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//swiss-streethockey-ics//Game center calendars//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Oberwil Rebells 1 · Coupe Suisse
+X-WR-CALDESC:Matchs de Oberwil Rebells 1 en Coupe Suisse (source: https://w
+ ww.swiss-streethockey.ch/fr/game-center/prochains-matchs/).
+X-WR-TIMEZONE:Europe/Zurich
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+X-LIC-LOCATION:Europe/Zurich
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:11557-300@swiss-streethockey-ics
+DTSTAMP:20260928T105338Z
+DTSTART;TZID=Europe/Zurich:20261115T140000
+DTEND;TZID=Europe/Zurich:20261115T160000
+SUMMARY:SHC Grenchen-Limpachtal 2 vs Oberwil Rebells 1
+LOCATION:Grenchen\, Suisse
+DESCRIPTION:Ligue: Coupe Suisse\nDomicile: SHC Grenchen-Limpachtal 2\nVisit
+ eurs: Oberwil Rebells 1\nLieu du match: Grenchen\nDétails: https://www.sw
+ iss-streethockey.ch/fr/game-center/game-details/?spielnr=11557
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11557
+CATEGORIES:Streethockey\,Coupe Suisse
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260928T105338Z
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

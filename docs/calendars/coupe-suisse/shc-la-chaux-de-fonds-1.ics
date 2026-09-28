@@ -46,4 +46,22 @@ SEQUENCE:0
 LAST-MODIFIED:20260902T085415Z
 TRANSP:OPAQUE
 END:VEVENT
+BEGIN:VEVENT
+UID:11554-300@swiss-streethockey-ics
+DTSTAMP:20260928T105338Z
+DTSTART;TZID=Europe/Zurich:20261031T140000
+DTEND;TZID=Europe/Zurich:20261031T160000
+SUMMARY:Oberwil Rebells 2 vs SHC La Chaux-de-Fonds 1
+LOCATION:Zug\, Suisse
+DESCRIPTION:Ligue: Coupe Suisse\nDomicile: Oberwil Rebells 2\nVisiteurs: SH
+ C La Chaux-de-Fonds 1\nLieu du match: Zug\nDétails: https://www.swiss-str
+ eethockey.ch/fr/game-center/game-details/?spielnr=11554
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11554
+CATEGORIES:Streethockey\,Coupe Suisse
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260928T105338Z
+TRANSP:OPAQUE
+END:VEVENT
 END:VCALENDAR

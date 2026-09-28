@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//swiss-streethockey-ics//Game center calendars//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SHC Bettlach 2 · Coupe Suisse
+X-WR-CALDESC:Matchs de SHC Bettlach 2 en Coupe Suisse (source: https://www.
+ swiss-streethockey.ch/fr/game-center/prochains-matchs/).
+X-WR-TIMEZONE:Europe/Zurich
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+X-LIC-LOCATION:Europe/Zurich
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:11556-300@swiss-streethockey-ics
+DTSTAMP:20260928T105338Z
+DTSTART;TZID=Europe/Zurich:20261031T140000
+DTEND;TZID=Europe/Zurich:20261031T160000
+SUMMARY:SHC Bettlach 2 vs SHC Aegerten-Brügg 1
+LOCATION:Bettlach\, Suisse
+DESCRIPTION:Ligue: Coupe Suisse\nDomicile: SHC Bettlach 2\nVisiteurs: SHC A
+ egerten-Brügg 1\nLieu du match: Bettlach\nDétails: https://www.swiss-str
+ eethockey.ch/fr/game-center/game-details/?spielnr=11556
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11556
+CATEGORIES:Streethockey\,Coupe Suisse
+STATUS:CONFIRMED
+SEQUENCE:0
+LAST-MODIFIED:20260928T105338Z
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
