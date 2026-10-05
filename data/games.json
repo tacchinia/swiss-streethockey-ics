@@ -1714,22 +1714,6 @@
    "first_seen": "2026-09-02T08:54:15Z",
    "last_modified": "2026-09-02T08:54:15Z"
   },
-  "296-11005": {
-   "key": "296-11005",
-   "game_id": "11005",
-   "league_id": "296",
-   "league_name": "U18",
-   "season": "2026-2027",
-   "start": "2026-10-10T14:00:00",
-   "home": "SHC Bonstetten-Wettswil U18",
-   "guest": "Horgenberg Hammers U18",
-   "venue": "Wettswil",
-   "url": "https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11005",
-   "status": "confirmed",
-   "sequence": 0,
-   "first_seen": "2026-09-02T08:54:15Z",
-   "last_modified": "2026-09-02T08:54:15Z"
-  },
   "294-11215": {
    "key": "294-11215",
    "game_id": "11215",
@@ -2274,22 +2258,6 @@
    "first_seen": "2026-09-02T08:54:15Z",
    "last_modified": "2026-09-02T08:54:15Z"
   },
-  "296-11008": {
-   "key": "296-11008",
-   "game_id": "11008",
-   "league_id": "296",
-   "league_name": "U18",
-   "season": "2026-2027",
-   "start": "2026-10-17T14:00:00",
-   "home": "Horgenberg Hammers U18",
-   "guest": "SHC Bonstetten-Wettswil U18",
-   "venue": "Horgen",
-   "url": "https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11008",
-   "status": "confirmed",
-   "sequence": 0,
-   "first_seen": "2026-09-02T08:54:15Z",
-   "last_modified": "2026-09-02T08:54:15Z"
-  },
   "294-11142": {
    "key": "294-11142",
    "game_id": "11142",
@@ -2497,6 +2465,22 @@
    "sequence": 0,
    "first_seen": "2026-09-02T08:54:15Z",
    "last_modified": "2026-09-02T08:54:15Z"
+  },
+  "296-11008": {
+   "key": "296-11008",
+   "game_id": "11008",
+   "league_id": "296",
+   "league_name": "U18",
+   "season": "2026-2027",
+   "start": "2026-10-23T20:00:00",
+   "home": "Horgenberg Hammers U18",
+   "guest": "SHC Bonstetten-Wettswil U18",
+   "venue": "Horgen",
+   "url": "https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11008",
+   "status": "confirmed",
+   "sequence": 1,
+   "first_seen": "2026-09-02T08:54:15Z",
+   "last_modified": "2026-10-05T11:27:37Z"
   },
   "291-10969": {
    "key": "291-10969",
@@ -4082,22 +4066,6 @@
    "first_seen": "2026-09-02T08:54:15Z",
    "last_modified": "2026-09-02T08:54:15Z"
   },
-  "300-11554": {
-   "key": "300-11554",
-   "game_id": "11554",
-   "league_id": "300",
-   "league_name": "Coupe Suisse",
-   "season": "2026-2027",
-   "start": "2026-10-31T14:00:00",
-   "home": "Oberwil Rebells 2",
-   "guest": "SHC La Chaux-de-Fonds 1",
-   "venue": "Zug",
-   "url": "https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11554",
-   "status": "confirmed",
-   "sequence": 0,
-   "first_seen": "2026-09-28T10:53:38Z",
-   "last_modified": "2026-09-28T10:53:38Z"
-  },
   "300-11555": {
    "key": "300-11555",
    "game_id": "11555",
@@ -4225,6 +4193,22 @@
    "sequence": 0,
    "first_seen": "2026-09-02T08:54:15Z",
    "last_modified": "2026-09-02T08:54:15Z"
+  },
+  "300-11554": {
+   "key": "300-11554",
+   "game_id": "11554",
+   "league_id": "300",
+   "league_name": "Coupe Suisse",
+   "season": "2026-2027",
+   "start": "2026-10-31T17:00:00",
+   "home": "Oberwil Rebells 2",
+   "guest": "SHC La Chaux-de-Fonds 1",
+   "venue": "Zug",
+   "url": "https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11554",
+   "status": "confirmed",
+   "sequence": 1,
+   "first_seen": "2026-09-28T10:53:38Z",
+   "last_modified": "2026-10-05T11:27:37Z"
   },
   "294-11222": {
    "key": "294-11222",
@@ -11842,6 +11826,22 @@
    "first_seen": "2026-09-02T08:54:15Z",
    "last_modified": "2026-09-02T08:54:15Z"
   },
+  "296-11005": {
+   "key": "296-11005",
+   "game_id": "11005",
+   "league_id": "296",
+   "league_name": "U18",
+   "season": "2026-2027",
+   "start": "2027-02-05T20:00:00",
+   "home": "SHC Bonstetten-Wettswil U18",
+   "guest": "Horgenberg Hammers U18",
+   "venue": "Wettswil",
+   "url": "https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11005",
+   "status": "confirmed",
+   "sequence": 1,
+   "first_seen": "2026-09-02T08:54:15Z",
+   "last_modified": "2026-10-05T11:27:37Z"
+  },
   "291-10986": {
    "key": "291-10986",
    "game_id": "10986",
@@ -17171,6 +17171,6 @@
    "last_modified": "2026-09-02T08:54:15Z"
   }
  },
- "scraped_at": "2026-09-28T10:53:38Z",
+ "scraped_at": "2026-10-05T11:27:37Z",
  "source": "https://www.swiss-streethockey.ch/fr/game-center/prochains-matchs/"
 }

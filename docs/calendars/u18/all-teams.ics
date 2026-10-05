@@ -226,24 +226,6 @@ LAST-MODIFIED:20260902T085415Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:11005-296@swiss-streethockey-ics
-DTSTAMP:20260902T085415Z
-DTSTART;TZID=Europe/Zurich:20261010T140000
-DTEND;TZID=Europe/Zurich:20261010T160000
-SUMMARY:SHC Bonstetten-Wettswil U18 vs Horgenberg Hammers U18
-LOCATION:Wettswil\, Suisse
-DESCRIPTION:Ligue: U18\nDomicile: SHC Bonstetten-Wettswil U18\nVisiteurs: H
- orgenberg Hammers U18\nLieu du match: Wettswil\nDétails: https://www.swis
- s-streethockey.ch/fr/game-center/game-details/?spielnr=11005
-URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
- 11005
-CATEGORIES:Streethockey\,U18
-STATUS:CONFIRMED
-SEQUENCE:0
-LAST-MODIFIED:20260902T085415Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:11006-296@swiss-streethockey-ics
 DTSTAMP:20260902T085415Z
 DTSTART;TZID=Europe/Zurich:20261011T140000
@@ -280,24 +262,6 @@ LAST-MODIFIED:20260902T085415Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:11008-296@swiss-streethockey-ics
-DTSTAMP:20260902T085415Z
-DTSTART;TZID=Europe/Zurich:20261017T140000
-DTEND;TZID=Europe/Zurich:20261017T160000
-SUMMARY:Horgenberg Hammers U18 vs SHC Bonstetten-Wettswil U18
-LOCATION:Horgen\, Suisse
-DESCRIPTION:Ligue: U18\nDomicile: Horgenberg Hammers U18\nVisiteurs: SHC Bo
- nstetten-Wettswil U18\nLieu du match: Horgen\nDétails: https://www.swiss-
- streethockey.ch/fr/game-center/game-details/?spielnr=11008
-URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
- 11008
-CATEGORIES:Streethockey\,U18
-STATUS:CONFIRMED
-SEQUENCE:0
-LAST-MODIFIED:20260902T085415Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:11004-296@swiss-streethockey-ics
 DTSTAMP:20260928T105338Z
 DTSTART;TZID=Europe/Zurich:20261018T103000
@@ -315,6 +279,24 @@ CATEGORIES:Streethockey\,U18
 STATUS:CONFIRMED
 SEQUENCE:1
 LAST-MODIFIED:20260928T105338Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11008-296@swiss-streethockey-ics
+DTSTAMP:20261005T112737Z
+DTSTART;TZID=Europe/Zurich:20261023T200000
+DTEND;TZID=Europe/Zurich:20261023T220000
+SUMMARY:Horgenberg Hammers U18 vs SHC Bonstetten-Wettswil U18
+LOCATION:Horgen\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: Horgenberg Hammers U18\nVisiteurs: SHC Bo
+ nstetten-Wettswil U18\nLieu du match: Horgen\nDétails: https://www.swiss-
+ streethockey.ch/fr/game-center/game-details/?spielnr=11008
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11008
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:1
+LAST-MODIFIED:20261005T112737Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -1456,6 +1438,24 @@ CATEGORIES:Streethockey\,U18
 STATUS:CONFIRMED
 SEQUENCE:0
 LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11005-296@swiss-streethockey-ics
+DTSTAMP:20261005T112737Z
+DTSTART;TZID=Europe/Zurich:20270205T200000
+DTEND;TZID=Europe/Zurich:20270205T220000
+SUMMARY:SHC Bonstetten-Wettswil U18 vs Horgenberg Hammers U18
+LOCATION:Wettswil\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: SHC Bonstetten-Wettswil U18\nVisiteurs: H
+ orgenberg Hammers U18\nLieu du match: Wettswil\nDétails: https://www.swis
+ s-streethockey.ch/fr/game-center/game-details/?spielnr=11005
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11005
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:1
+LAST-MODIFIED:20261005T112737Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
