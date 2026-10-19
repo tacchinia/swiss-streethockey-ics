@@ -318,6 +318,24 @@ LAST-MODIFIED:20260902T085415Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:11011-296@swiss-streethockey-ics
+DTSTAMP:20261019T095323Z
+DTSTART;TZID=Europe/Zurich:20261025T100000
+DTEND;TZID=Europe/Zurich:20261025T120000
+SUMMARY:SHC Bettlach U18 vs SHC Bonstetten-Wettswil U18
+LOCATION:Bettlach\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: SHC Bettlach U18\nVisiteurs: SHC Bonstett
+ en-Wettswil U18\nLieu du match: Bettlach\nDétails: https://www.swiss-stre
+ ethockey.ch/fr/game-center/game-details/?spielnr=11011
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11011
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:1
+LAST-MODIFIED:20261019T095323Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:11012-296@swiss-streethockey-ics
 DTSTAMP:20260902T085415Z
 DTSTART;TZID=Europe/Zurich:20261025T103000
@@ -347,24 +365,6 @@ DESCRIPTION:Ligue: U18\nDomicile: SHC La Chaux-de-Fonds U18\nVisiteurs: SHC
  s://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11010
 URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
  11010
-CATEGORIES:Streethockey\,U18
-STATUS:CONFIRMED
-SEQUENCE:0
-LAST-MODIFIED:20260902T085415Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:11011-296@swiss-streethockey-ics
-DTSTAMP:20260902T085415Z
-DTSTART;TZID=Europe/Zurich:20261025T140000
-DTEND;TZID=Europe/Zurich:20261025T160000
-SUMMARY:SHC Bettlach U18 vs SHC Bonstetten-Wettswil U18
-LOCATION:Bettlach\, Suisse
-DESCRIPTION:Ligue: U18\nDomicile: SHC Bettlach U18\nVisiteurs: SHC Bonstett
- en-Wettswil U18\nLieu du match: Bettlach\nDétails: https://www.swiss-stre
- ethockey.ch/fr/game-center/game-details/?spielnr=11011
-URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
- 11011
 CATEGORIES:Streethockey\,U18
 STATUS:CONFIRMED
 SEQUENCE:0

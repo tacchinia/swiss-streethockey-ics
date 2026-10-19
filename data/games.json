@@ -2930,6 +2930,22 @@
    "first_seen": "2026-09-02T08:54:15Z",
    "last_modified": "2026-09-02T08:54:15Z"
   },
+  "296-11011": {
+   "key": "296-11011",
+   "game_id": "11011",
+   "league_id": "296",
+   "league_name": "U18",
+   "season": "2026-2027",
+   "start": "2026-10-25T10:00:00",
+   "home": "SHC Bettlach U18",
+   "guest": "SHC Bonstetten-Wettswil U18",
+   "venue": "Bettlach",
+   "url": "https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11011",
+   "status": "confirmed",
+   "sequence": 1,
+   "first_seen": "2026-09-02T08:54:15Z",
+   "last_modified": "2026-10-19T09:53:23Z"
+  },
   "299-11510": {
    "key": "299-11510",
    "game_id": "11510",
@@ -3661,22 +3677,6 @@
    "guest": "Horgenberg Hammers Damen",
    "venue": "Kernenried",
    "url": "https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11097",
-   "status": "confirmed",
-   "sequence": 0,
-   "first_seen": "2026-09-02T08:54:15Z",
-   "last_modified": "2026-09-02T08:54:15Z"
-  },
-  "296-11011": {
-   "key": "296-11011",
-   "game_id": "11011",
-   "league_id": "296",
-   "league_name": "U18",
-   "season": "2026-2027",
-   "start": "2026-10-25T14:00:00",
-   "home": "SHC Bettlach U18",
-   "guest": "SHC Bonstetten-Wettswil U18",
-   "venue": "Bettlach",
-   "url": "https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11011",
    "status": "confirmed",
    "sequence": 0,
    "first_seen": "2026-09-02T08:54:15Z",
@@ -17171,6 +17171,6 @@
    "last_modified": "2026-09-02T08:54:15Z"
   }
  },
- "scraped_at": "2026-10-05T11:27:37Z",
+ "scraped_at": "2026-10-19T09:53:23Z",
  "source": "https://www.swiss-streethockey.ch/fr/game-center/prochains-matchs/"
 }
