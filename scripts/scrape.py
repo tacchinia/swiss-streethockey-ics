@@ -111,7 +111,13 @@ def load_dataset() -> dict:
     return {"schema": 1, "leagues": [], "games": {}}
 
 
-def merge(dataset: dict, leagues: list[dict], scraped: list[dict], now: str) -> dict:
+def merge(
+    dataset: dict,
+    leagues: list[dict],
+    scraped: list[dict],
+    now: str,
+    today: dt.datetime | None = None,
+) -> dict:
     stored = dataset.get("games", {})
     counts = {"new": 0, "updated": 0, "unchanged": 0, "cancelled": 0}
 
@@ -144,7 +150,7 @@ def merge(dataset: dict, leagues: list[dict], scraped: list[dict], now: str) -> 
 
     scraped_keys = {game["key"] for game in scraped}
     scraped_leagues = {league["id"] for league in leagues}
-    horizon = dt.datetime.now()
+    horizon = today or dt.datetime.now()
     for key, game in stored.items():
         if key in scraped_keys or game["league_id"] not in scraped_leagues:
             continue
