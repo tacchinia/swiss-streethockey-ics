@@ -21,6 +21,8 @@ from scrape import (  # noqa: E402
 FIXTURE = (ROOT / "tests" / "fixtures" / "game_center.html").read_text(
     encoding="utf-8"
 )
+# Pinned so the fixture games stay "upcoming" however old the fixture gets.
+TODAY = dt.datetime(2026, 9, 1)
 LEAGUE = {"id": "298", "name": "U12", "url": "https://example.invalid/?league=298"}
 
 
@@ -96,14 +98,20 @@ class MergeTest(unittest.TestCase):
     def test_a_future_game_that_disappears_is_cancelled(self):
         dropped = self.scraped[0]
         counts = merge(
-            self.dataset, self.leagues, self.scraped[1:], "2026-09-04T00:00:00Z"
+            self.dataset,
+            self.leagues,
+            self.scraped[1:],
+            "2026-09-04T00:00:00Z",
+            TODAY,
         )
         self.assertEqual(counts["cancelled"], 1)
         self.assertEqual(self.dataset["games"][dropped["key"]]["status"], "cancelled")
 
     def test_a_cancelled_game_that_returns_is_confirmed_again(self):
-        merge(self.dataset, self.leagues, self.scraped[1:], "2026-09-04T00:00:00Z")
-        merge(self.dataset, self.leagues, self.scraped, "2026-09-05T00:00:00Z")
+        merge(
+            self.dataset, self.leagues, self.scraped[1:], "2026-09-04T00:00:00Z", TODAY
+        )
+        merge(self.dataset, self.leagues, self.scraped, "2026-09-05T00:00:00Z", TODAY)
         game = self.dataset["games"][self.scraped[0]["key"]]
         self.assertEqual(game["status"], "confirmed")
         self.assertEqual(game["sequence"], 2)
