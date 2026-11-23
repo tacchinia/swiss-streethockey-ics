@@ -136,24 +136,6 @@ LAST-MODIFIED:20260902T085415Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:11024-296@swiss-streethockey-ics
-DTSTAMP:20260902T085415Z
-DTSTART;TZID=Europe/Zurich:20261108T140000
-DTEND;TZID=Europe/Zurich:20261108T160000
-SUMMARY:SHC Martigny U18 vs Horgenberg Hammers U18
-LOCATION:Martigny\, Suisse
-DESCRIPTION:Ligue: U18\nDomicile: SHC Martigny U18\nVisiteurs: Horgenberg H
- ammers U18\nLieu du match: Martigny\nDétails: https://www.swiss-streethoc
- key.ch/fr/game-center/game-details/?spielnr=11024
-URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
- 11024
-CATEGORIES:Streethockey\,U18
-STATUS:CONFIRMED
-SEQUENCE:0
-LAST-MODIFIED:20260902T085415Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:11030-296@swiss-streethockey-ics
 DTSTAMP:20260902T085415Z
 DTSTART;TZID=Europe/Zurich:20261115T103000
@@ -259,6 +241,24 @@ CATEGORIES:Streethockey\,U18
 STATUS:CONFIRMED
 SEQUENCE:0
 LAST-MODIFIED:20260902T085415Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11024-296@swiss-streethockey-ics
+DTSTAMP:20261123T144935Z
+DTSTART;TZID=Europe/Zurich:20261213T140000
+DTEND;TZID=Europe/Zurich:20261213T160000
+SUMMARY:SHC Martigny U18 vs Horgenberg Hammers U18
+LOCATION:Martigny\, Suisse
+DESCRIPTION:Ligue: U18\nDomicile: SHC Martigny U18\nVisiteurs: Horgenberg H
+ ammers U18\nLieu du match: Martigny\nDétails: https://www.swiss-streethoc
+ key.ch/fr/game-center/game-details/?spielnr=11024
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11024
+CATEGORIES:Streethockey\,U18
+STATUS:CONFIRMED
+SEQUENCE:1
+LAST-MODIFIED:20261123T144935Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT

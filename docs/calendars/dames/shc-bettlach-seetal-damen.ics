@@ -139,24 +139,6 @@ LAST-MODIFIED:20260902T085415Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:11102-295@swiss-streethockey-ics
-DTSTAMP:20260902T085415Z
-DTSTART;TZID=Europe/Zurich:20261108T140000
-DTEND;TZID=Europe/Zurich:20261108T160000
-SUMMARY:SHC Bettlach - Seetal Damen vs SHC La Chaux-de-Fonds Damen
-LOCATION:Bettlach\, Suisse
-DESCRIPTION:Ligue: Dames\nDomicile: SHC Bettlach - Seetal Damen\nVisiteurs:
-  SHC La Chaux-de-Fonds Damen\nLieu du match: Bettlach\nDétails: https://w
- ww.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11102
-URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
- 11102
-CATEGORIES:Streethockey\,Dames
-STATUS:CONFIRMED
-SEQUENCE:0
-LAST-MODIFIED:20260902T085415Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:11105-295@swiss-streethockey-ics
 DTSTAMP:20260928T105338Z
 DTSTART;TZID=Europe/Zurich:20261115T103000
@@ -172,6 +154,24 @@ CATEGORIES:Streethockey\,Dames
 STATUS:CONFIRMED
 SEQUENCE:1
 LAST-MODIFIED:20260928T105338Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11102-295@swiss-streethockey-ics
+DTSTAMP:20261123T144935Z
+DTSTART;TZID=Europe/Zurich:20270213T140000
+DTEND;TZID=Europe/Zurich:20270213T160000
+SUMMARY:SHC Bettlach - Seetal Damen vs SHC La Chaux-de-Fonds Damen
+LOCATION:Bettlach\, Suisse
+DESCRIPTION:Ligue: Dames\nDomicile: SHC Bettlach - Seetal Damen\nVisiteurs:
+  SHC La Chaux-de-Fonds Damen\nLieu du match: Bettlach\nDétails: https://w
+ ww.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11102
+URL:https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=
+ 11102
+CATEGORIES:Streethockey\,Dames
+STATUS:CONFIRMED
+SEQUENCE:1
+LAST-MODIFIED:20261123T144935Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT

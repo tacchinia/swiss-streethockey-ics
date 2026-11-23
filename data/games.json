@@ -37,24 +37,9 @@
    "url": "https://www.swiss-streethockey.ch/fr/game-center/prochains-matchs/?league=300"
   },
   {
-   "id": "2104",
-   "name": "Team Est",
-   "url": "https://www.swiss-streethockey.ch/fr/game-center/prochains-matchs/?league=2104"
-  },
-  {
-   "id": "2105",
-   "name": "Team Ouest",
-   "url": "https://www.swiss-streethockey.ch/fr/game-center/prochains-matchs/?league=2105"
-  },
-  {
    "id": "296",
    "name": "U18",
    "url": "https://www.swiss-streethockey.ch/fr/game-center/prochains-matchs/?league=296"
-  },
-  {
-   "id": "297",
-   "name": "U15",
-   "url": "https://www.swiss-streethockey.ch/fr/game-center/prochains-matchs/?league=297"
   },
   {
    "id": "2108",
@@ -67,11 +52,6 @@
    "url": "https://www.swiss-streethockey.ch/fr/game-center/prochains-matchs/?league=2109"
   },
   {
-   "id": "298",
-   "name": "U12",
-   "url": "https://www.swiss-streethockey.ch/fr/game-center/prochains-matchs/?league=298"
-  },
-  {
    "id": "2110",
    "name": "Grand terrain U12",
    "url": "https://www.swiss-streethockey.ch/fr/game-center/prochains-matchs/?league=2110"
@@ -80,11 +60,6 @@
    "id": "2111",
    "name": "Terrain réduit U12",
    "url": "https://www.swiss-streethockey.ch/fr/game-center/prochains-matchs/?league=2111"
-  },
-  {
-   "id": "299",
-   "name": "U9",
-   "url": "https://www.swiss-streethockey.ch/fr/game-center/prochains-matchs/?league=299"
   },
   {
    "id": "2112",
@@ -4546,22 +4521,6 @@
    "first_seen": "2026-09-02T08:54:15Z",
    "last_modified": "2026-09-02T08:54:15Z"
   },
-  "300-11551": {
-   "key": "300-11551",
-   "game_id": "11551",
-   "league_id": "300",
-   "league_name": "Coupe Suisse",
-   "season": "2026-2027",
-   "start": "2026-11-01T14:00:00",
-   "home": "SHC Belpa 1107 1",
-   "guest": "Sierre Lions 1",
-   "venue": "Belp",
-   "url": "https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11551",
-   "status": "confirmed",
-   "sequence": 0,
-   "first_seen": "2026-09-28T10:53:38Z",
-   "last_modified": "2026-09-28T10:53:38Z"
-  },
   "294-11226": {
    "key": "294-11226",
    "game_id": "11226",
@@ -5074,22 +5033,6 @@
    "first_seen": "2026-09-02T08:54:15Z",
    "last_modified": "2026-09-02T08:54:15Z"
   },
-  "295-11102": {
-   "key": "295-11102",
-   "game_id": "11102",
-   "league_id": "295",
-   "league_name": "Dames",
-   "season": "2026-2027",
-   "start": "2026-11-08T14:00:00",
-   "home": "SHC Bettlach - Seetal Damen",
-   "guest": "SHC La Chaux-de-Fonds Damen",
-   "venue": "Bettlach",
-   "url": "https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11102",
-   "status": "confirmed",
-   "sequence": 0,
-   "first_seen": "2026-09-02T08:54:15Z",
-   "last_modified": "2026-09-02T08:54:15Z"
-  },
   "295-11103": {
    "key": "295-11103",
    "game_id": "11103",
@@ -5101,22 +5044,6 @@
    "guest": "SHC Belpa 1107 Damen",
    "venue": "Horgen",
    "url": "https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11103",
-   "status": "confirmed",
-   "sequence": 0,
-   "first_seen": "2026-09-02T08:54:15Z",
-   "last_modified": "2026-09-02T08:54:15Z"
-  },
-  "296-11024": {
-   "key": "296-11024",
-   "game_id": "11024",
-   "league_id": "296",
-   "league_name": "U18",
-   "season": "2026-2027",
-   "start": "2026-11-08T14:00:00",
-   "home": "SHC Martigny U18",
-   "guest": "Horgenberg Hammers U18",
-   "venue": "Martigny",
-   "url": "https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11024",
    "status": "confirmed",
    "sequence": 0,
    "first_seen": "2026-09-02T08:54:15Z",
@@ -9938,6 +9865,22 @@
    "first_seen": "2026-09-02T08:54:15Z",
    "last_modified": "2026-09-02T08:54:15Z"
   },
+  "296-11024": {
+   "key": "296-11024",
+   "game_id": "11024",
+   "league_id": "296",
+   "league_name": "U18",
+   "season": "2026-2027",
+   "start": "2026-12-13T14:00:00",
+   "home": "SHC Martigny U18",
+   "guest": "Horgenberg Hammers U18",
+   "venue": "Martigny",
+   "url": "https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11024",
+   "status": "confirmed",
+   "sequence": 1,
+   "first_seen": "2026-09-02T08:54:15Z",
+   "last_modified": "2026-11-23T14:49:35Z"
+  },
   "291-10982": {
    "key": "291-10982",
    "game_id": "10982",
@@ -10120,15 +10063,31 @@
    "league_id": "296",
    "league_name": "U18",
    "season": "2026-2027",
-   "start": "2027-01-16T14:00:00",
+   "start": "2027-01-16T10:30:00",
    "home": "SHC Belpa 1107 U18",
    "guest": "Sierre Lions U18",
    "venue": "Belp",
    "url": "https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11054",
    "status": "confirmed",
-   "sequence": 0,
+   "sequence": 1,
    "first_seen": "2026-09-02T08:54:15Z",
-   "last_modified": "2026-09-02T08:54:15Z"
+   "last_modified": "2026-11-23T14:49:35Z"
+  },
+  "300-11551": {
+   "key": "300-11551",
+   "game_id": "11551",
+   "league_id": "300",
+   "league_name": "Coupe Suisse",
+   "season": "2026-2027",
+   "start": "2027-01-16T14:00:00",
+   "home": "SHC Belpa 1107 1",
+   "guest": "Sierre Lions 1",
+   "venue": "Belp",
+   "url": "https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11551",
+   "status": "confirmed",
+   "sequence": 1,
+   "first_seen": "2026-09-28T10:53:38Z",
+   "last_modified": "2026-11-23T14:49:35Z"
   },
   "296-11055": {
    "key": "296-11055",
@@ -11985,6 +11944,22 @@
    "sequence": 0,
    "first_seen": "2026-09-02T08:54:15Z",
    "last_modified": "2026-09-02T08:54:15Z"
+  },
+  "295-11102": {
+   "key": "295-11102",
+   "game_id": "11102",
+   "league_id": "295",
+   "league_name": "Dames",
+   "season": "2026-2027",
+   "start": "2027-02-13T14:00:00",
+   "home": "SHC Bettlach - Seetal Damen",
+   "guest": "SHC La Chaux-de-Fonds Damen",
+   "venue": "Bettlach",
+   "url": "https://www.swiss-streethockey.ch/fr/game-center/game-details/?spielnr=11102",
+   "status": "confirmed",
+   "sequence": 1,
+   "first_seen": "2026-09-02T08:54:15Z",
+   "last_modified": "2026-11-23T14:49:35Z"
   },
   "295-11082": {
    "key": "295-11082",
@@ -17171,6 +17146,6 @@
    "last_modified": "2026-09-02T08:54:15Z"
   }
  },
- "scraped_at": "2026-10-19T09:53:23Z",
+ "scraped_at": "2026-11-23T14:49:35Z",
  "source": "https://www.swiss-streethockey.ch/fr/game-center/prochains-matchs/"
 }
